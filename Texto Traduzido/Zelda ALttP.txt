@@ -1,0 +1,4016 @@
+[-]
+[00]
+!------------------------------!
+[0600007A][00][3]      
+[2]    [>]
+[05000068][-]
+[00]
+!------------------------------!
+[0600007A][00][2]      
+[3]    [>]
+[05000068][-]
+[00]
+!------------------------------!
+[0600007A][00]
+Salvar E Continuar
+[2]Salvar E Sair
+[3]Continuar Sem Salvar
+[-]
+[00]
+!------------------------------!
+[0600007A][00]
+0- [0600006C][00]. 1- [0600006C][01]
+[2]2- [0600006C][02]. 3- [0600006C][03]
+[-]
+[00]
+!------------------------------!
+Você não pode entrar comigo.
+[-]
+[00]
+!------------------------------!
+[0600007A][00]
+[05000074][>]
+[2]  
+[3]  
+[05000071][-]
+[00]
+!------------------------------!
+[0600007A][00]
+[05000074]  
+[2][>]
+[3]  
+[05000071][-]
+[00]
+!------------------------------!
+[0600007A][00]
+[05000074]  
+[2]  
+[3][>]
+[05000071][-]
+[00]
+!------------------------------!
+[0600007A][00]
+[05000074][>]
+[2]  
+[05000072][-]
+[00]
+!------------------------------!
+[0600007A][00]
+[05000074]  
+[2][>]
+[05000072][-]
+[00]
+!------------------------------!
+[0600007A][00][3]    
+[2]  [>]
+[0500006F][-]
+[00]
+!------------------------------!
+[0600007A][00][2]    
+[3]  [>]
+[0500006F][-]
+[00]
+!------------------------------!
+[H], vou sair por alguns
+[2]instantes, mas não precisa se
+[3]preocupar.
+[S][E]Voltarei pela manhã, mas não
+[E]quero que você saia de casa
+[E]até lá...
+[S][E]Volte a dormir...[W][03]
+[E]e aguarde o meu retorno.
+[-]
+[00]
+!------------------------------!
+Unnh... Essa voz... [H]?
+[2]É você? Pensei que tivesse
+[3]dito para esperar em casa...
+[S][E]Acho que não há como escapar
+[E]do destino...[S] Tome, pegue a
+[E]minha espada e escudo.
+[S][E]Vou lhe ensinar uma das
+[E]técnicas secretas utilizada
+[E]pelos Cavaleiros de Hyrule...
+[S][E]Segure o Botão [B] para
+[E]concentrar energia na sua
+[E]lâmina. 
+[S][E]Solte-o para liberar a energia.
+[S][E][H]... você precisa 
+[E]resgatar a Princesa Zelda.
+[E]É o destino do nosso povo.
+[S][E]Mas não seja vítima...
+[E]do destino... [H]...
+[W][03]
+[E]Sempre me lembrarei dos...
+[W][03]
+[S][E]nossos momentos... juntos...
+[-]
+[00]
+!------------------------------!
+Ei! O que você está fazendo
+[2]aqui fora em uma noite
+[3]tempestuosa como esta?
+[S][E]Uma criança como você deveria
+[E]ir para casa e dormir!
+[S][E]Mas, se planeja continuar aqui
+[E]fora, continue conversando
+[E]conosco, os soldados.
+[S][E]Iremos lhe ensinar uma coisa
+[E]ou outra!
+[-][00]
+!------------------------------!
+Se você se perder andando por
+[2]aí, pressione o Botão [L] para 
+[3]verificar o seu mapa.
+[S][E]Mas talvez você já soubesse
+[E]disso...
+[-]
+[00]
+!------------------------------!
+Você parece forte para uma
+[2]criança. Quanto você consegue
+[3]levantar?
+[S][E]Sabia que você pode pressionar
+[E]o Botão [R] para levantar algo
+[E]que esteja tocando, não é?
+[S][E]Aposto que não sabia disso!
+[E]...Ou sabia?
+[-]
+[00]
+!------------------------------!
+Aposto que você adoraria ter 
+[2]uma espada como a minha!
+[S][3]Basta pressionar o Botão [B]
+[E]para usá-la. 
+[E]Mas você já deve saber disso...
+[-]
+[00]
+!------------------------------!
+Uau! Seu mapa tem uma marca
+[2]que fica piscando! Deve ser
+[3]para onde você deve ir!
+[S][E]Oh... Acho que isso era
+[E]bastante óbvio.
+[-]
+[00]
+!------------------------------!
+Sabe o que é bem legal?
+[2]Ficar na frente de um baú e
+[3]pressionar o Botão [R].
+[S][E]Ca-ching! O baú abre!
+[S][E]Mas acho que isso já era
+[E]esperado, não?
+[-]
+[00]
+!------------------------------!
+Não quero parecer convencido, 
+[2]mas nós, soldados, somos
+[3]muito espertos, não acha?
+[S][E]Mas você não devia ficar aqui
+[E]fora em uma noite tempestuosa
+[E]como essa só para ouvir o que
+[S][E]temos a dizer...
+[-]
+[00]
+!------------------------------!
+Para começar, você deveria se 
+[2]encontrar com o ancião da vila
+[3]e obter a Espada Mestra.
+[-]
+[00]
+!------------------------------!
+Princesa Zelda? Você está a
+[2]salvo! E foi você quem a
+[3]resgatou, [H]?
+[-]
+[00]
+!------------------------------!
+Sinto que uma poderosa força
+[2]maligna guia as ações do
+[3]feiticeiro e amplifica seu poder
+[S][E]mágico. A única arma poderosa
+[E]o suficiente para derrotá-lo
+[E]é a lendária Espada Mestra...
+[S][E]Mas a única pessoa que talvez
+[E]saiba onde essa lâmina possa 
+[E]estar é o ancião da vila. 
+[S][E]Dizem que ele é descendente
+[E]de um dos sete sábios.
+[S][E]Talvez ele possa ajudá-lo.
+[W][03][E]Marcarei a casa dele no [06000079]-mapa.
+[E]Mas devemos ser cautelosos!
+[S][E]Estou certo de que os guardas
+[E]estão procurando você e a
+[E]princesa nesse momento!
+[S][E]... ... ...  Vocês não podem
+[E]ficar juntos, então esconderei
+[E]a Princesa Zelda aqui.
+[S][E]Não tema! Procure o ancião!
+[E]... ... ...
+[S][E]Você entendeu?
+[E]    [>] Sim
+[E]       Nem um pouco
+[05000068][-]
+[00]
+!------------------------------!
+Se você derrotar o feiticeiro,
+[2]talvez os soldados do castelo
+[3]retornem ao normal.
+[S][E]Vá, procure os Pingentes!
+[-]
+[00]
+!------------------------------!
+Leve os três Pingentes para
+[2]o Bosque Perdido. A Espada
+[3]Mestra o aguarda lá!
+[-]
+[00]
+!------------------------------!
+[H]!  Se tivesse chegado
+[2]um pouco antes... um grupo de
+[3]soldados esteve aqui...
+[S][E]Eles levaram a Princesa Zelda.
+[S][E]Temo que ela tenha sido levada
+[E]para o aposento mais alto da
+[E]torre.
+[S][E]Eles pretendem sacrificá-la!
+[E]Você deve encontrá-la antes  
+[E]que o feiticeiro faça algo.
+[S][E]Por favor, [H]...
+[E]Você é nossa única
+[E]esperança...
+[-]
+[00]
+!------------------------------!
+Obrigada, [H]. 
+[2]Pressenti que você estava
+[3]chegando perto.
+[-]
+[00]
+!------------------------------!
+Graças a [H], eu escapei 
+[2]do calabouço! Quando eu era
+[3]prisioneira lá, o feiticeiro
+[S][E]disse, "Quando eu terminar
+[E]com você, a última, o selo
+[E]dos sábios será quebrado."
+[S][E]... ... ...
+[S][E][H], não deixe a terra de
+[E]Hyrule cair nas garras do
+[E]feiticeiro.
+[S][E]Se ele quebrar o selo dos sete
+[E]sábios, uma onda de poder
+[E]maligno será liberada.
+[S][E]Se isso acontecer, o povo
+[E]de Hyrule nunca terá paz
+[E]novamente...
+[S][E]Antes que isso aconteça...
+[W][03]
+[E]Antes que seja tarde... 
+[S][E]Por favor! Derrote o feiticeiro
+[E]antes que ele destrua toda
+[E]Hyrule! Você pode... você deve!
+[-]
+[00]
+!------------------------------!
+Seja cuidadoso, [H]!
+[2]Que você consiga executar
+[3]esta tarefa até o fim a salvo!
+[-]
+[00]
+!------------------------------!
+[0600006B][02][0600007A][03]Ajude-me...
+[W][01][3]Por favor, ajude-me...
+[S][E]Sou prisioneira no calabouço
+[E]do castelo.
+[E]Meu nome é Zelda...
+[S][E]O feiticeiro, Agahnim, fez
+[E]algo terrível com as outras
+[E]garotas...
+[S][E]Agora, só resta eu...
+[S][E]Agahnim tomou controle do
+[E]castelo e está tentando abrir
+[E]o selo dos sábios.
+[S][E]Estou no calabouço do castelo.
+[S][E]Por favor, ajude-me...
+[-]
+[00]
+!------------------------------!
+[0600006B][02][0600007A][03]
+Ajude-me...
+[2]Estou no calabouço do castelo.
+[S][E]Em algum lugar fora do castelo,
+[E]você encontrará uma passagem
+[E]secreta para os jardins do 
+[S][E]palácio.
+[-]
+[00]
+!------------------------------!
+Há uma passagem secreta na
+[2]sala do trono que leva ao
+[3]Santuário. Tenho certeza que
+[S][E]o senhor de lá nos ajudará.
+[E]Devemos nos apressar.
+[-]
+[00]
+!------------------------------!
+Aquela prateleira decorativa
+[2]deve sair do lugar.
+[3]Você tem uma lamparina?
+[S][E]Está um breu lá dentro e você
+[E]não conseguirá enxergar sem
+[E]uma.
+[S][E]Se estiver pronto, vamos lá!
+[E]Temos que empurrá-la pela
+[E]esquerda. Vamos! Ajude-me!
+[-]
+[00]
+!------------------------------!
+Você tem que puxar a alavanca
+[2]para abrir a porta. Segure o
+[3]Botão [R] e pressione [0501014E] no
+[S][E]Direcional +.
+[-]
+[00]
+!------------------------------!
+Ótimo! Temos que ir rápido,
+[2]antes que o feiticeiro perceba.
+[3]Conheço uma passagem secreta,
+[S][E]mas temos que ir ao primeiro 
+[E]andar para isso. Vamos lá!
+[-]
+[00]
+!------------------------------!
+[H], ouça bem. Todos os 
+[2]soldados no castelo estão sob
+[3]encanto da magia do feiticeiro.
+[S][E]E eu temo que algo ainda pior
+[E]tenha acontecido com meu pai...
+[E]O feiticeiro é um ser desumano!
+[S][E]Seu poder é imenso...
+[E]... ... ...
+[S][E]Você entendeu?
+[E]    [>] Sim
+[E]       Nem um pouco
+[05000068][-]
+[00]
+!------------------------------!
+Você deveria seguir as marcas
+[2]que o ancião fez em seu mapa 
+[3]quando estiver explorando.
+[S][E]Se não souber o que fazer em
+[E]seguida, você também pode
+[E]visitar um vidente.
+[-]
+[00]
+!------------------------------!
+[H], você é incrível! 
+[2]Como imaginei, o poder do Herói
+[3]existe dentro de você!
+[S][E]Agora, você deve obter a
+[E]Espada Mestra.
+[S][E]Tenho certeza de que você
+[E]pode derrotar o feiticeiro
+[E]maligno!
+[-]
+[00]
+!------------------------------!
+[0600006B][02][0600007A][03]
+[H]! Socorro! Os soldados
+[2]estão vindo para o Santuário!
+[3]AIEEEEEEE!
+[S][E]... ... ...
+[-]
+[00]
+!------------------------------!
+Depois de passarmos por estes
+[2]esgotos, nós estaremos bem 
+[3]próximos do Santuário!
+[S][E]Sejamos cautelosos!
+[-]
+[00]
+!------------------------------!
+O Santuário fica logo depois
+[2]desta porta. Puxe aquela
+[3]alavanca.
+[-]
+[00]
+!------------------------------!
+Quem? Ah, é você, [H]!
+[2]O que uma idosa como eu
+[3]poderia fazer por um jovem?
+[S][E]Quem? O sábio? Oh... Ninguém
+[E]mais o viu desde que o
+[E]feiticeiro começou a raptar
+[S][E]suas vítimas...
+[E]... ... ...
+[S][E]O quê? Espada Mestra? Bem,
+[E]não me recordo dos detalhes
+[E]com precisão, mas...
+[-]
+[00]
+!------------------------------!
+Há muito tempo, um povo
+[2]próspero, conhecido como
+[3]Hylianos, habitava esta
+[S][E]terra...
+[S][E]Lendas contam de relíquias com
+[E]poderes místicos que existem
+[E]desde a era Hyliana...
+[S][E]A Espada Mestra, uma poderosa
+[E]lâmina forjada para opor-se
+[E]aos de coração maligno, é uma
+[S][E]delas...
+[S][E]Dizem que ela repousa no
+[E]interior da floresta.
+[E]... ... ...
+[S][E]Você entendeu a lenda?
+[E]    [>] Sim
+[E]       Nem um pouco
+[05000068][-]
+[00]
+!------------------------------!
+De qualquer forma, procure
+[2]pelo sábio. Deve ter alguém na
+[3]vila que sabe onde ele está.
+[S][E][H]...
+[E]Tenha cuidado...
+[-]
+[00]
+!------------------------------!
+Ohhh, [H]. Que mudança!
+[2]Você está incrível... 
+[3]Por favor, salve a vila das
+[S][E]garras de Agahnim!
+[-]
+[00]
+!------------------------------!
+Ei! É [H], o foragido!
+[2]Ele está aqui! Guardas!
+[3]Alguém! Rápido!
+[-]
+[00]
+!------------------------------!
+Hmmm... Então você finalmente
+[2]tem os três Pingentes... Ótimo!
+[3]Siga para o Bosque Perdido.
+[S][E]Se você for o verdadeiro Herói,
+[E]a espada o escolherá para
+[E]empunhá-la...
+[-]
+[00]
+!------------------------------!
+Sou apenas um velho.
+[2]Nem consigo segurar o punho
+[3]da minha espada...
+[S][E]Só me resta confiar em você.
+[-]
+[00]
+!------------------------------!
+De fato, eu sou Sahasrahla,
+[2]o ancião da vila e um
+[3]descendente dos sete Sábios.
+[S][E]... ... Oh, mesmo?
+[E]Estou surpreso que alguém tão
+[E]jovem esteja procurando pela
+[S][E]espada que bane o mal,
+[E][H]. Não é qualquer um
+[E]que pode usar aquela lâmina.
+[S][E]Reza a lenda que apenas o Herói
+[E]que possuir os três Pingentes
+[E]poderá manuseá-la.
+[S][E]... ... ...
+[S][E]Deseja mesmo encontrá-la?
+[E]    [>] Uh, sim...
+[E]       É claro!
+[05000068][-]
+[00]
+!------------------------------!
+Ótimo! Como seu primeiro teste,
+[2]poderia recuperar o Pingente da
+[3]Coragem do Templo do Leste?
+[S][E]Se conseguir trazê-lo, eu
+[E]compartilharei mais da minha
+[E]sabedoria com você.
+[06000079]-[S][E]Agora, siga para o templo!
+[-]
+[00]
+!------------------------------!
+Outros descendentes dos sete
+[2]sábios também se escondem dos
+[3]seguidores do feiticeiro.
+[S][E]Você deveria procurá-los.
+[-]
+[00]
+!------------------------------!
+[0600006B][02][0600007A][03]
+[H], sou eu, Sahasrahla.
+[2]Estou me comunicando com
+[3]você através do vazio por
+[S][E]telepatia... O lugar onde você
+[E]está agora já foi a Terra
+[E]Dourada, mas o poder maligno
+[S][E]a transformou no Mundo da
+[E]Trevas. O feiticeiro quebrou o
+[E]selo dos sábios e transformou
+[S][E]o portão do Castelo de Hyrule
+[E]em um portal que liga aquele
+[E]mundo a esse. Para salvar
+[S][E]esta metade do mundo, o Mundo
+[E]da Luz, você deve recuperar
+[E]o Poder Dourado. Você também
+[S][E]deve resgatar as sete
+[E]donzelas que Agahnim mandou
+[E]para o Mundo das Trevas. 
+[S][E]Como descendentes dos sete 
+[E]sábios, elas possuem poderes 
+[E]que certamente o auxiliarão.
+[S][E]As donzelas estão presas em
+[E]calabouços escondidos, cheios
+[E]de criaturas malignas e
+[S][E]armadilhas. O Templo das
+[E]Sombras será o seu primeiro
+[E]objetivo nesse mundo!
+[06000079]-[S][E][H], você é nossa
+[E]última esperança. Por favor, 
+[E]realize os desejos deste velho.
+[S][E]Eu imploro!
+[-]
+[00]
+!------------------------------!
+[0600006B][02][0600007A][03]
+Mas eu entendo a sua
+[2]desorientação. Antes de
+[3]prosseguir, encontre a Pérola
+[S][E]Lunar na Montanha da Morte.
+[E]Ela o protegerá da magia do
+[E]Mundo das Trevas, mantendo
+[S][E]assim sua forma heroica.
+[-]
+[00]
+!------------------------------!
+Um item que o ajudará está
+[2]escondido na caverna no lado
+[3]leste do Lago Hylia.
+[S][E]Vá em busca dele!
+[-]
+[00]
+!------------------------------!
+Então você obteve o Pingente
+[2]da Coragem! Deixe-me contar
+[3]um pouco mais sobre a lenda...
+[S][E]Gerações passadas, uma ordem
+[E]de cavaleiros protegia a
+[E]realeza Hyliana. 
+[S][E]Esses cavaleiros também
+[E]eram guardiões do Pingente
+[E]da Coragem.
+[S][E]Dizem que sempre que um
+[E]desastre acometer a família
+[E]real, um Herói da linhagem
+[S][E]dos Cavaleiros de Hyrule
+[E]surgirá...
+[E]Infelizmente, a maior parte
+[S][E]deles foi destruída na guerra
+[E]contra o mal que ocorreu
+[E]quando os sete sábios criaram
+[S][E]seu selo, então se pensava que
+[E]um Herói nunca surgiria
+[E]novamente...
+[S][E]Mas veja! Acredito que você é
+[E]nosso herói, [H]! Encontre
+[E]os Pingentes restantes.
+[S][E]E leve isto com você.
+[E]É uma herança das famílias
+[E]dos sábios.
+[S][E]Quero que fique com isto.
+[-]
+[00]
+!------------------------------!
+Você está correto, jovem!
+[2]Sou Sahasrahla, o ancião da
+[3]vila e um dos descendentes dos
+[S][E]sete sábios.
+[E]... ... ... O quê?
+[E][H], estou surpreso que
+[S][E]alguém tão jovem como você
+[E]esteja em busca da espada que
+[E]bane o mal. 
+[S][E]Não é qualquer um que pode
+[E]manusear aquela espada.
+[S][E]De acordo com a lenda passada
+[E]pelos Hylianos, apenas o Herói
+[E]que venceu três grandes males
+[S][E]e recuperou os três Pingentes
+[E]pode empunhar a espada... 
+[S][E]Vejo que adquiriu o Pingente
+[E]da Coragem. Contarei a lenda
+[E]por trás dele.
+[S][E]Gerações passadas, uma ordem
+[E]de cavaleiros protegia a
+[E]realeza Hyliana. 
+[S][E]Esses cavaleiros também
+[E]eram guardiões do Pingente
+[E]da Coragem.
+[S][E]Dizem que sempre que um
+[E]desastre acometer a família
+[E]real, um Herói da linhagem
+[S][E]dos Cavaleiros de Hyrule
+[E]surgirá...
+[E]Infelizmente, a maior parte
+[S][E]deles foi destruída na guerra
+[E]contra o mal que ocorreu
+[E]quando os sete sábios criaram
+[S][E]seu selo, então se pensava que
+[E]um Herói nunca surgiria
+[E]novamente...
+[S][E]Mas veja! Acredito que você é
+[E]nosso herói, [H]! Encontre
+[E]os Pingentes restantes.
+[S][E]E leve isto com você.
+[E]É uma herança das famílias
+[E]dos sábios.
+[S][E]Quero que fique com isto.
+[-]
+[00]
+!------------------------------!
+Darei 100 Rúpias para quem
+[2]encontrar os descendentes
+[3]dos sete sábios.           O REI
+[-]
+[00]
+!------------------------------!
+ [0501004A]  PROCURA-SE!
+[2]Por raptar a Princesa Zelda.
+[3]Chame um soldado se avistá-lo!
+[-][00]
+!------------------------------!
+     PERIGO!
+[2]Não entre na Montanha da
+[3]Morte sem a permissão do Rei!
+[-][00]
+!------------------------------!
+Por aqui para o
+[2]     Bosque Perdido
+[-]
+[00]
+!------------------------------!
+           PERIGO!        
+[2]Cuidado com águas profundas
+[3]e Zoras!
+[-]
+[00]
+!------------------------------!
+Bem-vindo à Loja de Magia.
+[2]A Cachoeira dos Desejos está
+[3]logo à frente.
+[-]
+[00]
+!------------------------------!
+Esta caverna o levará de volta
+[2]ao caminho para a Vila Kakariko.
+[-][00]
+!------------------------------!
+Loja à frente no Lago Hylia [0501014E]
+[-][00]
+!------------------------------!
+Por aqui [0501014F]
+[2]         Vila Kakariko
+[-]
+[00]
+!------------------------------!
+Por aqui [0501014F]
+[2]         Deserto dos Mistérios
+[-]
+[00]
+!------------------------------!
+Por aqui [0501014D] [05010150]
+[2]         Loja de Magia
+[3]         Cachoeira dos Desejos
+[-]
+[00]
+!------------------------------!
+Por aqui [05010150] Templo do Leste
+[3]Por aqui [0501014F] Castelo de Hyrule
+[-]
+[00]
+!------------------------------!
+
+[2]        Lago Hylia
+[-]
+[00]
+!------------------------------!
+Sou apenas um cara normal.
+[2]Não fale comigo.
+[3]NÃO remova esta placa.
+[-]
+[00]
+!------------------------------!
+
+[2]A Casa dos Lenhadores
+[3]A. B. e Q. Matutos
+[-]
+[00]
+!------------------------------!
+Por aqui [0501014E]
+[2]       Vila Kakariko
+[-]
+[00]
+!------------------------------!
+Dobra dobra, perigo e obra,
+[2]fogo queima e no caldeirão nada
+[3]sobra. Fazendo cogumelada eu
+[S][E]estou...
+[-]
+[00]
+!------------------------------!
+Heh, heh... Obrigada, meu
+[2]jovem... Passe aqui depois para
+[3]uma surpresa especial...
+[S][E]Heh, heh...
+[-]
+[00]
+!------------------------------!
+Mmmmm...
+[2]O cheiro de fruta podre...
+[3]Se me der esse Cogumelo,
+[S][E]poderei terminar a minha
+[E]mistura...
+[E]Heh, heh...
+[-]
+[00]
+!------------------------------!
+Se você quer comprar a poção,
+[2]deveria ter trazido um frasco
+[3]para guardá-la...  He, he, he!
+[-]
+[00]
+!------------------------------!
+Vermelho é o remédio de vida.
+[2]Verde é o remédio de magia.
+[3]Azul renova ambos, vida e
+[S][E]magia.
+[E]Tome, experimente um pouco da
+[E]Poção Vermelha... He, he!
+[-]
+[00]
+!------------------------------!
+Você não possui um frasco?
+[2]Você não pode comprar poções
+[3]sem frascos. He, he, he!
+[-]
+[00]
+!------------------------------!
+Não, não, não... Não posso
+[2]colocar nada em um frasco
+[3]cheio. He, he, he!
+[-]
+[00]
+!------------------------------!
+Você obteve a Lamparina!
+[2]Pressione o Botão [A] para
+[3]acender tochas e navegar
+[S][E]na escuridão.
+[-]
+[00]
+!------------------------------!
+Você obteve o Bumerangue!
+[2]Pressione SELECT para
+[3]selecioná-lo e faça um teste!
+[-]
+[00]
+!------------------------------!
+Você encontrou o Arco!
+[2]Agora você pode atirar flechas!
+[3](Pelo menos enquanto elas não
+[S][E]acabarem...)
+[-]
+[00]
+!------------------------------!
+Você pegou emprestada uma Pá!
+[2]Você pode cavar em vários
+[3]locais. Sacou?
+[-]
+[00]
+!------------------------------!
+Esta é a Capa Mágica!
+[2]Você fica invisível quando a
+[3]usa, mas cuidado com o seu
+[S][E]Medidor de Magia!
+[-]
+[00]
+!------------------------------!
+Este é o Pó Magico!
+[2]Tente jogá-lo nos inimigos
+[3]e em várias outras coisas!
+[-]
+[00]
+!------------------------------!
+Você comprou as Nadadeiras de
+[2]Zora! Com elas, você poderá
+[3]nadar até em águas profundas!
+[-]
+[00]
+!------------------------------!
+Você obteve as Luvas do
+[2]Poder!
+[3]Você consegue sentir força em
+[S][E]suas mãos! Agora, você pode
+[E]levantar e carregar pedras!
+[-]
+[00]
+!------------------------------!
+Você conquistou o Pingente
+[2]da Coragem!
+[3]Leve-o para Sahasrahla!
+[S][E]Faltam dois Pingentes!
+[-]
+[00]
+!------------------------------!
+Você conquistou o Pingente
+[2]do Poder!
+[3]Seu objetivo de encontrar
+[S][E]todos os três Pingentes está
+[E]próximo! Vá em busca do último!
+[-]
+[00]
+!------------------------------!
+Você conquistou o Pingente
+[2]da Sabedoria!
+[3]Você coletou todos os três
+[S][E]Pingentes! Vá para o Bosque
+[E]Perdido e pegue a Espada
+[E]Mestra!
+[-]
+[00]
+!------------------------------!
+Este Cogumelo tem o cheiro de
+[2]uma doce fruta estragada[85]
+[3]Você pode dá-lo a qualquer
+[S][E]um que o queira (Selecione-o
+[E]e pressione o Botão [A]).
+[-]
+[00]
+!------------------------------!
+Você achou o Livro de Mudora!
+[2]Você pode usá-lo para ler o
+[3]antigo idioma do povo Hyliano!
+[-]
+[00]
+!------------------------------!
+Você encontrou a Pérola Lunar!
+[2]Ela o protegerá dos efeitos 
+[3]transformadores do Poder
+[S][E]Dourado.
+[-]
+[00]
+!------------------------------!
+Você encontrou a Bússola!
+[2]Agora, você pode localizar o
+[3]covil do mestre maligno do
+[S][E]calabouço!
+[-]
+[00]
+!------------------------------!
+Você obteve o Mapa!
+[2]Use-o para ver sua atual
+[3]posição e o restante do 
+[S][E]calabouço (Pressione o
+[E]Botão [L]).
+[-]
+[00]
+!------------------------------!
+Você encontrou o Cetro
+[2]de Gelo! 
+[3]Sua magia gélida rasga o ar!
+[S][E]Mas cuidado com o seu Medidor
+[E]de Magia!
+[-]
+[00]
+!------------------------------!
+Você encontrou o Cetro
+[2]de Fogo!
+[3]Este cetro controla o fogo!
+[S][E]Mas cuidado com o seu Medidor
+[E]de Magia!
+[-]
+[00]
+!------------------------------!
+Este é o Medalhão Éter!
+[2]Sua magia controla o vento
+[3]polar e a atmosfera superior!
+[S][E]Cuidado com o seu Medidor de
+[E]Magia!
+[-]
+[00]
+!------------------------------!
+Este é o Medalhão Bombos!
+[2]Sua magia faz o chão explodir
+[3]com força!
+[S][E]Cuidado com o seu Medidor de
+[E]Magia!
+[-]
+[00]
+!------------------------------!
+Este é o Medalhão Tremor!
+[2]Sua magia faz o chão tremer
+[3]e derrota os inimigos próximos!
+[S][E]Cuidado com o seu Medidor de
+[E]Magia!
+[-]
+[00]
+!------------------------------!
+Você obteve o Martelo Mágico!
+[2]Agora, você pode afundar
+[3]estacas de madeira no chão!
+[S][E]Você também pode usá-lo para
+[E]acertar outras coisas!
+[-]
+[00]
+!------------------------------!
+Oh! Esta é a Ocarina!
+[2]Sua música certamente possui
+[3]algum poder misterioso!
+[-]
+[00]
+!------------------------------!
+Você obteve o Cajado de
+[2]Somaria!
+[3]Se usá-lo estrategicamente,
+[S][E]este cajado misterioso será
+[E]de tremenda ajuda!
+[-]
+[00]
+!------------------------------!
+BOING! Este é o Gancho!
+[2]Ele estica! E contrai!
+[3]E... BOING! Ele pode agarrar
+[S][E]várias coisas!
+[-]
+[00]
+!------------------------------!
+Você obteve algumas bombas!
+[2]Você pode pegar e jogar uma
+[3]bomba que você soltou!
+[S][E](Pressione o Botão [R]!)
+[-]
+[00]
+!------------------------------!
+Este é um Frasco Mágico!
+[2]Você pode guardar um item
+[3]dentro e então usá-lo depois!
+[-]
+[00]
+!------------------------------!
+Você obteve a Chave Grande!
+[2]Esta é a chave mestra do
+[3]calabouço. Ela pode abrir várias
+[S][E]fechaduras que as pequenas
+[E]não conseguem.
+[-]
+[00]
+!------------------------------!
+Você obteve as Luvas
+[2]Poderosas! 
+[3]Agora, você consegue erguer
+[S][E]as pesadas pedras que antes
+[E]eram impossíveis de se mover.
+[-]
+[00]
+!------------------------------!
+Ele lhe deu o Espelho Mágico!
+[2]Este espelho é azul, límpido e
+[3]bonito...
+[S][E]Você sente como se ele fosse
+[E]sugá-lo para outro mundo...
+[-]
+[00]
+!------------------------------!
+É ela! A Espada Mestra!
+[2]... ... ...
+[3]Não, não é ela... Que pena.
+[-]
+[00]
+!------------------------------!
+[0600006B][02][0600007A][03]
+A voz de Sahasrahla ecoa
+[2]através do vazio...
+[3]...  ...  ...
+[S][E][H], você fez bem em
+[E]obter a lâmina que bane o mal,
+[E]a Espada Mestra...
+[S][E]O poder que nela reside agora
+[E]é seu para brandir!
+[S][E]Com ela, você deve ser capaz
+[E]de enfrentar a magia do
+[E]maléfico feiticeiro Agahnim.
+[S][E]O destino desta terra está
+[E]em suas mãos.
+[S][E]Por favor, [H]...
+[-]
+[00]
+!------------------------------!
+Heh, heh, heh... Obrigada!
+[2]Este é o Remédio da Vida.
+[3]Use-o para recuperar sua
+[S][E]força vital.
+[-]
+[00]
+!------------------------------!
+Heh, heh, heh... Obrigada!
+[2]Este é o Remédio de Magia.
+[3]Você pode recarregar sua
+[S][E]energia mística com ele.
+[-]
+[00]
+!------------------------------!
+Heh, heh, heh... Obrigada!
+[2]Este é o Remédio da Vida
+[3]e Magia!
+[S][E]Você pode restaurar ambos!
+[-]
+[00]
+!------------------------------!
+Você pegou emprestada a Rede
+[2]de Insetos! Deve haver outras
+[3]coisas que você também possa
+[S][E]capturar com ela.
+[-]
+[00]
+!------------------------------!
+Você encontrou a Túnica Azul!
+[2]Esta vestimenta reduz o dano
+[3]que você recebe dos inimigos!!
+[-]
+[00]
+!------------------------------!
+Você encontrou a Túnica 
+[2]Vermelha!
+[3]Ela lhe dá uma proteção ainda
+[S][E]maior do que a da Túnica Azul!
+[-]
+[00]
+!------------------------------!
+Maravilha! Sua espada está mais
+[2]forte! Você consegue sentir o 
+[3]poder absoluto fluindo pelo seu
+[S][E]corpo!
+[-]
+[00]
+!------------------------------!
+Você encontrou o Escudo
+[2]Espelhado!
+[3]Você agora pode bloquear
+[S][E]projéteis que seu antigo
+[E]escudo não conseguia bloquear!
+[-]
+[00]
+!------------------------------!
+Você obteve o Cajado de Byrna!
+[2]Se você balançá-lo, um círculo
+[3]de luz irá protegê-lo!
+[-]
+[00]
+!------------------------------!
+Hã? Está trancado! 
+[2]Se você tivesse a Chave
+[3]Grande, talvez conseguisse
+[S][E]abri-la!
+[-]
+[00]
+!------------------------------!
+Você está com pouca magia!
+[2]Você não pode usar esse item
+[3]no momento.
+[S][E]Cuidado com o seu Medidor de
+[E]Magia!
+[-]
+[00]
+!------------------------------!
+Ele lhe deu as Botas de Pégaso!
+[2]Agora, você pode executar
+[3]um devastador ataque de
+[S][E]investida! (Segure o Botão [R]
+[E]por alguns segundos.)
+[-]
+[00]
+!------------------------------!
+Uau! Não vejo uma pessoa
+[2]normal há alguns séculos!
+[3]Permita-me conversar um
+[S][E]pouco com você.
+[-]
+[00]
+!------------------------------!
+Você sabe algo sobre a estátua
+[2]de Gárgula que tem na vila?
+[3]Alguns dizem que podem ouvir 
+[S][E]um pedido de socorro de uma
+[E]garota vindo de debaixo da
+[E]estátua.
+[S][E]Que história estranha, não...?
+[-]
+[00]
+!------------------------------!
+Surpreendentemente, a
+[2]Triforça criou este mundo para
+[3]realizar o desejo de Ganon.
+[S][E]O que Ganon deseja, você
+[E]pergunta? Ele deseja governar
+[E]todo o cosmos! 
+[S][E]Você não acha que isso seria
+[E]possível com o poder da
+[E]Triforça?
+[-]
+[00]
+!------------------------------!
+Eu costumava viver no Bosque
+[2]Perdido até que, um dia, entrei
+[3]em um portal mágico...
+[S][E]O poder do Mundo das Trevas
+[E]logo me transformou nessa
+[E]árvore...
+[S][E]Acho que as duas florestas
+[E]estão conectadas...
+[-]
+[00]
+!------------------------------!
+Ouvi dizer que usar bombas é
+[2]a melhor forma de derrotar os
+[3]gigantes de um olho só.
+[S][E]Isso é tudo o que sei!
+[-]
+[00]
+!------------------------------!
+Pare de me irritar! E olhe por
+[2]onde anda enquanto corre por
+[3]aí!
+[-]
+[00]
+!------------------------------!
+Você obteve o Pingente do
+[2]Poder!
+[3]Você agora possui todos os
+[S][E]três Pingentes! Agora, vá
+[E]ao Bosque Perdido para a
+[E]Espada Mestra!
+[-]
+[00]
+!------------------------------!
+Você obteve o Pingente da
+[2]Sabedoria!
+[3]Seu poder aumentou de novo!
+[S][E]Agora, siga para o último!
+[-]
+[00]
+!------------------------------!
+Ora, olá, Habitante da Luz!
+[2]Você parece ser um atirador de
+[3]primeira... Gostaria de testar
+[S][E]suas habilidades na minha
+[E]galeria de tiro ao alvo? Cinco
+[E]tentativas custam 20 Rúpias.
+[S][E]Se você for tão afiado quanto
+[E]eu acredito que seja, poderá
+[E]ganhar muito mais Rúpias.
+[S][E]O que me diz, forasteiro?
+[E]    [>] Jogar
+[E]       Nem pensar
+[05000068][-]
+[00]
+!------------------------------!
+Muito bem! Mire com cuidado!
+[2]Preparado? JÁ!
+[-]
+[00]
+!------------------------------!
+Bom, parceiro, você pode dar
+[2]meia volta e sair pelo mesmo
+[3]caminho pelo qual você entrou.
+[S][E]Até mais! Tenha um bom dia!
+[-]
+[00]
+!------------------------------!
+Quer tentar novamente?
+[2]    [>] Continuar
+[3]       Sair
+[05000068][-]
+[00]
+!------------------------------!
+--FONTE DA FELICIDADE--
+[2]Jogue algumas Rúpias dentro e
+[3]seus desejos irão se realizar.
+[S][E]Você quer jogar Rúpias?
+[E]    [>] Jogar algumas
+[E]       Não estou com vontade
+[05000068][-]
+[00]
+!------------------------------!
+Selecione um item com o
+[2]Direcional + e jogue-o
+[3]usando o Botão [A].
+[05000069][-]
+[00]
+!------------------------------!
+Olá. Foi você que jogou isto?
+[2]    [>] Sim
+[3]       Não, não fui eu
+[05000068][-]
+[00]
+!------------------------------!
+Gosto de pessoas honestas.
+[2]Vou lhe dar algo melhor em
+[3]troca.
+[-]
+[00]
+!------------------------------!
+Tem certeza de que não é seu?
+[2]    [>] Sim, não é meu
+[3]       Na verdade, é meu
+[05000068][-]
+[00]
+!------------------------------!
+Ora, ora, não minta para mim.
+[2]Tome de volta, por favor.
+[-]
+[00]
+!------------------------------!
+Você obteve o Bumerangue
+[2]Mágico!
+[3]Você pode arremessá-lo com 
+[S][E]mais velocidade e mais longe
+[E]do que o antigo!
+[-]
+[00]
+!------------------------------!
+Seu escudo foi aprimorado!
+[2]Agora, você pode se defender
+[3]contra as bolas de fogo!
+[-]
+[00]
+!------------------------------!
+Estas são as Flechas de Prata
+[2]que você precisa para derrotar
+[3]Ganon!
+[-]
+[00]
+!------------------------------!
+Ela encheu o seu frasco com o
+[2]Remédio de Magia. Você deu uma
+[3]sorte grande!
+[-]
+[00]
+!------------------------------!
+Sua espada está mais forte!
+[2]Você consegue sentir seu poder
+[3]pulsando em suas mãos!
+[-]
+[00]
+!------------------------------!
+Felicidade aumentada [0600006C][03][0600006C][02] Rúpias.
+[2]No total, sua Felicidade é [0600006C][01][0600006C][00].
+[3]Você se tornou um tanto mais
+[S][E]feliz.
+[-]
+[00]
+!------------------------------!
+Irei realizar o seu desejo.
+[2]  [>]Quero carregar mais bombas
+[3]    Quero carregar mais flechas
+[0500006F][-]
+[00]
+!------------------------------!
+Então, aumentarei sua
+[2]capacidade de carregar para
+[3]um máximo de [0600006C][01][0600006C][00] bombas.
+[S][E]Isso é apenas um pouco de
+[E]felicidade que posso lhe dar.
+[-]
+[00]
+!------------------------------!
+Então, aumentarei sua
+[2]capacidade de carregar para
+[3]um máximo de [0600006C][01][0600006C][00] flechas.
+[S][E]Isso é apenas um pouco de
+[E]felicidade que posso lhe dar.
+[-]
+[00]
+!------------------------------!
+Não posso mais lhe conceder
+[2]desejos, mas talvez uma amiga
+[3]minha seja capaz...
+[S][E]Ela vive na Cachoeira dos
+[E]Desejos, próximo ao Lago dos
+[E]Zoras. Vou devolver as suas
+[S][E]Rúpias. Que você seja feliz...
+[-]
+[00]
+!------------------------------!
+Uhhh... Olhe por onde pisa.
+[2]Há buracos no chão.
+[3]Poderia virar bem aqui?
+[S][E]Garoto, você também está
+[E]indo à montanha em busca do
+[E]Poder Dourado? 
+[S][E]O que você verá é uma
+[E]montanha repleta de monstros.
+[E]Muitos já desapareceram nesta
+[S][E]montanha na busca pelo
+[E]Poder Dourado.
+[E]
+[S][E]Não me entenda mal, mas, por
+[E]favor, não se envolva em uma
+[E]busca tão insana.
+[-]
+[00]
+!------------------------------!
+Uhh... Deve ter um coração
+[2]dentro do frasco.
+[-]
+[00]
+!------------------------------!
+Uhh... Vire bem aqui... ...
+[2]Sabe, tenho uma neta que
+[3]tem a mesma idade que você...
+[S][E]O rei a levou para o castelo e
+[E]ela nunca mais retornou. Raptar
+[E]essas donzelas deve ser parte
+[S][E]do plano do feiticeiro!
+[E]Tenho certeza de que ele está
+[E]tentando usar o poder dos
+[S][E]descendentes dos sete
+[E]sábios de alguma forma...
+[-]
+[00]
+!------------------------------!
+Não sei quem é você, mas se
+[2]você for subir a montanha,
+[3]poderia me levar junto?
+[S][E]Eu perdi minha lamparina,
+[E]então...
+[-]
+[00]
+!------------------------------!
+As donzelas desaparecidas
+[2]ainda estão vivas em algum
+[3]lugar. Acredito que um Herói irá
+[S][E]salvá-las... Anseio por esse
+[E]dia... Uhh... Esses são tempos
+[E]difíceis... Eu já falei demais.
+[S][E]Enfim... Obrigado por ser
+[E]gentil com um velho como eu.
+[E]Uhh...  Quero lhe dar isso.
+[S][E]Se você andar por algum portal
+[E]mágico, olhe para este espelho.
+[-]
+[00]
+!------------------------------!
+O feiticeiro enganou o rei e
+[2]agora está tentando abrir o
+[3]caminho para o Mundo das
+[S][E]Trevas. Para completar a sua
+[E]jornada, você precisará da
+[E]Pérola Lunar que está no
+[S][E]topo da torre da montanha.
+[E]Tudo que posso fazer agora é
+[E]aliviar sua fadiga...
+[S][E]Volte a qualquer hora.
+[-]
+[00]
+!------------------------------!
+[05000074]A Pérola Lunar protegerá o seu
+[2]portador do ar mágico da Terra
+[3]Dourada, assim você poderá
+[S][E]manter sua forma humana aqui.
+[E]Tudo que posso fazer agora é
+[E]aliviar sua fadiga...
+[S][E]Volte a qualquer hora.
+[-]
+[00]
+!------------------------------!
+[H], acho que o feiticeiro
+[2]criou um portal entre os dois
+[3]mundos em algum lugar próximo
+[S][E]ao castelo. Tudo que posso
+[E]fazer agora é aliviar sua
+[E]fadiga...
+[S][E]Visite-me a qualquer hora.
+[-]
+[00]
+!------------------------------!
+Ohhh... Meu pobre filho tocador
+[2]de ocarina... Como sinto falta
+[3]do som de sua ocarina. Ele foi
+[S][E]em busca do Poder Dourado,
+[E]mas nunca mais voltou...
+[S][E]Onde será que ele está e o que
+[S][E]estará fazendo agora?
+[E]...Zzzzzz  Zzzzzz...
+[-]
+[00]
+!------------------------------!
+Nhem-nhem-nhem... Oh? Essa
+[2]ocarina! É a ocarina do meu
+[3]filho! Você o viu?
+[S][E]Onde ele está? Ele está bem?
+[E]... ... ...
+[E]
+[S][E]Oh... Não precisa dizer mais
+[E]nada. Já entendi pelo seu
+[E]olhar...
+[S][E]Você poderia ficar com essa
+[E]ocarina? Assim você pode tocar
+[S][E]para os pássaros da cidade no
+[E]lugar dele.
+[E]Faça isso para mim, por favor.
+[S][E]Meu filho ficaria tão feliz.
+[E]... Eu queria poder vê-lo
+[E]só mais uma vez...
+[-]
+[00]
+!------------------------------!
+Você poderia ficar com essa
+[2]ocarina? Assim você pode tocar
+[3]para os pássaros da cidade no
+[S][E]lugar dele.
+[E]Faça isso para mim, por favor.
+[S][E]Meu filho ficaria tão feliz.
+[E]... Eu queria poder vê-lo
+[E]só mais uma vez...
+[-][00]
+!------------------------------!
+...Zzzzzzz  Zzzzzzzz...
+[2]... ... ...
+[3]Ronc...  ...Zzzzzz  Zzzzzz...
+[-]
+[00]
+!------------------------------!
+Oh, [H]. Alguém está
+[2]espalhando rumores, dizendo
+[3]que você raptou a princesa...
+[S][E]mas eu ainda confio em você.
+[-]
+[00]
+!------------------------------!
+Não acredito que você me
+[2]alcançou! Com a sua velocidade,
+[3]deve ter sido fácil raptar a
+[S][E]princesa Zelda... Mas você não
+[E]parece ser um cara mau...
+[E]Enfim, já que você tem pés
+[S][E]tão rápidos, talvez seja
+[E]uma boa ideia correr e bater
+[E]em um bando de coisas...
+[S][E]Por exemplo, as árvores dessa
+[E]vila possuem itens bem úteis
+[E]presos em seus galhos...
+[S][E]Bom, pelo menos tente, tá!?
+[-]
+[00]
+!------------------------------!
+Se você tem tempo de sobra
+[2]para ler esta placa, então
+[3]deveria correr para a chegada!
+[-]
+!------------------------------!
+Darei um Pedaço de Coração
+[2]àquele vestido com a Capa.
+[-]
+[00]
+!------------------------------!
+Uma maldição cairá sobre aquele
+[2]que jogar algo no meu círculo
+[3]de pedras.
+[-]
+[00]
+!------------------------------!
+Por aqui 
+[2]    [0501014D] Floresta dos Esqueletos
+[3]    [0501014E] Vila dos Exilados
+[-]
+[00]
+!------------------------------!
+[2]Por aqui [05010150] Caverna
+[-]
+[00]
+!------------------------------!
+[2]Por aqui [05010150] Templo das Sombras
+[-]
+[00]
+!------------------------------!
+[2]Por aqui [0501014F] Loja de Bombas
+[-]
+[00]
+!------------------------------!
+[0501014F]  Pântano do Mal
+[2]         Sem Entrada
+[3]         Sem Escapatória
+[-]
+[00]
+!------------------------------!
+Esta é a Vila dos Exilados.
+[2]Pessoas sem Rúpias não são
+[3]bem-vindas aqui.
+[-]
+[00]
+!------------------------------!
+A Cachoeira dos Desejos é
+[2]logo ali.
+[-]
+[00]
+!------------------------------!
+Por aqui [05010150][0501014D]
+[2]Lago do Mau Presságio
+[-]
+[00]
+!------------------------------!
+Depois que Agahnim assumiu,
+[2]todos começaram a agir de
+[3]forma estranha.
+[S][E]Acho que é apenas uma questão
+[E]de tempo até eu ser afetado
+[E]também.
+[-]
+[00]
+!------------------------------!
+Ei, ei! Você não pode entrar
+[2]no castelo, rapaz!
+[3]Vá pra casa dormir um pouco!
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], sou eu, Sahasrahla.
+[2]Eu consigo falar com você por
+[3]telepatia quando você toca
+[S][E]nesses ladrilhos.
+[E]Tenho uma dica para você...
+[E]O tesouro escondido nesse
+[S][E]templo o ajudará a derrotar
+[E]os inimigos com armadura.
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], sou eu, Sahasrahla, o
+[2]ancião. O orbe conhecido como
+[3]Pérola Lunar está nesta torre.
+[S][E]Aquele que a possuir estará
+[E]protegido e seu corpo não
+[E]mudará no Mundo das Trevas.
+[S][E]Você tem que encontrá-la e
+[E]escapar dessa torre!
+[E]Não esqueça da Pérola Lunar...
+[-]
+[00]
+!------------------------------!
+[05010047][05010048][05010047][05010049][05010047][05010048][05010047][05010049][05010047][05010048][05010048][05010048][05010048][05010047][05010049][05010047][05010048][05010047][05010049]
+[2][05010047][05010049][05010047][05010047][05010048][05010047][05010049][05010047][05010048][05010047][05010049]
+[3][05010047][05010048][05010047][05010049][05010047][05010047][05010048][05010047][05010049][05010049][05010048][05010047][05010047][05010049]
+[-]
+[00]
+!------------------------------!
+Quando o Grande Cataclismo
+[2]ocorrer, o Herói de posse dos
+[3]três pingentes surgirá e, pelas
+[S][E]suas mãos, esta espada será
+[E]erguida. Aquele que possui o
+[E]sangue dos cavaleiros será
+[S][E]essa pessoa.
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], sou eu, Sahasrahla.
+[2]Você precisa encontrar um
+[3]caminho até o topo do Rochedo
+[S][E]dos Óculos. De lá, você poderá
+[E]chegar até a Torre de Hera no
+[E]topo da Montanha da Morte.
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], sou eu, Sahasrahla.
+[2]Objetos nos mundos da Luz
+[3]e das Trevas se mimetizam.
+[S][E]Se a forma de algo se altera
+[E]em um mundo, irá alterar a
+[E]forma de sua cópia no outro.
+[-][00]
+!------------------------------!
+[0600006B][02][H]...  Sou eu, Zelda...
+[2]Não seja derrotado pela magia
+[3]de Blecaute, o Ladrão!
+[S][E]Tenha cuidado!
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], sou eu, Sahasrahla, o
+[2]ancião! Acenda as quatro
+[3]tochas e o caminho à frente
+[S][E]certamente se abrirá.
+[-]
+[00]
+!------------------------------!
+[05010047][05010049][05010047][05010048][05010047][05010049][05010047][05010048][05010047][05010048][05010047]
+[2][05010047][05010048][05010047][05010049][05010047][05010049][05010047][05010048][05010047][05010049]
+[3][05010047][05010048][05010047][05010049][05010047][05010049][05010047][05010048][05010047][05010049][05010047]
+[-]
+[00]
+!------------------------------!
+Para abrir o caminho à frente...
+[2]Faça o seu pedido aqui...
+[3]E ele será concedido.
+[-]
+[00]
+!------------------------------!
+[0600006B][02]Quando Ganon estiver
+[2]atordoado, sele seu destino
+[3]com uma Flecha de Prata!
+[S][E]Entendeu, [H]?
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], consegue me ouvir?
+[2]Sou eu, Zelda. Estou presa no
+[3]Rochedo Tartaruga, no topo da
+[S][E]Montanha da Morte. Sei que
+[E]está fazendo o seu melhor, mas
+[E]venha depressa, por favor...
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], sou eu, Sahasrahla.
+[2]Certifique-se de encontrar 
+[3]todos os tesouros escondidos
+[S][E]em cada calabouço.
+[-]
+[00]
+!------------------------------!
+[0600006B][02]Escute bem, [H].
+[2]Mesmo com a Espada Mestra,
+[3]você não poderá causar danos
+[S][E]físicos no feiticeiro.
+[E]Você tem que encontrar uma
+[E]maneira de rebater a magia
+[S][E]maligna contra ele mesmo.
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], não gaste todo o seu
+[2]poder mágico. Você precisará
+[3]dele mais à frente.
+[S][E]Prossiga com cuidado caso não
+[E]esteja em posse do Remédio de
+[E]Magia.
+[S][E]Não se esforce demais...
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], você está em posse
+[2]do Remédio de Magia? Se não,
+[3]eu sugiro que não siga adiante.
+[-]
+[00]
+!------------------------------!
+[0600006B][02]Ouça minhas palavras, [H][85]
+[2]Chamas mágicas irão protegê-lo
+[3]neste calabouço de gelo.
+[-]
+[00]
+!------------------------------!
+[0600006B][02]Você não pode derrotar o
+[2]Cavaleiro Stalfos somente com
+[3]a espada. Quando ele entrar em
+[S][E]colapso, ele ficará vulnerável
+[E]a outro tipo de arma.
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], sou eu, Sahasrahla, o
+[2]ancião. Tenho uma dica para
+[3]você... Nos calabouços, você
+[S][E]pode olhar no Espelho Mágico
+[E]para voltar à entrada a
+[E]qualquer momento.
+[S][E]Não se esqueça disso!
+[-]
+[00]
+!------------------------------!
+Este é o quarto secreto da
+[2]equipe do Hyrule Legends e dos
+[3]grupos Monkeys Traduções e
+[S][E]Trans-Center.
+[E]Isso fica só entre nós, tá?
+[-]
+[00]
+!------------------------------!
+Você capturou uma abelha!
+[S][2]O que irá fazer?
+[3]    [>] Colocá-la em um frasco
+[E]       Soltá-la
+[05000068][-]
+[00]
+!------------------------------!
+Você capturou uma fada!
+[S][2]O que irá fazer?
+[3]    [>] Colocá-la em um frasco
+[E]       Soltá-la
+[05000068][-]
+[00]
+!------------------------------!
+Você não possui nenhum frasco
+[2]vazio. Você não tem escolha...
+[3]Apenas solte de uma vez.
+[-]
+[00]
+!------------------------------!
+Nessa tentativa seu tempo foi
+[2]de [0600006C][03][0600006C][02] minutos [0600006C][01][0600006C][00] segundos.
+[-]
+[00]
+!------------------------------!
+Se você conseguir chegar em
+[2]menos de 15 segundos, nós lhe
+[3]daremos algo interessante.
+[S][E]Preparar, apontar... ... ... VAI!
+[-]
+[00]
+!------------------------------!
+Você conseguiu!
+[2]Parabéns!
+[3]Seu prêmio é um Pedaço de
+[S][E]Coração!
+[-]
+[00]
+!------------------------------!
+Você não se classificou.
+[2]Que pena!
+[3]Por que não tenta novamente?
+[-]
+[00]
+!------------------------------!
+Não tenho mais nada para lhe
+[2]dar.
+[3]Desculpe!
+[-]
+[00]
+!------------------------------!
+Você tem que entrar pelo
+[2]local apropriado ou eu não
+[3]poderei marcar o seu tempo...
+[-]
+[00]
+!------------------------------!
+Você, senhor! Está seguindo
+[2]com sua vida sem um de meus
+[3]frascos porta-tudo?
+[S][E]Bem, dê um passo adiante e
+[E]torne sua vida completa! Tenho
+[E]um à venda pelo baixo, baixo
+[S][E]preço de 100 Rúpias!
+[S][E]O que me diz? Interessado?
+[E]    [>] Vou levar um
+[E]       Não preciso
+[05000068][-]
+[00]
+!------------------------------!
+Bom negócio! Muito obrigado!
+[2]Agora, segure-o acima da sua
+[3]cabeça para todo mundo ver,
+[S][E]tá? É bom para os negócios!
+[-]
+[00]
+!------------------------------!
+Você está duro, é? Que pena...
+[2]Volte após conseguir algumas
+[3]Rúpias. Ele ainda estará aqui.
+[-]
+[00]
+!------------------------------!
+Estou sem frascos no estoque.
+[2]Volte mais tarde, tá?
+[3] ... ... ...
+[-]
+[00]
+!------------------------------!
+Uau! Nunca vi um inseto tão
+[2]raro! Eu pago 100 Rúpias,
+[3]combinado? Fechado!
+[-]
+[00]
+!------------------------------!
+Ei! Dizem que comer peixe deixa
+[2]você inteligente. Você tem que
+[3]me dar seu peixe em troca
+[S][E]disto, combinado? É claro!
+[-]
+[00]
+!------------------------------!
+Ei!  [H]! Você parece estar
+[2]bastante encrencado, mas isto
+[3]é tudo que posso lhe dar.
+[-]
+[00]
+!------------------------------!
+Ei, você!
+[2]Bem-vindo!
+[3]
+[S][E]Do que você precisa?
+[E]    [>] Temperar minha espada
+[E]       Só vim fazer uma visita
+[05000068][-]
+[00]
+!------------------------------!
+Vou dar um grande desconto!
+[2]    [>]Temperar Espada: 10 Rúpias
+[3]      Espera aí
+[05000068][-]
+[00]
+!------------------------------!
+Têmpera, é? Tem certeza?
+[2]    [>] Sim
+[3]       Mudei de ideia
+[05000068][-]
+[00]
+!------------------------------!
+Bem, não podemos fazê-la mais
+[2]forte do que isto... Desculpe!
+[-]
+[00]
+!------------------------------!
+Apareça novamente quando
+[2]quiser. La ra ri, la ra ra!
+[3]De volta ao trabalho!
+[-]
+[00]
+!------------------------------!
+Muito bem, sem problema.
+[2]Teremos que ficar com a sua
+[3]espada por mais algum tempo.
+[-]
+[00]
+!------------------------------!
+Sua espada está temperada!
+[2]Aqui, pegue-a!
+[-]
+[00]
+!------------------------------!
+Se meu parceiro perdido voltar,
+[2]nós poderemos temperar a sua
+[3]espada, mas não posso fazer
+[S][E]nada por você no momento.
+[-]
+[00]
+!------------------------------!
+Oh! O que é isto?!?
+[2]Você encontrou meu parceiro!
+[3]... Os dias felizes voltaram!
+[S][E]Passe depois aqui novamente!
+[E]Aí nós iremos temperar a sua
+[E]espada perfeitamente!
+[-]
+[00]
+!------------------------------!
+Ribbit, ribbit...  Seu corpo não
+[2]mudou! Você não é um cara
+[3]qualquer, né?
+[S][E]Eu morava na Vila Kakariko.
+[E]O que será que meu amigo está
+[E]fazendo lá sem mim...
+[S][E]Ribbit! Tenho um pedido para
+[E]lhe fazer. Eu imploro... Por
+[E]favor, leve-me ao meu parceiro!
+[S][E]Por favor! Ribbit! Por favor!
+[-]
+[00]
+!------------------------------!
+Desculpe, não acabamos ainda.
+[2]Volte depois.
+[-]
+[00]
+!------------------------------!
+Obrigado!
+[2]
+[3]Obrigado!
+[-]
+[00]
+!------------------------------!
+Ei, ei, amadores não deveriam
+[2]tentar fazer isto. Você só
+[3]está atrapalhando!
+[-]
+[00]
+!------------------------------!
+Após vagar por este mundo,
+[2]eu mudei para esta forma.
+[3]...  ...  ...
+[S][E]Em meu mundo, eu tocava minha
+[E]querida ocarina dia e noite...
+[E]Havia um pequeno bosque lá, 
+[S][E]onde os animais se reuniam
+[E]enquanto eu tocava. Adoraria
+[E]ver aquele lugar novamente...
+[S][E]Antes de vir para cá, eu
+[E]enterrei minha ocarina lá, junto
+[S][E]com algumas sementes de flor.
+[S][E]Você tentará achá-la para mim?
+[E]    [>] Sim
+[E]       De forma alguma
+[05000068][-]
+[00]
+!------------------------------!
+Então, irei emprestar minha pá.
+[2]Boa sorte!
+[-]
+[00]
+!------------------------------!
+... ... ...
+[2]Entendo. Não vou pedir
+[3]novamente... Adeus.
+[-]
+[00]
+!------------------------------!
+Você encontrou minha ocarina?
+[2]... ... ...
+[3]Por favor, continue em busca...
+[-]
+[00]
+!------------------------------!
+Obrigado, [H]. Mas parece
+[2]que não posso mais tocar minha
+[3]ocarina. Por favor, fique com
+[S][E]ela. Se por acaso você for à
+[E]vila em que eu vivia, por favor,
+[E]entregue-a a um velho cansado
+[S][E]que se encontra por lá.
+[E]... ... ...
+[E]Bem, minha mente está ficando
+[S][E]nebulosa...
+[E]Por favor, deixe-me ouvir
+[E]a ocarina uma última vez...
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Hócus-pócus!
+[2]Você encontrará o ancião
+[3]Sahasrahla...
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Abracadabra, alakazam!
+[2]Você abrirá uma barreira no
+[3]deserto com o Livro de Mudora.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Hócus-pócus!
+[2]Você achará um descendente da
+[3]linhagem dos sábios no deserto.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Abracadabra, alakazam!
+[2]Você encontrará uma amante de
+[3]cogumelos na Loja de Magia...
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Hócus-pócus!
+[2]Você encontrará um lago onde
+[3]os Zoras vivem rio acima...
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Abracadabra, alakazam!
+[2]Um baú na torre da montanha
+[3]contém a Pérola Lunar...
+[S][E]E você a encontrará!
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Hócus-pócus!
+[2]Nem mesmo a poderosa Espada
+[3]Mestra pode ferir o feiticeiro.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Abracadabra, alakazam!
+[2]O verdadeiro Herói pulará no
+[3]poço próximo à loja do ferreiro.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Bem, devo dizer que não estou 
+[2]em condições ideais hoje. Mas
+[3]desejo que volte novamente...
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Hmmm... Você parece ter um
+[2]destino interessante...
+[3]Posso prever o seu futuro?
+[S][E]Eu cobro barato...
+[E]    [>] Pedir para ele prever
+[E]       Não estou interessado
+[05000068][-]
+[00]
+!------------------------------!
+[0600006D][01]Agora, pague-me [0600006C][00][0600006C][01] Rúpias.
+[2]Desejo-lhe saúde.
+[3]Yee, hah, ha, hah!
+[-]
+[00]
+!------------------------------!
+[0600006D][01]É mesmo um coitado que não
+[2]está interessado no próprio 
+[3]futuro...
+[S][E]Aguardo o seu retorno. 
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Hócus-pócus!
+[2]Você encontrará um estranho
+[3]homem parado no deserto...
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Abracadabra, alakazam!
+[2]Pergunte sobre baús na loja de
+[3]fofocas do Mundo das Trevas.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Hócus-pócus!
+[2]Você encontrará o parceiro do
+[3]ferreiro na Vila dos Exilados.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Abracadabra, alakazam!
+[2]Você encontrará um tesouro
+[3]descansando em paz no
+[S][E]cemitério.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Hócus-pócus!
+[2]Você comprará um novo tipo de
+[3]bomba na Loja de Bombas.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Abracadabra, alakazam!
+[2]Vejo algo escondido dentro da
+[3]pirâmide do Mundo das Trevas.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Hócus-pócus!
+[2]Você se deparará com uma 
+[3]barreira caso tente entrar 
+[S][E]na torre de Ganon.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Abracadabra, alakazam! Você
+[2]precisará de Flechas de Prata 
+[3]para selar o destino de Ganon.
+[-]
+[00]
+!------------------------------!
+Ei! Contarei uma história 
+[2]lucrativa se você me pagar 
+[3]20 Rúpias.
+[S][E]Que tal?
+[E]    [>] Pagar Rúpias
+[E]       Não quero ouvir
+[05000068][-]
+[00]
+!------------------------------!
+Ah! Obrigado. Dizem que há um
+[2]pequeno círculo de pedras no
+[3]lago na nascente do rio.
+[S][E]Não sei o que irá acontecer,
+[E]mas talvez seja divertido 
+[E]jogar algo ali...
+[S][E]Heh, heh. Até mais...
+[-]
+[00]
+!------------------------------!
+Heh, heh. Entendo. Não estou
+[2]interessado em falar com
+[3]pessoas sem Rúpias...
+[-]
+[00]
+!------------------------------!
+Heh, heh. Obrigado. Para falar
+[2]a verdade, eu costumava ser
+[3]um ladrão no Mundo da Luz...
+[S][E]Alguns dos meus colegas
+[E]ladinos se esconderam porque
+[E]tinham medo de serem pegos.
+[S][E]Um deles era mestre em
+[E]arrombar fechaduras, mas
+[E]agora ele esconde o fato de
+[S][E]que era um ladrão... 
+[S][E]... fingindo ser um cara
+[E]completamente normal!
+[E]Ha, ha, ha...
+[S][E]Ei! Quase parece como se eu
+[E]estivesse dando uma dica!
+[-]
+[00]
+!------------------------------!
+Ah! Obrigado. Para falar a
+[2]verdade, eu vi algo belíssimo 
+[3]no intetiror da pirâmide,
+[S][E]mas alguém foi lá e selou a
+[E]porta. Que raiva! Nem mesmo
+[E]uma bomba pode abri-la agora...
+[S][E]Pelo menos não uma qualquer...
+[-]
+[00]
+!------------------------------!
+Heh, heh. Obrigado... Realmente,
+[2]a magia dos monstros está
+[3]causando a chuva no pântano.
+[S][E]Se você puder mover o ar com
+[E]mais força que os monstros, a
+[E]chuva talvez pare.
+[-]
+[00]
+!------------------------------!
+Atchim... Ei, irmão [H]!
+[2]Você tem um frasco para
+[3]guardar insetos dentro?
+[S][E]...
+[E]Oh, talvez não...
+[E]Cof, cof...
+[-]
+[00]
+!------------------------------!
+Não posso sair porque estou
+[2]doente... Cof, cof...
+[3]As pessoas dizem que eu peguei
+[S][E]este resfriado do ar maligno
+[E]que está vindo montanha
+[E]abaixo... Cof, cof... 
+[S][E]Esta é minha rede de insetos.
+[E]Irei usá-la quando melhorar,
+[E]mas, por enquanto, vou
+[S][E]emprestá-la para você.
+[-]
+[00]
+!------------------------------!
+Atchim...
+[2]Espero que eu melhore logo...
+[3]Cof, cof...
+[-]
+[00]
+!------------------------------!
+... ... ... ... ... ...
+[2]... ... ...
+[-][00]
+!------------------------------!
+Por que você pegou a minha
+[2]placa? Está escrito bem claro
+[3]ali que é para me deixar em paz!
+[S][E]Caramba!
+[-][00]
+!------------------------------!
+Ouvi dizer que você sabe que
+[2]eu costumava ser um ladrão,
+[3]não é?
+[S][E]Bem, abrirei um baú para você.
+[E]Você não contará para ninguém,
+[E]não é?
+[S][E]Por favor, prometa.
+[E]    [>] Prometer não contar
+[E]       Contar a todos
+[05000068][-]
+[00]
+!------------------------------!
+Tudo bem, já que é assim que
+[2]você quer, espero que carregue
+[3]este baú por aí para sempre!
+[-][00]
+!------------------------------!
+Lembre-se, você prometeu...
+[2]Não conte a ninguém.
+[-]
+[00]
+!------------------------------!
+Certo, traga este baú até
+[2]aqui...  É sério, não conte
+[3]esse segredo a ninguém.
+[-][00]
+!------------------------------!
+[05010048][05010049][05010048][05010049][05010048][05010049][05010048][05010049][05010048][05010049][05010048][05010048][05010048][05010049]
+[2][05010048][05010047][05010049][05010049][05010047][05010048][05010047][05010049][05010048][05010047][05010049][05010048][05010047][05010049][05010048][05010047]
+[3][05010048][05010049][05010048][05010049][05010048][05010049][05010048][05010047][05010048][05010047]
+[-]
+[00]
+!------------------------------!
+Erga a Espada Mestra e você 
+[2]obterá a magia de Éter.
+[-]
+[00]
+!------------------------------!
+Erga a Espada Mestra e você
+[2]obterá a magia de Bombos.
+[-]
+[00]
+!------------------------------!
+Ei! Maldito seja por me
+[2]despertar do meu sono
+[3]profundo e sombrio!
+[S][E]...Digo, muito obrigado, senhor!
+[E]Mas agora, irei me vingar de
+[E]você. Prepare-se!
+[S][E]...Err, tudo bem para você,
+[E]senhor?
+[-]
+[00]
+!------------------------------!
+Heh, heh, heh! Eu rio do seu
+[2]azar! Agora, seu poder mágico
+[3]cairá pela metade!
+[S][E]Parabéns!
+[E]Agora, faça o seu melhor, 
+[E]embora eu tenha certeza de
+[S][E]que não será o suficiente!
+[E]Tenha um bom dia! Até mais!
+[-]
+[00]
+!------------------------------!
+[0600006E][00][06000077][07][0600007A][03]
+[0600006B][02]
+[F]Há muito tempo, em Hyrule,
+[2]um belo reino cercado por
+[3]florestas e montanhas...
+[W][09]
+[E]lendas contavam a respeito de
+[E]um onipotente e onisciente
+[E]Poder Dourado que jazia oculto.
+[W][07]
+[E]Ele estava escondido em um
+[E]Reino Sagrado além do alcance
+[E]dos homens, mas um dia...
+[W][09]
+[E]... uma porta para aquele reino
+[E]se abriu repentinamente...
+[W][09]
+[F]
+[F][E]Esperando reivindicar o Poder
+[E]Dourado para si, as pessoas
+[E]começaram a brigar e a lutar...
+[W][09]
+[E]Muitos procuraram entrar na
+[E]oculta Terra Dourada...
+[W][05]
+[E]Mas ninguém retornou. Em vez
+[E]disso, algo maligno começou a
+[E]emanar do portal das trevas...
+[W][07]
+[F]
+[F][E]Então, o rei ordenou que sete
+[E]sábios selassem o portão para
+[E]a terra do Poder Dourado.
+[W][07]
+[F]
+[F][E]Muitos bravos cavaleiros foram
+[E]perdidos ao proteger os sábios
+[E]das ondas malignas na batalha,
+[W][09]
+[E]mas o selo foi conjurado! O mal
+[E]já não mais fluía! E o selo
+[E]permaneceria para sempre...
+[W][03]
+[E]Ou assim eles esperavam...
+[W][09]
+[E]Justo quando esses eventos
+[E]eram obscurecidos pelas névoas
+[E]do tempo e viravam lenda...
+[W][09][-][00]
+!------------------------------!
+[0600006B][02][06000077][07][0600007A][03]
+[05000074]Um misterioso feiticeiro,
+[2]conhecido como Agahnim surgiu
+[3]do nada...
+[W][05][E]e, com estranhos poderes
+[E]mágicos, ele eliminou o bom rei
+[E]de Hyrule...
+[W][05]
+[-]
+[00]
+!------------------------------!
+[0600006B][02][06000077][07][0600007A][03]
+[05000074]Ele enfeitiçou os soldados
+[2]e sequestrou jovens donzelas
+[3]descendentes dos sábios
+[W][05][E]no intuito de quebrar o selo...
+[W][05]
+[-]
+[00]
+!------------------------------!
+[0600006B][02][06000077][07][0600007A][03]
+[05000074]O destino rapidamente se
+[2]aproxima da última donzela...
+[3]a princesa, Zelda...
+[W][05]
+[-]
+[00]
+!------------------------------!
+Como a chave está trancada
+[2]dentro deste baú, você nunca
+[3]conseguirá abri-lo.
+[S][E]Apenas leve-o com você.
+[-]
+[00]
+!------------------------------!
+30 Bombas por 100 Rúpias! 
+[2]30 Bombas só 100 Rúpias!
+[3]Por favor, compre-as, senhor!
+[-]
+[00]
+!------------------------------!
+30 Bombas por 100 Rúpias!
+[2]Tenho também uma nova Super
+[3]Bomba em estoque por apenas
+[S][E]100 Rúpias! Por favor, senhor,
+[E]compre-a também!
+[-]
+[00]
+!------------------------------!
+Muito obrigado.
+[2]Obrigado mesmo.
+[-]
+[00]
+!------------------------------!
+Muito obrigado. Você pode
+[2]deixar essa bomba em qualquer
+[3]lugar (Pressione o Botão [R]).
+[S][E]Não se esqueça disso.
+[-]
+[00]
+!------------------------------!
+Ki, ki, ki! Se você me der 100
+[2]Rúpias, eu irei abrir a entrada
+[3]para você. Kik, ki, ki!
+[S][E]  O que você fará?
+[E]    [>] Pedir para abrir
+[E]       Tentar abrir sozinho
+[05000068][-]
+[00]
+!------------------------------!
+Ki, ki, ki! Hunf!
+[2]Faça sozinho então!
+[3]Ki, ki, ki!
+[-]
+[00]
+!------------------------------!
+Ki, ki! Boa escolha! Então,
+[2]pegarei 100 de suas Rúpias.
+[3]Kik, ki, ki!
+[-]
+[00]
+!------------------------------!
+Eu sou Kiki, o macaco, ki, ki!
+[2]Eu amo Rúpias mais do que
+[3]tudo. Pode me doar 10 Rúpias?
+[S][E] O que fará?
+[E]    [>] Dar a ele 10 Rúpias
+[E]       Não dar nada a ele
+[05000068][-]
+[00]
+!------------------------------!
+Ki, ki, ki, ki! Boa escolha! Eu
+[2]irei acompanhá-lo por enquanto.
+[3]Kik, ki, ki!
+[-]
+[00]
+!------------------------------!
+Ki, ki! Harumph! Eu não tenho
+[2]mais motivos para falar com
+[3]você então. Tchau! Kik, ki, ki!
+[-]
+[00]
+!------------------------------!
+Ki, ki?
+[2]O que você está fazendo?
+[3]Eu não quero ir até lá!
+[-]
+[00]
+!------------------------------!
+Ohh, muito obrigada!
+[2]Você salvou minha vida.
+[3]Por favor, tire-me daqui.
+[-]
+[00]
+!------------------------------!
+Gyaaah!
+[2]Muito claro!
+[-]
+[00]
+!------------------------------!
+Err... Espere um minuto...
+[2]Por favor, não vá por aqui.
+[-]
+[00]
+!------------------------------!
+Eu sou Aginah. Sinto que algo
+[2]está acontecendo na Terra 
+[3]Dourada que os sete sábios
+[S][E]selaram... Deve ser o presságio
+[E]do Grande Cataclismo previsto
+[E]pelo povo de sangue Hyliano...
+[S][E]... ... ...
+[E]É dito na profecia que "O Herói
+[E]erguer-se-á no deserto 
+[S][E]segurando o Livro de Mudora."
+[E]Se você tiver o Livro de
+[E]Mudora, poderá ler a linguagem
+[S][E]do povo Hyliano.
+[E]Ele deve estar na biblioteca
+[E]da vila...
+[S][E]Você precisa obtê-lo!
+[E]Se você for mesmo o Herói...
+[-]
+[00]
+!------------------------------!
+Você coletou os três
+[2]Pingentes. Se você é
+[3]de fato o Herói que possui
+[S][E]Sabedoria, Coragem e Poder,
+[E]a Espada Mestra adormecida
+[E]na floresta será sua.
+[-]
+[00]
+!------------------------------!
+Ahá! É o Livro de Mudora.
+[2]Com isto, você poderá ler o
+[3]idioma do povo Hyliano.
+[-]
+[00]
+!------------------------------!
+Você é o verdadeiro Herói...
+[2]Eu acredito que você trará a
+[3]paz de volta a esta terra.
+[-]
+[00]
+!------------------------------!
+Sua provação no deserto o fez
+[2]mais forte. O sangue do Herói
+[3]deve correr em suas veias...
+[-]
+[00]
+!------------------------------!
+Foi você quem perturbou o meu
+[2]cochilo pacífico? Darei isto se
+[3]você for embora!
+[-]
+[00]
+!------------------------------!
+Não tenho mais nada de bom 
+[2]para lhe dar. Tome isto no
+[3]lugar, peste!
+[-]
+[00]
+!------------------------------!
+E aí, [H]! Uma neblina 
+[2]misteriosa surgiu recentemente
+[3]na floresta. 
+[S][E]Temos que ter cuidado!
+[-]
+[00]
+!------------------------------!
+Talvez não seja nada, mas esta
+[2]árvore parece meio estranha à
+[3]medida que serramos...
+[-]
+[00]
+!------------------------------!
+E aí! A neblina na floresta está
+[2]se dissipando. Obrigado! Nós 
+[3]podemos ir até lá novamente!
+[S][E]Issâe, irmão!
+[-]
+[00]
+!------------------------------!
+Ei, [H]. Estive discutindo
+[2]com o meu irmão mais novo.
+[3]E por algo muito estúpido.
+[S][E]Mas, algumas vezes, você não
+[E]pode ceder, sabe?
+[S][E]Portanto, eu selei a porta
+[E]que dá para o quarto dele. 
+[S][E]Assim ele aprende.
+[-]
+[00]
+!------------------------------!
+Então, a porta está aberta
+[2]novamente... Ok, ok, talvez
+[3]eu devesse fazer as pazes
+[S][E]com o meu irmão...
+[-]
+[00]
+!------------------------------!
+Ei, [H], você veio do
+[2]quarto do meu irmão mais
+[3]velho? Ele ainda está bravo?
+[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+[H], graças a você, eu
+[2]escapei das garras dos
+[3]monstros malignos. Obrigada!
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]...Este mundo já foi a Terra
+[2]Dourada onde a Triforça foi
+[3]escondida.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Mas graças a Ganon, o líder dos
+[2]ladrões, que quis possuí-la,
+[3]este mundo se transformou...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Estou certa que ele almeja
+[2]conquistar até mesmo o Mundo
+[3]da Luz após se fortalecer aqui.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Ele planeja utilizar a nós, as
+[2]donzelas, e o poder dos sábios
+[3]que nos foi transmitido como
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]chave para abrir um portal
+[2]ainda maior entre os mundos,
+[3]próximo ao Castelo de Hyrule.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Mas o portal ainda não
+[2]está totalmente aberto...
+[3]Ainda há tempo.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Juntas, nós, as sete donzelas,
+[2]podemos quebrar a barreira que
+[3]protege o refúgio de Ganon.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Posso lhe dizer onde as outras
+[2]garotas estão presas. Acredito
+[3]que você destruirá Ganon.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Voltarei à minha forma original
+[2]quando chegar a hora.
+[3]... ... ... ... ...
+[06000079]-[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+[H], graças a você, eu
+[2]pude escapar das garras do
+[3]mal. Obrigada!
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]...A Triforça realizará os
+[2]desejos de quem a tocar,
+[3]enquanto essa pessoa viver...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]É por isso que a esconderam na
+[2]Terra Dourada. Apenas poucos
+[3]sabiam de sua localização,
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]mas esse conhecimento foi 
+[2]perdido com o passar do
+[3]tempo...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Aquele que redescobriu a Terra
+[2]Dourada foi o ladrão maligno
+[3]chamado Ganondorf.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Felizmente, ele não descobriu
+[2]como voltar ao Mundo da Luz...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]...Bem, lembre-se de que você
+[2]tem poderes mágicos, os quais
+[3]apenas o Herói pode usar!
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Há outros pontos mágicos de
+[2]teleporte como aquele que você
+[3]viu na Montanha da Morte.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Ao utilizá-los, você poderá
+[2]viajar entre os dois mundos e
+[3]encontrar os males ocultos no
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Mundo das Trevas. Você é o
+[2]único que pode destruir
+[3]Ganondorf, o rei dos la... Não!
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Ganon, o maligno Rei das
+[2]Trevas!
+[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+[H], graças a você, eu
+[2]pude escapar das garras dos
+[3]monstros malignos. Obrigada!
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]...Você conhece a profecia
+[2]do Grande Cataclismo?
+[3]Foi assim que a ouvi...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Se uma pessoa de coração 
+[2]maligno obtiver a Triforça, um
+[3]Herói está fadado a aparecer...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]...e ele deve enfrentar
+[2]sozinho aquele que iniciou
+[3]o Grande Cataclismo.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Se o ser maligno destruir o
+[2]Herói, nada poderá salvar o
+[3]mundo de seu reinado perverso.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Apenas um membro dos
+[2]Cavaleiros de Hyrule, que
+[3]protegiam a realeza Hyliana,
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]pode se tornar o Herói... Você
+[2]é da linhagem deles, não é?
+[3]Então você deve resgatar
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Zelda sem falhar!
+[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+[H], graças a você, eu
+[2]pude escapar das garras dos
+[3]monstros malignos. Obrigada!
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Enquanto os sábios selavam o
+[2]caminho para o Mundo das
+[3]Trevas, os Cavaleiros de Hyrule
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]os defendiam dos ataques
+[2]dos monstros malignos.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Ouvi dizer que os Cavaleiros de
+[2]Hyrule foram arrasados naquela
+[3]batalha...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Talvez você seja o último a
+[2]carregar a linhagem desses
+[3]cavaleiros...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]É irônico o fato de que o último
+[2]da linhagem tenha o potencial
+[3]de se tornar o Herói da lenda.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Com certeza, você pode
+[2]destruir Ganon!
+[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+[H], graças a você, eu
+[2]pude escapar das garras dos
+[3]monstros malignos. Obrigada!
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Dizem que o povo Hyliano
+[2]possuía poderes misteriosos,
+[3]assim como os sete sábios.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Mas o sangue Hylia enfraqueceu
+[2]ao longo do tempo. E nós, que
+[3]carregamos o sangue dos
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]sábios, também não possuímos
+[2]os poderes de nossos
+[3]ancestrais.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Mas nosso poder crescerá se
+[2]juntarmos a coragem dos
+[3]cavaleiros com a sabedoria dos
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]sábios! Talvez ainda exista
+[2]uma maneira de podermos
+[3]ajudá-lo.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Mas resta pouco tempo para
+[2]que o portal no castelo,
+[3]que liga os mundos,
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]se abra por completo.
+[2]                                          
+[3]                                          
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Se você derrotar Ganon, este
+[2]mundo irá desaparecer, e a
+[3]Triforça aguardará
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]por um novo mestre.
+[2]Eu acredito em você...
+[3]Boa sorte!
+[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+[H], graças a você, eu
+[2]escapei das garras dos
+[3]monstros malignos. Obrigada!
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Ganon nos capturou porque ele
+[2]não conseguiu quebrar o selo
+[3]dos sábios só com seu poder.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]E então, usando o feiticeiro
+[2]Agahnim como lacaio, ele nos
+[3]trouxe ao Mundo das Trevas.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Após quebrar o selo com nossos
+[2]poderes, ele nos selou dentro
+[3]destes cristais.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Ele então nos entregou aos
+[2]seus leais monstros. 
+[3]                                          
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Mas Ganon nunca imaginou
+[2]que você chegaria tão longe.
+[3]                                          
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]A Princesa Zelda o aguarda 
+[2]dentro do Rochedo Tartaruga.
+[3]Por favor, apresse-se!
+[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+Agradeço por ter ido tão longe
+[2]para me resgatar. Como pensei,
+[3]você é o lendário Herói.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Eu senti isso desde a primeira
+[2]vez que nos encontramos.
+[3]... ... ...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Ganon está dentro da torre,
+[2]aguardando para atravessar o
+[3]portal que liga os dois mundos.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Assim que Ganon entrar no
+[2]Mundo da Luz, é improvável que
+[3]alguém consiga impedi-lo.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Mas se ele for mantido
+[2]confinado neste mundo, você
+[3]será capaz de encontrá-lo,
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]não importa onde ele se
+[2]esconda.
+[3]                                          
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Agora, leve os sete cristais
+[2]até a Torre de Ganon! Nossos
+[3]poderes combinados quebrarão
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]a barreira! Vamos trazer a paz
+[2]de volta ao nosso reino e os
+[3]sorrisos aos rostos de todos!
+[06000079]-[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+Que o caminho do Herói o leve
+[2]à Triforça.
+[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+Você entendeu?
+[2]    [>]  Sim
+[3]        Nem um pouco
+[05000068][-]
+[00]
+!------------------------------!
+[H], nós quebraremos a
+[2]barreira da Torre de Ganon
+[3]com o nosso poder.
+[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+Agradeço por ter ido tão longe
+[2]para me resgatar. Como pensei,
+[3]você é o lendário Herói.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Eu senti isso desde a primeira
+[2]vez que nos encontramos.
+[3]... ... ...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Ganon está dentro da torre,
+[2]aguardando para atravessar o
+[3]portal que liga os dois mundos.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Assim que Ganon entrar no
+[2]Mundo da Luz, é improvável que
+[3]alguém consiga impedi-lo.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Mas se ele for mantido
+[2]confinado neste mundo, você
+[3]será capaz de encontrá-lo,
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]não importa onde ele se
+[2]esconda.
+[3]                                          
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Algumas donzelas ainda
+[2]precisam de sua ajuda. 
+[3]                                          
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Assim que resgatá-las, siga
+[2]para a Torre de Ganon.
+[3]                                          
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Nós, que carregamos a linhagem
+[2]dos sábios, iremos então usar
+[3]o nosso poder para quebrar
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]a barreira de Ganon!  
+[2][H]... Você deve
+[3]devolver a paz ao mundo...
+[-]
+[00]
+!------------------------------!
+Ahá... [H]!
+[2]Estive esperando por você!
+[3]Heh, heh, heh...
+[S][E]Esperava fazer com que Zelda 
+[E]sumisse bem na sua frente.
+[E]Contemple! O último suspiro
+[S][E]da Princesa Zelda!
+[-]
+[00]
+!------------------------------!
+Hô, hô, hô... Com isso, o selo
+[2]dos sete sábios está, enfim,
+[3]quebrado.
+[S][E]Agora, é apenas uma questão
+[E]de tempo até que o poder
+[E]maligno cubra esta terra
+[S][E]por completo...
+[S][E]Afinal, o lendário Herói não é 
+[E]páreo para nós, a tribo do mal,
+[E]armados com o Poder Dourado.
+[S][E]Hô, hô, hô... 
+[E]Agora, tenho que ir!
+[-]
+[00]
+!------------------------------!
+Hô, hô! Parece que você quer 
+[2]que eu acabe com você!
+[3]Então, permita-me realizar
+[S][E]o seu desejo!
+[-]
+[00]
+!------------------------------!
+Grrrrugh! Muito bom, "Herói"!
+[2]Mas ainda não estou pronto
+[S][E]para admitir minha derrota...
+[E]Eu irei jogá-lo no Mundo das
+[E]Trevas!
+[-]
+[00]
+!------------------------------!
+Hô, hô, hô! Que bom você ter 
+[2]conseguido chegar até aqui,
+[3][H].
+[S][E]E, apesar de eu estar muito
+[E]feliz por nos encontrarmos
+[E]de novo... 
+[S][E]é melhor não acreditar que
+[E]teremos um terceiro encontro!
+[E]Prepare-se para o seu fim!
+[-]
+[00]
+!------------------------------!
+Wá, há, há! O que você deseja,
+[2]homenzinho? Você tem algo a
+[3]me pedir?
+[S][E]    [>]  Eu quero as Nadadeiras
+[E]        Só estou de passagem
+[05000068][-]
+[00]
+!------------------------------!
+Wá, há, há! Mas de forma alguma
+[2]darei as Nadadeiras de graça.
+[3]Eu as vendo por 500 Rúpias o
+[S][E]par.
+[S][E]O que vai ser?
+[E]    [>]  Pagar 500 Rúpias
+[E]        Sair
+[05000068][-]
+[00]
+!------------------------------!
+Wá, há, há! Um par de
+[2]Nadadeiras saindo. Eu lhe darei
+[3]um brinde com a sua compra.
+[S][E]Deixarei que use os mágicos
+[E]caminhos aquáticos do povo do
+[E]mar que ligam os lagos e rios.
+[S][E]Quando você vir um redemoinho,
+[E]mergulhe nele. Você nunca
+[E]saberá onde irá emergir!
+[S][E]Wá, há, há!
+[-]
+[00]
+!------------------------------!
+Volte aqui quando tiver mais
+[2]Rúpias...
+[3]Wá, há, há! Até mais!
+[-]
+[00]
+!------------------------------!
+Ótimo! Quando quiser ver minha
+[2]cara de peixe novamente, você
+[3]será bem-vindo aqui.
+[S][E]...
+[E]Wá, há, há! Tchau!
+[-]
+[00]
+!------------------------------!
+Oi, [H]!
+[2]Quem? O idoso? Está falando
+[3]do ancião?
+[S][E]Certo, mas não conte a nenhum
+[E]dos caras maus sobre isto.
+[S][E]Ele está se escondendo no
+[E]templo a leste do castelo. Vou
+[E]marcar o lugar no seu mapa.
+[06000079]-[-]
+[00]
+!------------------------------!
+Você encontrou o idoso? Se 
+[2]todas as pessoas más fossem
+[3]embora, ele poderia voltar para
+[S][E]a vila.
+[-]
+[00]
+!------------------------------!
+Você é novo por aqui, não é?
+[2]Você veio até aqui em busca
+[3]do Poder Dourado?
+[S][E]Bem, você chegou tarde. Ele
+[E]irá obedecer apenas à primeira 
+[E]pessoa que o tocar.
+[S][E]O último homem que reivindicou
+[E]o Poder Dourado desejou este
+[E]mundo.
+[S][E]Este mundo reflete o seu
+[E]coração.
+[S][E]Sim, eu vim aqui na ganância
+[E]de obter o Poder Dourado e
+[E]olhe o que aconteceu comigo...
+[S][E]Para restaurar a Terra
+[E]Dourada, uma pessoa digna do
+[E]Poder Dourado deve derrotar
+[S][E]o homem que criou este lugar...
+[E]Até hoje, eu estou preso nesta
+[E]forma bizarra.
+[S][E]Mas que coisa perigosa para se
+[E]deixar por aí...
+[E]O Poder Dourado...
+[S][E]Triforça...
+[-]
+[00]
+!------------------------------!
+     -Fonte Misteriosa-
+[2]Não vai jogar algo dentro?
+[3]
+[S][E]O que irá fazer?
+[E]    [>] Jogar um item
+[E]       Não tentar nada
+[05000068][-]
+[00]
+!------------------------------!
+Não faça isso!
+[-]
+[00]
+!------------------------------!
+Não faça isso!
+[-]
+[00]
+!------------------------------!
+Então, devolver-lhe-ei isso.
+[2]Não jogue novamente.
+[-]
+[00]
+!------------------------------!
+Quantas Rúpias você jogará?
+[2]    [>] [0600006C][01][0600006C][00] Rúpias
+[3]       [0600006C][03][0600006C][02] Rúpias
+[05000068][-]
+[00]
+!------------------------------!
+Você é uma pessoa honesta.
+[2]Gosto de você.
+[3]Dar-lhe-ei algo importante...
+[S][E]Estas são as Flechas de Prata.
+[E]Com certeza, você precisará
+[E]delas para dar o golpe final em
+[S][E]Ganon! Eu sei que não pareço
+[E]bem uma fada... A culpa é do
+[E]poder cruel de Ganon!
+[S][E]Você deve derrotar Ganon!
+[-]
+[00]
+!------------------------------!
+[2]   Sorte grande.
+[-]
+[00]
+!------------------------------!
+[2]   Boa sorte.
+[-]
+[00]
+!------------------------------!
+[2]   Pequena sorte.
+[-]
+[00]
+!------------------------------!
+[2]   Grande encrenca.
+[-]
+[00]
+!------------------------------!
+Para sua referência, hoje você
+[2]terá
+[-]
+[00]
+!------------------------------!
+Você encontrou um Pedaço de
+[2]Coração!
+[3]                 [05010052]
+[-]
+[00]
+!------------------------------!
+Você encontrou um Pedaço de
+[2]Coração!
+[3]                 [05010054]
+[-]
+[00]
+!------------------------------!
+Você encontrou um Pedaço de
+[2]Coração!
+[3]                 [05010055]
+[-]
+[00]
+!------------------------------!
+Você encontrou um Pedaço de
+[2]Coração!
+[3]                 [05010057]
+[S][E]O seu número de corações
+[E]aumentou!
+[-]
+[00]
+!------------------------------!
+Você encontrou um Recipiente
+[2]de Coração!
+[3]                 [05010057]
+[S][E]O seu número de corações
+[E]aumentou!
+[-]
+[00]
+!------------------------------!
+Vou curar suas feridas e
+[2]aliviar o seu cansaço...
+[3]Feche os olhos e relaxe...
+[-]
+[00]
+!------------------------------!
+Oh-Uau! Rola, rola...
+[2]Ei! Você se transformou em
+[3]um coelhinho...
+[S][E]O terreno neste mundo parece
+[E]com o terreno em nosso mundo,
+[E]mas é um pouquinho diferente.
+[S][E]E qualquer um que ande por
+[E]esta terra tem a forma
+[E]alterada para algo que reflita
+[S][E]sua verdadeira natureza. 
+[E]Estou sempre mudando de
+[E]ideia, então virei uma bola...
+[S][E]Mas se você tiver uma bola
+[E]chamada de Pérola Lunar,
+[E]poderá manter sua forma
+[S][E]original aqui.
+[-]
+[00]
+!------------------------------!
+Uau! Ei! Você não se
+[2]transformou! Você não é um
+[3]cara qualquer, né?
+[-]
+[00]
+!------------------------------!
+Ei! O que você quer?!
+[2]Você tem algo a me dizer,
+[3]coelho bobo?!
+[S][E]Eu vim aqui para pegar o Poder
+[E]Dourado, mas não posso voltar
+[E]ao mundo real desse jeito!
+[S][E]Se eu tivesse a Pérola Lunar
+[E]da Torre de Hera... Aí sim
+[E]eu poderia voltar a ser como
+[S][E]era antes! Tenho todo o direito
+[E]de estar estressado!
+[E]Então chega pra lá! Cai fora!
+[-]
+[00]
+!------------------------------!
+UAU! Sua forma não mudou!
+[2]Você tem a Pérola Lunar, né?
+[-]
+[00]
+!------------------------------!
+Em um mundo tão perigoso,
+[2]talvez você precise de ajuda.
+[3]Escolha o que mais lhe agradar.
+[-]
+[00]
+!------------------------------!
+Olá, posso ajudá-lo? Você pode
+[2]abrir dois baús por 30 Rúpias.
+[3]Por que você não tenta?
+[S][E]O que você fará?
+[E]    [>] Jogar
+[E]       Talvez na próxima
+[05000068][-]
+[00]
+!------------------------------!
+Bom, volte e jogue uma outra
+[2]hora. Estarei esperando por
+[3]você. Até lá, tchau!
+[-]
+[00]
+!------------------------------!
+Ei, garoto!
+[2]Você pode abrir os baús só
+[3]depois de pagar Rúpias!
+[-]
+[00]
+!------------------------------!
+Você não pode abrir mais baús.
+[2]O jogo acabou.
+[-]
+[00]
+!------------------------------!
+Muito bem, garoto.
+[2]Escolha bem! Boa sorte!
+[-]
+[00]
+!------------------------------!
+Posso ajudá-lo? Escolha o que
+[2]quiser (Pressione o Botão [R]).
+[3]Os preços estão à mostra!
+[-]
+[00]
+!------------------------------!
+Você não precisa desse item...
+[2]Por que não escolhe outro?
+[-]
+[00]
+!------------------------------!
+Muito obrigado.
+[2]Sempre que você perder seu
+[3]escudo, volte aqui novamente.
+[-]
+[00]
+!------------------------------!
+Muito obrigado.
+[2]Este é o Remédio de Vida. Ele
+[3]ajuda a restaurar sua energia.
+[-]
+[00]
+!------------------------------!
+Muito obrigado.
+[2]Isso são flechas. Você não 
+[3]pode usá-las sem um Arco.
+[-]
+[00]
+!------------------------------!
+Isso são bombas.
+[2]Sabia que você pode pegar uma
+[3]bomba que já tenha soltado?
+[S][E](Pressione o Botão [R])
+[-]
+[00]
+!------------------------------!
+Muito obrigado.
+[2]Isto é uma abelha. Nem me
+[3]pergunte para que é usada.
+[-]
+[00]
+!------------------------------!
+Muito obrigado.
+[2]Você pode recuperar
+[3]um coração.
+[-]
+[00]
+!------------------------------!
+Não, não, não... Não posso
+[2]vender a mercadoria pois você
+[3]não possui um frasco vazio.
+[-]
+[00]
+!------------------------------!
+Você não pode carregar mais
+[2]nada agora, mas talvez precise
+[3]de um pouco disso mais tarde!
+[-]
+[00]
+!------------------------------!
+Nunca pensei que um garoto
+[2]como você pudesse me dar
+[3]tanto trabalho.
+[S][E]É inacreditável que você
+[E]tenha derrotado meu alter
+[E]ego, Agahnim, o Feiticeiro
+[S][E]das Trevas, duas vezes!
+[S][E]Mas eu nunca cederei a
+[E]Triforça. Destruirei você e
+[E]farei com que o meu desejo de 
+[S][E]conquistar ambos os mundos,
+[E]Luz e Trevas, se torne
+[E]realidade sem mais delongas.
+[-]
+[00]
+!------------------------------!
+Você está indo bem, rapaz.
+[2]Mas será que você consegue
+[3]superar esta técnica secreta
+[S][E]das Trevas?
+[E]Em guarda!
+[-]
+[00]
+!------------------------------!
+Ei, garoto, este é um
+[2]esconderijo secreto de
+[3]uma gangue de ladrões!
+[S][E]Não entre sem permissão!
+[E]A propósito, ouvi dizer que um
+[E]de nossos ex-membros está na
+[S][E]entrada do deserto.
+[-]
+[00]
+!------------------------------!
+Ei, [H]! Esta casa
+[2]costumava ser o esconderijo 
+[3]de uma gangue de ladrões.
+[S][E]Como era mesmo o nome do
+[E]líder deles...
+[S][E]Ah, sim, seu nome era Blecaute
+[E]e ele odiava a luz intensa.
+[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][00][0600006B][02]
+Bem-vindo, [H]...
+[2]Eu sou a Essência da
+[3]Triforça.
+[S][E]... ... ...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]A Triforça realizará os desejos
+[2]do coração e mente da pessoa
+[3]que tocá-la.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Se uma pessoa de bom coração
+[2]tocá-la, ela fará seus desejos
+[3]bondosos virarem realidade... 
+[S][E]Se alguém de coração maligno
+[E]tocá-la, ela lhe concederá os
+[E]seus desejos maléficos.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Quanto mais forte for o
+[2]desejo, mais poderosa é a
+[3]expressão da Triforça
+[S][E]daquele desejo.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]O desejo de Ganon era
+[2]conquistar o mundo. Esse
+[3]desejo transformou a Terra
+[S][E]Dourada no Mundo das Trevas.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Após se fortalecer, Ganon
+[2]planejou seguir ao Mundo da
+[3]Luz para realizar o seu desejo.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Mas agora que Ganon foi
+[2]destruído, o seu Mundo das
+[3]Trevas certamente irá
+[S][E]desaparecer.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]A Triforça está esperando por
+[2]um novo mestre. Seu Poder
+[3]Dourado está em suas mãos...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Agora, toque-a e pense no
+[2]desejo em seu coração.
+[3]...   ...   ...   ...
+[-]
+[00]
+!------------------------------!
+Muito bem! Tome essa, ladrão!
+[-]
+[00]
+!------------------------------!
+Uau... Eu a vi.
+[2]Uma bela jovem na Cachoeira
+[3]dos Desejos nas colinas onde o
+[S][E]rio nasce...
+[E][H], você deveria vê-la ao
+[E]menos uma vez. Tenho certeza
+[S][E]que você gostará dela.
+[-]
+[00]
+!------------------------------!
+Tome algumas Rúpias, mas não
+[2]conte a ninguém que eu lhe dei.
+[3]Isso fica só entre nós, certo?
+[-]
+[00]
+!------------------------------!
+Verifique a caverna a leste do
+[2]Lago Hylia. Coisas estranhas e
+[3]maravilhosas vivem lá...
+[-]
+[00]
+!------------------------------!
+Você pode ganhar muitas Rúpias
+[2]derrotando inimigos. Este é o
+[3]segredo do meu sucesso...
+[-]
+[00]
+!------------------------------!
+[H], sabia que se você
+[2]destruir inimigos congelados
+[3]com o Martelo, você conseguirá
+[S][E]por muitas vezes um Vaso de
+[E]Magia?
+[-]
+[00]
+!------------------------------!
+Tra, la, la, procure por
+[2]Sahasrahla.
+[3]... ... ...
+[-]
+[00]
+!------------------------------!
+Isso aí, você encontrou
+[2]Sahasrahla!
+[3]... ... ...
+[S][E]Bom trabalho, la, la, la!
+[-]
+[00]
+!------------------------------!
+Desculpe, mas parece que você
+[2]não tem Rúpias suficientes...
+[-]
+[00]
+!------------------------------!
+Có, có, có...  O quê?!
+[2]Você me transformou em um
+[3]humano. Posso até falar!
+[S][E]A-há! Você deve ser aquele que
+[E]está sempre importunando os
+[E]meus amigos. O Cata-Vento viu
+[S][E]você incomodá-los.
+[E]Está forma humana é muito
+[E]inconveniente para mim.
+[S][E]Ahhh, quero voltar a ser um
+[E]cucco de novo! Có, có, có...
+[-]
+[00]
+!------------------------------!
+Pague-me 20 Rúpias e deixarei
+[2]você abrir um baú. Você pode
+[3]ficar com o que tiver dentro.
+[S][E]O que você fará?
+[E]    [>]  Abrir um baú
+[E]        Sair
+[05000068][-]
+[00]
+!------------------------------!
+Muito bem! Abra o baú que
+[2]você quiser!
+[-]
+[00]
+!------------------------------!
+Oh, entendo... Que pena.
+[2]Passe aqui novamente depois
+[3]de coletar algumas Rúpias.
+[-]
+[00]
+!------------------------------!
+Por 100 Rúpias, deixarei você
+[2]abrir um baú e ficar com o
+[3]tesouro que tem dentro.
+[S][E]O que você fará?
+[E]    [>]  Abrir um baú
+[E]        Sair
+[05000068][-]
+[00]
+!------------------------------!
+Oi, [H]. Desculpe pelo meu
+[2]quintal, mas obrigado por
+[3]atravessá-lo para me ver.
+[S][E]Fico feliz em ter alguém com
+[E]quem conversar, então me
+[E]deixe contar uma história
+[S][E]interessante...
+[E]Há um lago com Zoras na
+[E]nascente do rio, mas é muito
+[S][E]difícil de encontrar.
+[E]Dizem que o tesouro dos Zoras
+[E]pode transformar pessoas em
+[S][E]peixe.
+[E]Heh, heh! Adoraria ver isso!
+[-]
+[00]
+!------------------------------!
+Eu não tive a chance de aparar
+[2]a grama recentemente. Mesmo
+[3]assim, obrigado pela visita...
+[S][E]Há algum tempo, havia um
+[E]garoto nessa vila que podia
+[E]se comunicar com os animais
+[S][E]através de sua ocarina.
+[E]E dizem que ele conheceu um
+[E]pássaro que voou com ele ao
+[S][E]redor do mundo. Deve ter sido
+[E]uma senhora ocarina!
+[-]
+[00]
+!------------------------------!
+[0600006D][00][0600007A][00][>]Começar da Casa de [H]
+[2]  Começar do Santuário
+[05000072][-]
+[00]
+!------------------------------!
+[0600006D][00][0600007A][00][>]Começar da Casa de [H]
+[2]  Começar do Santuário
+[3]  Começar da Montanha
+[05000071][-]
+[00]
+!------------------------------!
+[0600007A][00][>] Continuar o Jogo
+[2]   Salvar
+[3]   Descanso
+[05000070][05000071][-]
+[00]
+!------------------------------!
+[0600007A][00]Deseja salvar o jogo?
+[2]    [>] Sim
+[3]       Não
+[05000070][05000068][-]
+[00]
+!------------------------------!
+[0600007A][00]O jogo foi salvo.
+[2]    [>] Continuar Jogo
+[3]       Sair
+[05000070][05000068][-]
+[00]
+!------------------------------!
+[0600007A][00]Entrar no Modo de Descanso?
+[2]    [>] Não
+[3]       Sim
+[05000070][05000068][-]
+[00]
+!------------------------------!
+[0600007A][00]Para sair do Modo de Descanso,
+[2]pressione SELECT, [L] e [R]
+[3]simultaneamente.
+[-]
+[00]
+!------------------------------!
+[0600006D][00][0600007A][00][>]Começar do Local Salvo
+[2]  Começar da Casa de [H]
+[3]  Começar do Santuário
+[05000071][-]
+[00]
+!------------------------------!
+[0600006D][00][0600007A][00][>]Começar do Local Salvo
+[2]  Começar na Pirâmide
+[05000072][-]
+[00]
+!------------------------------!
+[0600007A][00]Salvando...
+[2]Não desligue.
+[-][00]
+!------------------------------!
+[0600006D][01][0600006B][02][0600007A][00]
+[2]    [>] Continuar
+[3]       Novo Jogo
+[05000068][-][00]
+!------------------------------!
+Bem-vindo ao campo dos
+[2]tesouros. O objetivo é cavar o
+[3]máximo de buracos que você
+[S][E]conseguir em 30 segundos.
+[E]Qualquer tesouro que você
+[E]desenterrar será seu.
+[S][E]São só 80 Rúpias para jogar.
+[S][E]O que me diz?
+[E]    [>] Quero cavar
+[E]       Não quero cavar
+[05000068][-]
+[00]
+!------------------------------!
+Então, emprestarei uma pá.
+[2]Quando a tiver em mãos,
+[3]pressione o Botão [A] para
+[S][E]começar a cavar!
+[-]
+[00]
+!------------------------------!
+Entendo. Então, não insistirei.
+[2]Economize algumas Rúpias e
+[3]volte uma outra hora.
+[-]
+[00]
+!------------------------------!
+OK! Acabou o tempo, fim de
+[2]jogo. Volte sempre. Tchau...
+[-][00]
+!------------------------------!
+Volte outra hora!
+[2]Estarei esperando por você.
+[-]
+[00]
+!------------------------------!
+Não posso dar detalhes, mas
+[2]agora não é uma boa hora para
+[3]mim. Volte outra hora.
+[S][E]Desculpe.
+[-]
+[00]
+!------------------------------!
+[0600006B][02][06000077][0C]
+[2]          Templo do Leste
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]
+[2]          Templo do Deserto
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]
+[2]             Torre de Hera
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]                  Nível 1
+[2]         Templo das Sombras
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]                 Nível 2
+[2]            Templo da Água
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]                 Nível 3
+[2]            Bosque Caveira
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]                 Nível 4
+[2]         Cidade dos Ladrões
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]                 Nível 5
+[2]            Galeria de Gelo
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]                 Nível 6
+[2]        Atoleiro do Tormento
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]                 Nível 7
+[2]         Rochedo Tartaruga
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]                 Nível 8
+[2]            Torre de Ganon
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]
+[2]   Templo da Espada dos Quatro
+[-][00]
+!------------------------------!
+Oh, meu caro... Essa abelha
+[2]dourada é nosso orgulho.
+[S][E]Não posso simplesmente dar
+[E]uma abelha rara como essa.
+[-][00]
+!------------------------------!
+Oh, nossa! Você tem uma abelha
+[2]rara igual à nossa...
+[3]... ... ...
+[S][E]Talvez não seja tão rara
+[E]quanto pensei que fosse.
+[-]
+[00]
+!------------------------------!
+Muito obrigado!
+[2]Essa abelha dourada... Não
+[3]é de uma beleza cintilante?
+[-]
+[00]
+!------------------------------!
+Muito obrigado!
+[2]Isso é uma fada.
+[3]Cuide bem dela!
+[-][00]
+!------------------------------!
+Heh heh! Obrigado! Na verdade,
+[2]apenas verdadeiros heróis
+[3]podem entrar neste templo.
+[-]
+[00]
+!------------------------------!
+Heh heh! Obrigado! Na verdade,
+[2]este templo é precisamente 
+[3]para heróis como você.
+[S][E]Aposto que consegue passar
+[E]por ele... Mas você precisará
+[E]de tudo que você obteve!
+[-]
+[00]
+!------------------------------!
+Uhhnn... [H]... Não queria
+[2]que se envolvesse nisto...
+[3]Eu disse para não sair de casa.
+[S][E]Você precisa resgatar a
+[E]Princesa Zelda...
+[S][E]Você é... da princesa... 
+[E]... ... ...
+[E]
+[-]
+[00]
+!------------------------------!
+Não tenho mais forças...
+[2]Não posso cortar as árvores
+[3]como os gigantes.
+[S][E]Mas sou muito bom em enigmas.
+[-]
+[00]
+!------------------------------!
+[H]! Em vez de derrubar
+[2]árvores, aprendi algumas
+[3]técnicas de talhar madeira!
+[S][E]Se puder resolver alguns de
+[E]meus enigmas, farei algo
+[E]especial para você!
+[S][E]Quer tentar?
+[E]    [>]  Vou tentar
+[E]        Não, obrigado
+[05000068][-]
+[00]
+!------------------------------!
+Posso fazer algumas coisas
+[2]bem legais...
+[-][00]
+!------------------------------!
+Pegue esta cesta. Coloque o
+[2]que você achar que é o item
+[3]correto e traga-o para mim.
+[-]
+[00]
+!------------------------------!
+Você poderá conseguir isto se
+[2]for rápido com sua Rede de
+[3]Insetos. Agora, ao enigma!
+[-][00]
+!------------------------------!
+[H]! Descobriu a resposta?
+[2]Então... Cadê ela? Mostre-me
+[3]o que há em sua cesta!
+[S][E]Ei! Você está certo!
+[06000079]-[E]Ahhh! Não acredito!
+[E]Certo. Para o próximo enigma!
+[-]
+[00]
+!------------------------------!
+[H]! Descobriu a resposta?
+[2]Então... Cadê ela? Mostre-me
+[3]o que há em sua cesta!
+[S][E]Quê?! Está certo!
+[06000079]-[E]Desta vez, eu lhe darei a
+[E]escultura que eu fiz.
+[S][E]Mandarei para a sua casa.
+[E]Agora, próximo enigma!
+[-]
+[00]
+!------------------------------!
+[H]! Descobriu a resposta?
+[2]Então... Cadê ela? Mostre-me
+[3]o que há em sua cesta!
+[S][E]Quê?! Você está certo! Nããão!
+[06000079]-[E]Não pode ser! Não sou páreo
+[S][E]para você! Acho que terei que
+[E]ensinar a técnica espadachim 
+[E]secreta da minha família...
+[S][E]Carregue sua espada e
+[E]pressione o Botão [B] muitas
+[E]vezes.
+[S][E]Assim sua carga irá durar muito
+[E]mais tempo.
+[-][00]
+!------------------------------!
+Ahhh... Não consigo pensar em
+[2]mais nenhum enigma...
+[S][E]Quer tentar uma técnica?
+[E]Carregue sua espada e
+[E]então pressione o Botão [B]
+[S][E]repetidamente.
+[-]
+[00]
+!------------------------------!
+[H]! Descobriu a resposta?
+[2]Então...? Cadê ela? Mostre-me
+[3]o que há em sua cesta!
+[S][E]Heh, heh, heh! ERRADO!
+[06000079][00][E]Vou esvaziar sua cesta para
+[S][E]você tentar de novo.
+[-]
+[00]
+!------------------------------!
+Você aprendeu uma nova
+[2]técnica espadachim! Gire como
+[3]um tornado e fatie os seus
+[S][E]inimigos! 
+[E]Mas cuidado com o seu Medidor
+[E]de Magia...
+[-][00]
+!------------------------------!
+Cocoricó!
+[2]O que é isto? Encontre e
+[S][3]capture com sua rede
+[E]de insetos!
+[-]
+[00]
+!------------------------------!
+A tesoura às margens da
+[2]água...
+[3]O que é?
+[-]
+[00]
+!------------------------------!
+É brilhante e vermelho.
+[2]O que é?
+[-]
+[00]
+!------------------------------!
+É úmido e fresco...
+[2]O que é?
+[-]
+[00]
+!------------------------------!
+BUUUM! Monstrinhos se
+[2]espalham... 
+[3]O que é?
+[-][00]
+!------------------------------!
+Espalhe pó e veja-o balançar...
+[2]O que é?
+[-]
+[00]
+!------------------------------!
+Mastiga nozes ruidosamente...
+[2]O que é?
+[-]
+[00]
+!------------------------------!
+Puxe do pedestal, mas... 
+[2]que pena!
+[3]O que é?
+[-]
+[00]
+!------------------------------!
+É vermelha e doce...
+[2]O que é?
+[-]
+[00]
+!------------------------------!
+O andarilho de óculos...
+[2]O que é?
+[-]
+[00]
+!------------------------------!
+Você pegou um Cucco! Será esta
+[2]a resposta para o enigma?
+[S][3]O que você irá fazer?
+[E]    [>]  Colocar na cesta
+[E]        Soltar
+[05000068][-][00]
+!------------------------------!
+Você pegou um caranguejo! Será
+[2]esta a resposta para o enigma?
+[S][3]O que você irá fazer?
+[E]    [>]  Colocar na cesta
+[E]        Soltar
+[05000068][-][00]
+!------------------------------!
+Você capturou 20 Rúpias! Será
+[2]esta a resposta para o enigma?
+[S][3]O que você irá fazer?
+[E]    [>]  Colocar na cesta
+[E]        Soltar
+[05000068][-][00]
+!------------------------------!
+Você pegou um peixe! Será esta
+[2]a resposta para o enigma?
+[S][3]O que você irá fazer?
+[E]    [>]  Colocar na cesta
+[E]        Soltar
+[05000068][-][00]
+!------------------------------!
+Você pegou um octobalão! Será
+[2]esta a resposta para o enigma?
+[S][3]O que você irá fazer?
+[E]    [>]  Colocar na cesta
+[E]        Soltar
+[05000068][-][00]
+!------------------------------!
+Você pegou um slime! É esta a
+[2]resposta para o enigma?
+[S][3]O que você irá fazer?
+[E]    [>]  Colocar na cesta
+[E]        Soltar
+[05000068][-][00]
+!------------------------------!
+Você pegou um esquilo! Será
+[2]esta a resposta para o enigma?
+[S][3]O que você irá fazer?
+[E]    [>]  Colocar na cesta
+[E]        Soltar
+[05000068][-][00]
+!------------------------------!
+Você obteve uma Espada
+[2]Mestra falsa! Será esta
+[3]a resposta do enigma?
+[S][E]O que você irá fazer?
+[E]    [>]  Colocar na cesta
+[E]        Soltar
+[05000068][-][00]
+!------------------------------!
+Você pegou uma maçã em sua
+[2]rede! Será esta a resposta 
+[3]para o enigma?
+[S][E]O que você irá fazer?
+[E]    [>]  Colocar na cesta
+[E]        Soltar
+[05000068][-][00]
+!------------------------------!
+Você pegou um homem-pepino!
+[2]Será está a resposta para o
+[3]enigma?
+[S][E]O que você irá fazer?
+[E]    [>]  Colocar na cesta
+[E]        Soltar
+[05000068][-][00][00][00][00][00]
+!------------------------------!

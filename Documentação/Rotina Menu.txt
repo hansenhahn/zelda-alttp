@@ -1,0 +1,833 @@
+; ============================
+; Rotina de desenho do menu!
+; Descrição: Menu hardcoded.
+; Cada seção do menu (não confundir com itens ou ações) é preechida nessa rotina (eg ITEM, EQUIPMENTS, etc.)
+;
+; Deve ser colocado em outro lugar
+; ============================
+080A7B24 B570     push    r4-r6,r14
+080A7B26 4808     ldr     r0,=2000400h
+080A7B28 8805     ldrh    r5,[r0]				; [02000400] = 0 (Nenhuma halfword escrita ainda)
+080A7B2A 4908     ldr     r1,=3002230h
+080A7B2C 4A08     ldr     r2,=98Eh
+080A7B2E 1888     add     r0,r1,r2				; 03002BBE
+080A7B30 7800     ldrb    r0,[r0]				; [03002BBE] = 1 (Mutável?)
+080A7B32 0600     lsl     r0,r0,18h
+080A7B34 1600     asr     r0,r0,18h
+080A7B36 1C0E     mov     r6,r1
+080A7B38 2806     cmp     r0,6h				
+080A7B3A D900     bls     80A7B3Eh				
+; Só acontece se 080A7B3A for falso
+080A7B3C E22E     b       80A7F9Ch				; Salto direto para escrever ITEM / DO
+;
+080A7B3E 0080     lsl     r0,r0,2h				; 1 << 2 = 4
+080A7B40 4904     ldr     r1,=80A7B58h
+080A7B42 1840     add     r0,r0,r1				; 080A7B5C
+080A7B44 6800     ldr     r0,[r0]				; [080A7B5C] = 080A7F9C
+080A7B46 4687     mov     r15,r0				; Move R0 para PC
+; Se R0 = 0 : PC = 080A7B74		( Escrever ???? )
+; Se R0 = 1 : PC = 080A7F9C		( Escrever ITEM / DO )
+; Se R0 = 2 : PC = 080A7F9C		( Escrever ITEM / DO )
+; Se R0 = 3 : PC = 080A7C38		( Escrever ???? )
+; Se R0 = 4 : PC = 080A7D20		( Escrever ???? )	
+; Se R0 = 5 : PC = 080A7DE4		( Escrever ???? )
+; ================ Pool. Desconsiderar ================
+; 080A7B48 0400     lsl     r0,r0,10h
+; 080A7B4A 0200     lsl     r0,r0,8h
+; 080A7B4C 2230     mov     r2,30h
+; 080A7B4E 0300     lsl     r0,r0,0Ch
+; 080A7B50 098E     lsr     r6,r1,6h
+; 080A7B52 0000     lsl     r0,r0,0h
+; 080A7B54 7B58     ldrb    r0,[r3,0Dh]
+; 080A7B56 080A     lsr     r2,r1,20h
+; 080A7B58 7B74     ldrb    r4,[r6,0Dh]
+; 080A7B5A 080A     lsr     r2,r1,20h
+; 080A7B5C 7F9C     ldrb    r4,[r3,1Eh]
+; 080A7B5E 080A     lsr     r2,r1,20h
+; 080A7B60 7F9C     ldrb    r4,[r3,1Eh]
+; 080A7B62 080A     lsr     r2,r1,20h
+; 080A7B64 7C38     ldrb    r0,[r7,10h]
+; 080A7B66 080A     lsr     r2,r1,20h
+; 080A7B68 7D20     ldrb    r0,[r4,14h]
+; 080A7B6A 080A     lsr     r2,r1,20h
+; 080A7B6C 7DE4     ldrb    r4,[r4,17h]
+; 080A7B6E 080A     lsr     r2,r1,20h
+; 080A7B70 7EBC     ldrb    r4,[r7,1Ah]
+; 080A7B72 080A     lsr     r2,r1,20h
+; =====================================================
+080A7B74 0069     lsl     r1,r5,1h
+080A7B76 4B24     ldr     r3,=2000402h
+080A7B78 18CA     add     r2,r1,r3
+080A7B7A 4C24     ldr     r4,=9246h
+080A7B7C 1C20     mov     r0,r4
+080A7B7E 8010     strh    r0,[r2]
+080A7B80 4823     ldr     r0,=2000404h
+080A7B82 180A     add     r2,r1,r0
+080A7B84 2004     mov     r0,4h
+080A7B86 8010     strh    r0,[r2]
+080A7B88 3304     add     r3,4h
+080A7B8A 18CA     add     r2,r1,r3
+080A7B8C 4C21     ldr     r4,=81F4h
+080A7B8E 1C20     mov     r0,r4
+080A7B90 8010     strh    r0,[r2]
+080A7B92 4821     ldr     r0,=2000408h
+080A7B94 180A     add     r2,r1,r0
+080A7B96 4B21     ldr     r3,=81F5h
+080A7B98 1C18     mov     r0,r3
+080A7B9A 8010     strh    r0,[r2]
+080A7B9C 4C20     ldr     r4,=200040Ah
+080A7B9E 190A     add     r2,r1,r4
+080A7BA0 3301     add     r3,1h
+080A7BA2 1C18     mov     r0,r3
+080A7BA4 8010     strh    r0,[r2]
+080A7BA6 3402     add     r4,2h
+080A7BA8 190A     add     r2,r1,r4
+080A7BAA 3301     add     r3,1h
+080A7BAC 1C18     mov     r0,r3
+080A7BAE 8010     strh    r0,[r2]
+080A7BB0 3402     add     r4,2h
+080A7BB2 190A     add     r2,r1,r4
+080A7BB4 4B1B     ldr     r3,=9586h
+080A7BB6 1C18     mov     r0,r3
+080A7BB8 8010     strh    r0,[r2]
+080A7BBA 3402     add     r4,2h
+080A7BBC 190A     add     r2,r1,r4
+080A7BBE 2005     mov     r0,5h
+080A7BC0 8010     strh    r0,[r2]
+080A7BC2 4819     ldr     r0,=2000412h
+080A7BC4 180A     add     r2,r1,r0
+080A7BC6 4B19     ldr     r3,=81F8h
+080A7BC8 1C18     mov     r0,r3
+080A7BCA 8010     strh    r0,[r2]
+080A7BCC 3404     add     r4,4h
+080A7BCE 190A     add     r2,r1,r4
+080A7BD0 3301     add     r3,1h
+080A7BD2 1C18     mov     r0,r3
+080A7BD4 8010     strh    r0,[r2]
+080A7BD6 3402     add     r4,2h
+080A7BD8 190A     add     r2,r1,r4
+080A7BDA 3301     add     r3,1h
+080A7BDC 1C18     mov     r0,r3
+080A7BDE 8010     strh    r0,[r2]
+080A7BE0 3402     add     r4,2h
+080A7BE2 190A     add     r2,r1,r4
+080A7BE4 3301     add     r3,1h
+080A7BE6 1C18     mov     r0,r3
+080A7BE8 8010     strh    r0,[r2]
+080A7BEA 3402     add     r4,2h
+080A7BEC 190A     add     r2,r1,r4
+080A7BEE 3301     add     r3,1h
+080A7BF0 1C18     mov     r0,r3
+080A7BF2 8010     strh    r0,[r2]
+080A7BF4 3402     add     r4,2h
+080A7BF6 1909     add     r1,r1,r4
+080A7BF8 4A0D     ldr     r2,=0FFFFh
+080A7BFA 1C10     mov     r0,r2
+080A7BFC 8008     strh    r0,[r1]
+080A7BFE 490D     ldr     r1,=2000400h
+080A7C00 1C28     mov     r0,r5
+080A7C02 300D     add     r0,0Dh
+080A7C04 E203     b       80A800Eh					; Continua programação normal
+; ================ Pool. Desconsiderar ================
+; 080A7C06 0000     lsl     r0,r0,0h
+; 080A7C08 0402     lsl     r2,r0,10h
+; 080A7C0A 0200     lsl     r0,r0,8h
+; 080A7C0C 9246     str     r2,[sp,118h]
+; 080A7C0E 0000     lsl     r0,r0,0h
+; 080A7C10 0404     lsl     r4,r0,10h
+; 080A7C12 0200     lsl     r0,r0,8h
+; 080A7C14 81F4     strh    r4,[r6,0Eh]
+; 080A7C16 0000     lsl     r0,r0,0h
+; 080A7C18 0408     lsl     r0,r1,10h
+; 080A7C1A 0200     lsl     r0,r0,8h
+; 080A7C1C 81F5     strh    r5,[r6,0Eh]
+; 080A7C1E 0000     lsl     r0,r0,0h
+; 080A7C20 040A     lsl     r2,r1,10h
+; 080A7C22 0200     lsl     r0,r0,8h
+; 080A7C24 9586     str     r5,[sp,218h]
+; 080A7C26 0000     lsl     r0,r0,0h
+; 080A7C28 0412     lsl     r2,r2,10h
+; 080A7C2A 0200     lsl     r0,r0,8h
+; 080A7C2C 81F8     strh    r0,[r7,0Eh]
+; 080A7C2E 0000     lsl     r0,r0,0h
+; 080A7C30 FFFF0000 ????
+; 080A7C32 0000     lsl     r0,r0,0h
+; 080A7C34 0400     lsl     r0,r0,10h
+; 080A7C36 0200     lsl     r0,r0,8h
+; =====================================================
+080A7C38 0069     lsl     r1,r5,1h
+080A7C3A 4B26     ldr     r3,=2000402h
+080A7C3C 18CA     add     r2,r1,r3
+080A7C3E 4C26     ldr     r4,=9246h
+080A7C40 1C20     mov     r0,r4
+080A7C42 8010     strh    r0,[r2]
+080A7C44 4A25     ldr     r2,=2000404h
+080A7C46 1888     add     r0,r1,r2
+080A7C48 2305     mov     r3,5h
+080A7C4A 8003     strh    r3,[r0]
+080A7C4C 4C24     ldr     r4,=2000406h
+080A7C4E 190A     add     r2,r1,r4
+080A7C50 4C24     ldr     r4,=81F0h
+080A7C52 1C20     mov     r0,r4
+080A7C54 8010     strh    r0,[r2]
+080A7C56 4824     ldr     r0,=2000408h
+080A7C58 180A     add     r2,r1,r0
+080A7C5A 3401     add     r4,1h
+080A7C5C 1C20     mov     r0,r4
+080A7C5E 8010     strh    r0,[r2]
+080A7C60 4822     ldr     r0,=200040Ah
+080A7C62 180A     add     r2,r1,r0
+080A7C64 3401     add     r4,1h
+080A7C66 1C20     mov     r0,r4
+080A7C68 8010     strh    r0,[r2]
+080A7C6A 4821     ldr     r0,=200040Ch
+080A7C6C 180A     add     r2,r1,r0
+080A7C6E 3401     add     r4,1h
+080A7C70 1C20     mov     r0,r4
+080A7C72 8010     strh    r0,[r2]
+080A7C74 481F     ldr     r0,=200040Eh
+080A7C76 180A     add     r2,r1,r0
+080A7C78 3401     add     r4,1h
+080A7C7A 1C20     mov     r0,r4
+080A7C7C 8010     strh    r0,[r2]
+080A7C7E 481E     ldr     r0,=2000410h
+080A7C80 180A     add     r2,r1,r0
+080A7C82 4C1E     ldr     r4,=9586h
+080A7C84 1C20     mov     r0,r4
+080A7C86 8010     strh    r0,[r2]
+080A7C88 4A1D     ldr     r2,=2000412h
+080A7C8A 1888     add     r0,r1,r2
+080A7C8C 8003     strh    r3,[r0]
+080A7C8E 4B1D     ldr     r3,=2000414h
+080A7C90 18CA     add     r2,r1,r3
+080A7C92 4C1D     ldr     r4,=81F5h
+080A7C94 1C20     mov     r0,r4
+080A7C96 8010     strh    r0,[r2]
+080A7C98 481C     ldr     r0,=2000416h
+080A7C9A 180A     add     r2,r1,r0
+080A7C9C 4B1C     ldr     r3,=81F6h
+080A7C9E 1C18     mov     r0,r3
+080A7CA0 8010     strh    r0,[r2]
+080A7CA2 4C1C     ldr     r4,=2000418h
+080A7CA4 190A     add     r2,r1,r4
+080A7CA6 3301     add     r3,1h
+080A7CA8 1C18     mov     r0,r3
+080A7CAA 8010     strh    r0,[r2]
+080A7CAC 3402     add     r4,2h
+080A7CAE 190A     add     r2,r1,r4
+080A7CB0 3301     add     r3,1h
+080A7CB2 1C18     mov     r0,r3
+080A7CB4 8010     strh    r0,[r2]
+080A7CB6 3402     add     r4,2h
+080A7CB8 190A     add     r2,r1,r4
+080A7CBA 3301     add     r3,1h
+080A7CBC 1C18     mov     r0,r3
+080A7CBE 8010     strh    r0,[r2]
+080A7CC0 3402     add     r4,2h
+080A7CC2 1909     add     r1,r1,r4
+080A7CC4 4A14     ldr     r2,=0FFFFh
+080A7CC6 1C10     mov     r0,r2
+080A7CC8 8008     strh    r0,[r1]
+080A7CCA 4914     ldr     r1,=2000400h
+080A7CCC 1C28     mov     r0,r5
+080A7CCE 300E     add     r0,0Eh
+080A7CD0 E19D     b       80A800Eh					; Continua programação normal
+; ================ Pool. Desconsiderar ================
+; 080A7CD2 0000     lsl     r0,r0,0h
+; 080A7CD4 0402     lsl     r2,r0,10h
+; 080A7CD6 0200     lsl     r0,r0,8h
+; 080A7CD8 9246     str     r2,[sp,118h]
+; 080A7CDA 0000     lsl     r0,r0,0h
+; 080A7CDC 0404     lsl     r4,r0,10h
+; 080A7CDE 0200     lsl     r0,r0,8h
+; 080A7CE0 0406     lsl     r6,r0,10h
+; 080A7CE2 0200     lsl     r0,r0,8h
+; 080A7CE4 81F0     strh    r0,[r6,0Eh]
+; 080A7CE6 0000     lsl     r0,r0,0h
+; 080A7CE8 0408     lsl     r0,r1,10h
+; 080A7CEA 0200     lsl     r0,r0,8h
+; 080A7CEC 040A     lsl     r2,r1,10h
+; 080A7CEE 0200     lsl     r0,r0,8h
+; 080A7CF0 040C     lsl     r4,r1,10h
+; 080A7CF2 0200     lsl     r0,r0,8h
+; 080A7CF4 040E     lsl     r6,r1,10h
+; 080A7CF6 0200     lsl     r0,r0,8h
+; 080A7CF8 0410     lsl     r0,r2,10h
+; 080A7CFA 0200     lsl     r0,r0,8h
+; 080A7CFC 9586     str     r5,[sp,218h]
+; 080A7CFE 0000     lsl     r0,r0,0h
+; 080A7D00 0412     lsl     r2,r2,10h
+; 080A7D02 0200     lsl     r0,r0,8h
+; 080A7D04 0414     lsl     r4,r2,10h
+; 080A7D06 0200     lsl     r0,r0,8h
+; 080A7D08 81F5     strh    r5,[r6,0Eh]
+; 080A7D0A 0000     lsl     r0,r0,0h
+; 080A7D0C 0416     lsl     r6,r2,10h
+; 080A7D0E 0200     lsl     r0,r0,8h
+; 080A7D10 81F6     strh    r6,[r6,0Eh]
+; 080A7D12 0000     lsl     r0,r0,0h
+; 080A7D14 0418     lsl     r0,r3,10h
+; 080A7D16 0200     lsl     r0,r0,8h
+; 080A7D18 FFFF0000 ????
+; 080A7D1A 0000     lsl     r0,r0,0h
+; 080A7D1C 0400     lsl     r0,r0,10h
+; 080A7D1E 0200     lsl     r0,r0,8h
+; =====================================================
+080A7D20 0069     lsl     r1,r5,1h
+080A7D22 4B24     ldr     r3,=2000402h
+080A7D24 18CA     add     r2,r1,r3
+080A7D26 4C24     ldr     r4,=9246h
+080A7D28 1C20     mov     r0,r4
+080A7D2A 8010     strh    r0,[r2]
+080A7D2C 4823     ldr     r0,=2000404h
+080A7D2E 180A     add     r2,r1,r0
+080A7D30 2004     mov     r0,4h
+080A7D32 8010     strh    r0,[r2]
+080A7D34 3304     add     r3,4h
+080A7D36 18CA     add     r2,r1,r3
+080A7D38 4C21     ldr     r4,=81F0h
+080A7D3A 1C20     mov     r0,r4
+080A7D3C 8010     strh    r0,[r2]
+080A7D3E 4821     ldr     r0,=2000408h
+080A7D40 180A     add     r2,r1,r0
+080A7D42 4B21     ldr     r3,=81F1h
+080A7D44 1C18     mov     r0,r3
+080A7D46 8010     strh    r0,[r2]
+080A7D48 4C20     ldr     r4,=200040Ah
+080A7D4A 190A     add     r2,r1,r4
+080A7D4C 3301     add     r3,1h
+080A7D4E 1C18     mov     r0,r3
+080A7D50 8010     strh    r0,[r2]
+080A7D52 3402     add     r4,2h
+080A7D54 190A     add     r2,r1,r4
+080A7D56 3301     add     r3,1h
+080A7D58 1C18     mov     r0,r3
+080A7D5A 8010     strh    r0,[r2]
+080A7D5C 3402     add     r4,2h
+080A7D5E 190A     add     r2,r1,r4
+080A7D60 4B1B     ldr     r3,=9586h
+080A7D62 1C18     mov     r0,r3
+080A7D64 8010     strh    r0,[r2]
+080A7D66 3402     add     r4,2h
+080A7D68 190A     add     r2,r1,r4
+080A7D6A 2005     mov     r0,5h
+080A7D6C 8010     strh    r0,[r2]
+080A7D6E 4819     ldr     r0,=2000412h
+080A7D70 180A     add     r2,r1,r0
+080A7D72 4B19     ldr     r3,=81F4h
+080A7D74 1C18     mov     r0,r3
+080A7D76 8010     strh    r0,[r2]
+080A7D78 3404     add     r4,4h
+080A7D7A 190A     add     r2,r1,r4
+080A7D7C 3301     add     r3,1h
+080A7D7E 1C18     mov     r0,r3
+080A7D80 8010     strh    r0,[r2]
+080A7D82 3402     add     r4,2h
+080A7D84 190A     add     r2,r1,r4
+080A7D86 3301     add     r3,1h
+080A7D88 1C18     mov     r0,r3
+080A7D8A 8010     strh    r0,[r2]
+080A7D8C 3402     add     r4,2h
+080A7D8E 190A     add     r2,r1,r4
+080A7D90 3301     add     r3,1h
+080A7D92 1C18     mov     r0,r3
+080A7D94 8010     strh    r0,[r2]
+080A7D96 3402     add     r4,2h
+080A7D98 190A     add     r2,r1,r4
+080A7D9A 3301     add     r3,1h
+080A7D9C 1C18     mov     r0,r3
+080A7D9E 8010     strh    r0,[r2]
+080A7DA0 3402     add     r4,2h
+080A7DA2 1909     add     r1,r1,r4
+080A7DA4 4A0D     ldr     r2,=0FFFFh
+080A7DA6 1C10     mov     r0,r2
+080A7DA8 8008     strh    r0,[r1]
+080A7DAA 490D     ldr     r1,=2000400h
+080A7DAC 1C28     mov     r0,r5
+080A7DAE 300D     add     r0,0Dh
+080A7DB0 E12D     b       80A800Eh				; Continua programação normal
+; ================ Pool. Desconsiderar ================
+; 080A7DB2 0000     lsl     r0,r0,0h
+; 080A7DB4 0402     lsl     r2,r0,10h
+; 080A7DB6 0200     lsl     r0,r0,8h
+; 080A7DB8 9246     str     r2,[sp,118h]
+; 080A7DBA 0000     lsl     r0,r0,0h
+; 080A7DBC 0404     lsl     r4,r0,10h
+; 080A7DBE 0200     lsl     r0,r0,8h
+; 080A7DC0 81F0     strh    r0,[r6,0Eh]
+; 080A7DC2 0000     lsl     r0,r0,0h
+; 080A7DC4 0408     lsl     r0,r1,10h
+; 080A7DC6 0200     lsl     r0,r0,8h
+; 080A7DC8 81F1     strh    r1,[r6,0Eh]
+; 080A7DCA 0000     lsl     r0,r0,0h
+; 080A7DCC 040A     lsl     r2,r1,10h
+; 080A7DCE 0200     lsl     r0,r0,8h
+; 080A7DD0 9586     str     r5,[sp,218h]
+; 080A7DD2 0000     lsl     r0,r0,0h
+; 080A7DD4 0412     lsl     r2,r2,10h
+; 080A7DD6 0200     lsl     r0,r0,8h
+; 080A7DD8 81F4     strh    r4,[r6,0Eh]
+; 080A7DDA 0000     lsl     r0,r0,0h
+; 080A7DDC FFFF0000 ????
+; 080A7DDE 0000     lsl     r0,r0,0h
+; 080A7DE0 0400     lsl     r0,r0,10h
+; 080A7DE2 0200     lsl     r0,r0,8h
+; ================================================
+080A7DE4 0069     lsl     r1,r5,1h			
+080A7DE6 4B29     ldr     r3,=2000402h
+080A7DE8 18CA     add     r2,r1,r3
+080A7DEA 4C29     ldr     r4,=9246h
+080A7DEC 1C20     mov     r0,r4
+080A7DEE 8010     strh    r0,[r2]
+080A7DF0 4828     ldr     r0,=2000404h
+080A7DF2 180A     add     r2,r1,r0
+080A7DF4 2006     mov     r0,6h
+080A7DF6 8010     strh    r0,[r2]
+080A7DF8 3304     add     r3,4h
+080A7DFA 18CA     add     r2,r1,r3
+080A7DFC 4C26     ldr     r4,=81F0h
+080A7DFE 1C20     mov     r0,r4
+080A7E00 8010     strh    r0,[r2]
+080A7E02 4826     ldr     r0,=2000408h
+080A7E04 180A     add     r2,r1,r0
+080A7E06 4B26     ldr     r3,=81F1h
+080A7E08 1C18     mov     r0,r3
+080A7E0A 8010     strh    r0,[r2]
+080A7E0C 4C25     ldr     r4,=200040Ah
+080A7E0E 190A     add     r2,r1,r4
+080A7E10 3301     add     r3,1h
+080A7E12 1C18     mov     r0,r3
+080A7E14 8010     strh    r0,[r2]
+080A7E16 3402     add     r4,2h
+080A7E18 190A     add     r2,r1,r4
+080A7E1A 3301     add     r3,1h
+080A7E1C 1C18     mov     r0,r3
+080A7E1E 8010     strh    r0,[r2]
+080A7E20 3402     add     r4,2h
+080A7E22 190A     add     r2,r1,r4
+080A7E24 3301     add     r3,1h
+080A7E26 1C18     mov     r0,r3
+080A7E28 8010     strh    r0,[r2]
+080A7E2A 3402     add     r4,2h
+080A7E2C 190A     add     r2,r1,r4
+080A7E2E 3301     add     r3,1h
+080A7E30 1C18     mov     r0,r3
+080A7E32 8010     strh    r0,[r2]
+080A7E34 3402     add     r4,2h
+080A7E36 190A     add     r2,r1,r4
+080A7E38 4B1B     ldr     r3,=9586h
+080A7E3A 1C18     mov     r0,r3
+080A7E3C 8010     strh    r0,[r2]
+080A7E3E 3402     add     r4,2h
+080A7E40 190A     add     r2,r1,r4
+080A7E42 2005     mov     r0,5h
+080A7E44 8010     strh    r0,[r2]
+080A7E46 4819     ldr     r0,=2000416h
+080A7E48 180A     add     r2,r1,r0
+080A7E4A 4B19     ldr     r3,=81F6h
+080A7E4C 1C18     mov     r0,r3
+080A7E4E 8010     strh    r0,[r2]
+080A7E50 3404     add     r4,4h
+080A7E52 190A     add     r2,r1,r4
+080A7E54 3301     add     r3,1h
+080A7E56 1C18     mov     r0,r3
+080A7E58 8010     strh    r0,[r2]
+080A7E5A 3402     add     r4,2h
+080A7E5C 190A     add     r2,r1,r4
+080A7E5E 3301     add     r3,1h
+080A7E60 1C18     mov     r0,r3
+080A7E62 8010     strh    r0,[r2]
+080A7E64 3402     add     r4,2h
+080A7E66 190A     add     r2,r1,r4
+080A7E68 3301     add     r3,1h
+080A7E6A 1C18     mov     r0,r3
+080A7E6C 8010     strh    r0,[r2]
+080A7E6E 3402     add     r4,2h
+080A7E70 190A     add     r2,r1,r4
+080A7E72 3301     add     r3,1h
+080A7E74 1C18     mov     r0,r3
+080A7E76 8010     strh    r0,[r2]
+080A7E78 3402     add     r4,2h
+080A7E7A 1909     add     r1,r1,r4
+080A7E7C 4A0D     ldr     r2,=0FFFFh
+080A7E7E 1C10     mov     r0,r2
+080A7E80 8008     strh    r0,[r1]
+080A7E82 490D     ldr     r1,=2000400h
+080A7E84 1C28     mov     r0,r5
+080A7E86 300F     add     r0,0Fh
+080A7E88 E0C1     b       80A800Eh					; Continua programação normal
+; ================ Pool. Desconsiderar ================
+; 080A7E8A 0000     lsl     r0,r0,0h
+; 080A7E8C 0402     lsl     r2,r0,10h
+; 080A7E8E 0200     lsl     r0,r0,8h
+; 080A7E90 9246     str     r2,[sp,118h]
+; 080A7E92 0000     lsl     r0,r0,0h
+; 080A7E94 0404     lsl     r4,r0,10h
+; 080A7E96 0200     lsl     r0,r0,8h
+; 080A7E98 81F0     strh    r0,[r6,0Eh]
+; 080A7E9A 0000     lsl     r0,r0,0h
+; 080A7E9C 0408     lsl     r0,r1,10h
+; 080A7E9E 0200     lsl     r0,r0,8h
+; 080A7EA0 81F1     strh    r1,[r6,0Eh]
+; 080A7EA2 0000     lsl     r0,r0,0h
+; 080A7EA4 040A     lsl     r2,r1,10h
+; 080A7EA6 0200     lsl     r0,r0,8h
+; 080A7EA8 9586     str     r5,[sp,218h]
+; 080A7EAA 0000     lsl     r0,r0,0h
+; 080A7EAC 0416     lsl     r6,r2,10h
+; 080A7EAE 0200     lsl     r0,r0,8h
+; 080A7EB0 81F6     strh    r6,[r6,0Eh]
+; 080A7EB2 0000     lsl     r0,r0,0h
+; 080A7EB4 FFFF0000 ????
+; 080A7EB6 0000     lsl     r0,r0,0h
+; 080A7EB8 0400     lsl     r0,r0,10h
+; 080A7EBA 0200     lsl     r0,r0,8h
+; ====================================================
+080A7EBC 0069     lsl     r1,r5,1h
+080A7EBE 4B2B     ldr     r3,=2000402h
+080A7EC0 18CA     add     r2,r1,r3
+080A7EC2 4C2B     ldr     r4,=9246h
+080A7EC4 1C20     mov     r0,r4
+080A7EC6 8010     strh    r0,[r2]
+080A7EC8 482A     ldr     r0,=2000404h
+080A7ECA 180A     add     r2,r1,r0
+080A7ECC 2007     mov     r0,7h
+080A7ECE 8010     strh    r0,[r2]
+080A7ED0 3304     add     r3,4h
+080A7ED2 18CA     add     r2,r1,r3
+080A7ED4 4C28     ldr     r4,=81F0h		;
+080A7ED6 1C20     mov     r0,r4
+080A7ED8 8010     strh    r0,[r2]
+080A7EDA 4828     ldr     r0,=2000408h
+080A7EDC 180A     add     r2,r1,r0
+080A7EDE 4B28     ldr     r3,=81F1h
+080A7EE0 1C18     mov     r0,r3
+080A7EE2 8010     strh    r0,[r2]
+080A7EE4 4C27     ldr     r4,=200040Ah
+080A7EE6 190A     add     r2,r1,r4
+080A7EE8 3301     add     r3,1h
+080A7EEA 1C18     mov     r0,r3
+080A7EEC 8010     strh    r0,[r2]
+080A7EEE 3402     add     r4,2h
+080A7EF0 190A     add     r2,r1,r4
+080A7EF2 3301     add     r3,1h
+080A7EF4 1C18     mov     r0,r3
+080A7EF6 8010     strh    r0,[r2]
+080A7EF8 3402     add     r4,2h
+080A7EFA 190A     add     r2,r1,r4
+080A7EFC 3301     add     r3,1h
+080A7EFE 1C18     mov     r0,r3
+080A7F00 8010     strh    r0,[r2]
+080A7F02 3402     add     r4,2h
+080A7F04 190A     add     r2,r1,r4
+080A7F06 3301     add     r3,1h
+080A7F08 1C18     mov     r0,r3
+080A7F0A 8010     strh    r0,[r2]
+080A7F0C 3402     add     r4,2h
+080A7F0E 190A     add     r2,r1,r4
+080A7F10 3301     add     r3,1h
+080A7F12 1C18     mov     r0,r3
+080A7F14 8010     strh    r0,[r2]
+080A7F16 3402     add     r4,2h
+080A7F18 190A     add     r2,r1,r4
+080A7F1A 4B1B     ldr     r3,=9586h
+080A7F1C 1C18     mov     r0,r3
+080A7F1E 8010     strh    r0,[r2]
+080A7F20 3402     add     r4,2h
+080A7F22 190A     add     r2,r1,r4
+080A7F24 2005     mov     r0,5h
+080A7F26 8010     strh    r0,[r2]
+080A7F28 4818     ldr     r0,=2000418h
+080A7F2A 180A     add     r2,r1,r0
+080A7F2C 4B18     ldr     r3,=81F7h
+080A7F2E 1C18     mov     r0,r3
+080A7F30 8010     strh    r0,[r2]
+080A7F32 3404     add     r4,4h
+080A7F34 190A     add     r2,r1,r4
+080A7F36 3301     add     r3,1h
+080A7F38 1C18     mov     r0,r3
+080A7F3A 8010     strh    r0,[r2]
+080A7F3C 3402     add     r4,2h
+080A7F3E 190A     add     r2,r1,r4
+080A7F40 3301     add     r3,1h
+080A7F42 1C18     mov     r0,r3
+080A7F44 8010     strh    r0,[r2]
+080A7F46 3402     add     r4,2h
+080A7F48 190A     add     r2,r1,r4
+080A7F4A 3301     add     r3,1h
+080A7F4C 1C18     mov     r0,r3
+080A7F4E 8010     strh    r0,[r2]
+080A7F50 3402     add     r4,2h
+080A7F52 190A     add     r2,r1,r4
+080A7F54 3301     add     r3,1h
+080A7F56 1C18     mov     r0,r3
+080A7F58 8010     strh    r0,[r2]
+080A7F5A 3402     add     r4,2h
+080A7F5C 1909     add     r1,r1,r4
+080A7F5E 4A0D     ldr     r2,=0FFFFh
+080A7F60 1C10     mov     r0,r2
+080A7F62 8008     strh    r0,[r1]
+080A7F64 490C     ldr     r1,=2000400h
+080A7F66 1C28     mov     r0,r5
+080A7F68 3010     add     r0,10h
+080A7F6A E050     b       80A800Eh				; Continua programação normal
+; ================ Pool. Desconsiderar ================
+; 080A7F6C 0402     lsl     r2,r0,10h
+; 080A7F6E 0200     lsl     r0,r0,8h
+; 080A7F70 9246     str     r2,[sp,118h]
+; 080A7F72 0000     lsl     r0,r0,0h
+; 080A7F74 0404     lsl     r4,r0,10h
+; 080A7F76 0200     lsl     r0,r0,8h
+; 080A7F78 81F0     strh    r0,[r6,0Eh]
+; 080A7F7A 0000     lsl     r0,r0,0h
+; 080A7F7C 0408     lsl     r0,r1,10h
+; 080A7F7E 0200     lsl     r0,r0,8h
+; 080A7F80 81F1     strh    r1,[r6,0Eh]
+; 080A7F82 0000     lsl     r0,r0,0h
+; 080A7F84 040A     lsl     r2,r1,10h
+; 080A7F86 0200     lsl     r0,r0,8h
+; 080A7F88 9586     str     r5,[sp,218h]
+; 080A7F8A 0000     lsl     r0,r0,0h
+; 080A7F8C 0418     lsl     r0,r3,10h
+; 080A7F8E 0200     lsl     r0,r0,8h
+; 080A7F90 81F7     strh    r7,[r6,0Eh]
+; 080A7F92 0000     lsl     r0,r0,0h
+; 080A7F94 FFFF0000 ????
+; 080A7F96 0000     lsl     r0,r0,0h
+; 080A7F98 0400     lsl     r0,r0,10h
+; 080A7F9A 0200     lsl     r0,r0,8h
+; ======================================================
+; Prepara e escreve ITEM / DO, caso condições mencionadas em 080A7B3A
+080A7F9C 0069     lsl     r1,r5,1h
+080A7F9E 4B3B     ldr     r3,=2000402h
+080A7FA0 18CA     add     r2,r1,r3
+080A7FA2 4C3B     ldr     r4,=9246h				; Posição no tilemap (VRAM)
+080A7FA4 1C20     mov     r0,r4
+080A7FA6 8010     strh    r0,[r2]
+080A7FA8 483A     ldr     r0,=2000404h
+080A7FAA 180A     add     r2,r1,r0
+080A7FAC 2004     mov     r0,4h					; 4 tiles
+080A7FAE 8010     strh    r0,[r2]
+080A7FB0 3304     add     r3,4h					; "ITEM"
+080A7FB2 18CA     add     r2,r1,r3				
+080A7FB4 4C38     ldr     r4,=81F8h				; 81F8 = "I"
+080A7FB6 1C20     mov     r0,r4
+080A7FB8 8010     strh    r0,[r2]
+080A7FBA 4838     ldr     r0,=2000408h
+080A7FBC 180A     add     r2,r1,r0
+080A7FBE 4B38     ldr     r3,=81F9h				; 81F9 = "T"
+080A7FC0 1C18     mov     r0,r3
+080A7FC2 8010     strh    r0,[r2]
+080A7FC4 4C37     ldr     r4,=200040Ah
+080A7FC6 190A     add     r2,r1,r4
+080A7FC8 3301     add     r3,1h					; 81FA = "E"
+080A7FCA 1C18     mov     r0,r3
+080A7FCC 8010     strh    r0,[r2]
+080A7FCE 3402     add     r4,2h
+080A7FD0 190A     add     r2,r1,r4
+080A7FD2 3301     add     r3,1h					; 81FB = "M"
+080A7FD4 1C18     mov     r0,r3
+080A7FD6 8010     strh    r0,[r2]
+080A7FD8 3402     add     r4,2h
+080A7FDA 190A     add     r2,r1,r4
+080A7FDC 4B32     ldr     r3,=9586h				; Posição no tilemap (VRAM)
+080A7FDE 1C18     mov     r0,r3
+080A7FE0 8010     strh    r0,[r2]
+080A7FE2 3402     add     r4,2h
+080A7FE4 190A     add     r2,r1,r4
+080A7FE6 2002     mov     r0,2h					; 2 tiles
+080A7FE8 8010     strh    r0,[r2]				
+080A7FEA 4830     ldr     r0,=2000412h			; "DO"
+080A7FEC 180A     add     r2,r1,r0
+080A7FEE 4B30     ldr     r3,=8153h				; 8153 = "D"
+080A7FF0 1C18     mov     r0,r3
+080A7FF2 8010     strh    r0,[r2]
+080A7FF4 3404     add     r4,4h					; 02000414
+080A7FF6 190A     add     r2,r1,r4				; 02000414
+080A7FF8 330B     add     r3,0Bh				; 815E = "O"
+080A7FFA 1C18     mov     r0,r3
+080A7FFC 8010     strh    r0,[r2]
+080A7FFE 3402     add     r4,2h
+080A8000 1909     add     r1,r1,r4
+080A8002 4A2C     ldr     r2,=0FFFFh			; [2000416] = FFFF
+080A8004 1C10     mov     r0,r2
+080A8006 8008     strh    r0,[r1]
+080A8008 492B     ldr     r1,=2000400h
+080A800A 1C28     mov     r0,r5
+080A800C 300A     add     r0,0Ah				; 0 + A
+; Programação normal, depois de todos os ifs
+; Prepara e escrever EQUIPMENTS
+080A800E 8008     strh    r0,[r1]				; [2000400] = A (o total de halfwords escritas até agora!)
+080A8010 4829     ldr     r0,=2000400h
+080A8012 8805     ldrh    r5,[r0]
+080A8014 006A     lsl     r2,r5,1h				; A << 1 = 14
+080A8016 4B1D     ldr     r3,=2000402h
+080A8018 18D1     add     r1,r2,r3				; 2000416
+080A801A 4C28     ldr     r4,=95ACh				; Posição no tilemap (VRAM)
+080A801C 1C20     mov     r0,r4
+080A801E 8008     strh    r0,[r1]				; [2000416] = 95AC
+080A8020 481C     ldr     r0,=2000404h
+080A8022 1811     add     r1,r2,r0				; 2000418
+080A8024 2008     mov     r0,8h					; 8 tiles
+080A8026 8008     strh    r0,[r1]				; [2000418] = 0008
+080A8028 2400     mov     r4,0h					; Iterador
+080A802A 4925     ldr     r1,=816BCA0h
+080A802C 4B25     ldr     r3,=98Eh
+080A802E 18F0     add     r0,r6,r3
+080A8030 7800     ldrb    r0,[r0]				; [ ] = 1
+080A8032 0600     lsl     r0,r0,18h
+080A8034 1600     asr     r0,r0,18h
+080A8036 0080     lsl     r0,r0,2h				; 1 << 2 = 4
+080A8038 1840     add     r0,r0,r1				; 0816BCA4
+080A803A 6801     ldr     r1,[r0]				; [0816BCA4] = 0816BC50
+080A803C 4822     ldr     r0,=2000406h
+080A803E 1812     add     r2,r2,r0				; 200041A
+080A8040 8808     ldrh    r0,[r1]				; E Q U I P M E N T (em 8 tiles)
+080A8042 8010     strh    r0,[r2]
+080A8044 3102     add     r1,2h
+080A8046 3202     add     r2,2h
+080A8048 3401     add     r4,1h
+080A804A 2C08     cmp     r4,8h					; Copia 8 tiles
+080A804C D1F8     bne     80A8040h
+080A804E 0068     lsl     r0,r5,1h				; A << 1 = 14
+080A8050 491E     ldr     r1,=2000416h
+080A8052 1840     add     r0,r0,r1				; 200042A
+080A8054 4A17     ldr     r2,=0FFFFh
+080A8056 1C11     mov     r1,r2
+080A8058 8001     strh    r1,[r0]				; [200042A] = FFFF
+080A805A 4917     ldr     r1,=2000400h
+080A805C 1C28     mov     r0,r5			
+080A805E 300A     add     r0,0Ah				; A + A = 14
+080A8060 8008     strh    r0,[r1]				; [2000400] = 14 
+080A8062 880D     ldrh    r5,[r1]
+080A8064 0069     lsl     r1,r5,1h				; 14 << 1 = 28
+080A8066 4B0B     ldr     r3,=2000404h
+080A8068 18C8     add     r0,r1,r3				; 2000404 + 28 = 200042C
+080A806A 8004     strh    r4,[r0]				; [200042C] = 8
+080A806C 2400     mov     r4,0h					; Iterador (ver 080A813E)
+080A806E 1C32     mov     r2,r6					; 03002230
+080A8070 4B17     ldr     r3,=1651h
+080A8072 18D0     add     r0,r2,r3				; 03003881
+080A8074 7800     ldrb    r0,[r0]				; [03003881] = 0
+080A8076 2800     cmp     r0,0h
+080A8078 D030     beq     80A80DCh				; Salto!
+080A807A 4804     ldr     r0,=2000402h
+080A807C 1809     add     r1,r1,r0
+080A807E 4B15     ldr     r3,=942Ch
+080A8080 1C18     mov     r0,r3
+080A8082 8008     strh    r0,[r1]
+080A8084 4914     ldr     r1,=816BE14h
+080A8086 4B0F     ldr     r3,=98Eh
+080A8088 18D0     add     r0,r2,r3
+080A808A E047     b       80A811Ch
+; ================ Pool. Desconsiderar ================
+; 080A808C 0402     lsl     r2,r0,10h
+; 080A808E 0200     lsl     r0,r0,8h
+; 080A8090 9246     str     r2,[sp,118h]
+; 080A8092 0000     lsl     r0,r0,0h
+; 080A8094 0404     lsl     r4,r0,10h
+; 080A8096 0200     lsl     r0,r0,8h
+; 080A8098 81F8     strh    r0,[r7,0Eh]
+; 080A809A 0000     lsl     r0,r0,0h
+; 080A809C 0408     lsl     r0,r1,10h
+; 080A809E 0200     lsl     r0,r0,8h
+; 080A80A0 81F9     strh    r1,[r7,0Eh]
+; 080A80A2 0000     lsl     r0,r0,0h
+; 080A80A4 040A     lsl     r2,r1,10h
+; 080A80A6 0200     lsl     r0,r0,8h
+; 080A80A8 9586     str     r5,[sp,218h]
+; 080A80AA 0000     lsl     r0,r0,0h
+; 080A80AC 0412     lsl     r2,r2,10h
+; 080A80AE 0200     lsl     r0,r0,8h
+; 080A80B0 8153     strh    r3,[r2,0Ah]
+; 080A80B2 0000     lsl     r0,r0,0h
+; 080A80B4 FFFF0000 ????
+; 080A80B6 0000     lsl     r0,r0,0h
+; 080A80B8 0400     lsl     r0,r0,10h
+; 080A80BA 0200     lsl     r0,r0,8h
+; 080A80BC 95AC     str     r5,[sp,2B0h]
+; 080A80BE 0000     lsl     r0,r0,0h
+; 080A80C0 BCA0     pop     r5,r7
+; 080A80C2 0816     lsr     r6,r2,20h
+; 080A80C4 098E     lsr     r6,r1,6h
+; 080A80C6 0000     lsl     r0,r0,0h
+; 080A80C8 0406     lsl     r6,r0,10h
+; 080A80CA 0200     lsl     r0,r0,8h
+; 080A80CC 0416     lsl     r6,r2,10h
+; 080A80CE 0200     lsl     r0,r0,8h
+; 080A80D0 1651     asr     r1,r2,19h
+; 080A80D2 0000     lsl     r0,r0,0h
+; 080A80D4 942C     str     r4,[sp,0B0h]
+; 080A80D6 0000     lsl     r0,r0,0h
+; 080A80D8 BE14     bkpt (ARMv5) 14h
+; 080A80DA 0816     lsr     r6,r2,20h
+; =========================================================
+080A80DC 4B06     ldr     r3,=165Eh
+080A80DE 18D0     add     r0,r2,r3				; 0300388E
+080A80E0 7800     ldrb    r0,[r0]				; [0300388E] = 1
+080A80E2 2802     cmp     r0,2h
+080A80E4 D812     bhi     80A810Ch
+; Só acontece se 080A80E2 for falso 
+; Prepara para escrever PENDANTS
+080A80E6 4805     ldr     r0,=2000402h			; 
+080A80E8 1809     add     r1,r1,r0				; 0200042A
+080A80EA 4B05     ldr     r3,=942Ch				; Posição no tilemap (VRAM)
+080A80EC 1C18     mov     r0,r3
+080A80EE 8008     strh    r0,[r1]				; [0200042A] = 942C
+080A80F0 4904     ldr     r1,=816BD1Ch			; Para calcular ponteiro para PENDANTS
+080A80F2 4B05     ldr     r3,=98Eh
+080A80F4 18D0     add     r0,r2,r3				; 03002BBE
+080A80F6 E011     b       80A811Ch
+;
+; ================ Pool. Desconsiderar ================
+; 080A80F8 165E     asr     r6,r3,19h
+; 080A80FA 0000     lsl     r0,r0,0h
+; 080A80FC 0402     lsl     r2,r0,10h
+; 080A80FE 0200     lsl     r0,r0,8h
+; 080A8100 942C     str     r4,[sp,0B0h]
+; 080A8102 0000     lsl     r0,r0,0h
+; 080A8104 BD1C     pop     r2-r4,r15
+; 080A8106 0816     lsr     r6,r2,20h
+; 080A8108 098E     lsr     r6,r1,6h
+; 080A810A 0000     lsl     r0,r0,0h
+; =========================================================
+; Só acontece se 080A80E2 for verdadeiro
+; Prepara para escrever CRYSTALS
+080A810C 4812     ldr     r0,=2000402h
+080A810E 1809     add     r1,r1,r0
+080A8110 4A12     ldr     r2,=93ECh				; Posição no tilemap (VRAM)
+080A8112 1C10     mov     r0,r2
+080A8114 8008     strh    r0,[r1]
+080A8116 4912     ldr     r1,=816BD98h			; Para calcular ponteiro para CRYSTALS
+080A8118 4B12     ldr     r3,=98Eh
+080A811A 18F0     add     r0,r6,r3				; 03002BBE
+; Continua
+080A811C 7800     ldrb    r0,[r0]				; [03002BBE] = 1
+080A811E 0600     lsl     r0,r0,18h
+080A8120 1600     asr     r0,r0,18h
+080A8122 0080     lsl     r0,r0,2h				; 1 << 2 = 4
+080A8124 1840     add     r0,r0,r1				; (816BD1C + 4 = 816BD20) | (816BD98 + )
+080A8126 6801     ldr     r1,[r0]				; 0816BCCC
+080A8128 006A     lsl     r2,r5,1h				; 14 << 1 = 28
+080A812A 350A     add     r5,0Ah				; 1E
+080A812C 0060     lsl     r0,r4,1h
+080A812E 4B0E     ldr     r3,=2000406h
+080A8130 18C0     add     r0,r0,r3
+080A8132 1883     add     r3,r0,r2				; 0200042E
+080A8134 8808     ldrh    r0,[r1]				; P E N D A N T S | C R Y S T A L S 
+080A8136 8018     strh    r0,[r3]				;
+080A8138 3102     add     r1,2h
+080A813A 3302     add     r3,2h
+080A813C 3401     add     r4,1h
+080A813E 2C08     cmp     r4,8h					; Copia 8 tiles
+080A8140 D1F8     bne     80A8134h
+080A8142 4C0A     ldr     r4,=2000416h
+080A8144 1910     add     r0,r2,r4				; 0200043E
+080A8146 4A0A     ldr     r2,=0FFFFh			
+080A8148 1C11     mov     r1,r2
+080A814A 8001     strh    r1,[r0]				; [0200043E] = FFFF
+080A814C 4809     ldr     r0,=2000400h
+080A814E 8005     strh    r5,[r0]				; [02000400] = 1E (Total de Halfword (*2))
+080A8150 BC70     pop     r4-r6
+080A8152 BC01     pop     r0
+080A8154 4700     bx      r0

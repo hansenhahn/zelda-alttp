@@ -1,0 +1,3871 @@
+[-]
+[00]
+!------------------------------!
+[0600007A][00][3]      
+[2]    [>]
+[05000068][-]
+[00]
+!------------------------------!
+[0600007A][00][2]      
+[3]    [>]
+[05000068][-]
+[00]
+!------------------------------!
+[0600007A][00]
+Save And Continue
+[2]Save And Quit
+[3]Continue Without Saving
+[-]
+[00]
+!------------------------------!
+[0600007A][00]
+0- [0600006C][00]. 1- [0600006C][01]
+[2]2- [0600006C][02]. 3- [0600006C][03]
+[-]
+[00]
+!------------------------------!
+You can't enter with me.
+[-]
+[00]
+!------------------------------!
+[0600007A][00]
+[05000074][>]
+[2]  
+[3]  
+[05000071][-]
+[00]
+!------------------------------!
+[0600007A][00]
+[05000074]  
+[2][>]
+[3]  
+[05000071][-]
+[00]
+!------------------------------!
+[0600007A][00]
+[05000074]  
+[2]  
+[3][>]
+[05000071][-]
+[00]
+!------------------------------!
+[0600007A][00]
+[05000074][>]
+[2]  
+[05000072][-]
+[00]
+!------------------------------!
+[0600007A][00]
+[05000074]  
+[2][>]
+[05000072][-]
+[00]
+!------------------------------!
+[0600007A][00][3]    
+[2]  [>]
+[0500006F][-]
+[00]
+!------------------------------!
+[0600007A][00][2]    
+[3]  [>]
+[0500006F][-]
+[00]
+!------------------------------!
+[H], I'm going out for a
+[2]bit, but there's no need for
+[3]you to worry.
+[S][E]I'll be back by morning, but
+[E]I don't want you leaving the
+[E]house until then...
+[S][E]Go back to bed...[W][03]
+[E]and wait for me to return.
+[-]
+[00]
+!------------------------------!
+Unnh... That voice... [H]?
+[2]Is it you? I thought I told you
+[3]to wait at home...
+[S][E]I suppose there's no escaping
+[E]destiny...[S] Here, take this
+[E]sword and shield from me.
+[S][E]I shall teach you one of the
+[E]secret sword techniques used
+[E]by the Knights of Hyrule...
+[S][E]Hold the [B] Button to focus
+[E]power in your blade. Release it
+[E]to unleash the power.
+[S][E][H]...you must rescue
+[E]Princess Zelda. Our people are
+[E]fated to do so.
+[S][E]But do not fall victim...
+[E]to fate... [H]...
+[W][03]
+[E]I shall always remember...
+[W][03]
+[S][E]our time...together...
+[-]
+[00]
+!------------------------------!
+Hey! What are you doing out on
+[2]a stormy night like this?
+[3]A kid like you should be
+[S][E]heading home and going to bed!
+[S][E]But if you plan on staying out,
+[E]then keep talking to us
+[E]soldiers.
+[S][E]We'll teach you a thing or two!
+[-][00]
+!------------------------------!
+If you get lost wandering the
+[2]streets, press the [L] Button
+[3]to check your map.
+[S][E]But maybe you already knew
+[E]that...
+[-]
+[00]
+!------------------------------!
+You look strong for a kid.  How
+[2]much can you lift?
+[S][E]You know you can press the [R]
+[E]Button when you're touching
+[E]something to lift it, right?
+[S][E]I'll bet you didn't know that!
+[E]...Or did you?
+[-]
+[00]
+!------------------------------!
+I'll bet you can't wait to get
+[2]a sword like mine! You just
+[S][3]press the [B] Button to use it.
+[S][E]But maybe you knew that...
+[-]
+[00]
+!------------------------------!
+Wow! Your map has a blinking
+[2]mark on it! I bet that's where
+[3]you're supposed to go!
+[S][E]Oh... I guess that was
+[E]completely obvious.
+[-]
+[00]
+!------------------------------!
+You know what's really cool?
+[2]If you stand in front of a
+[3]chest and press the [R] Button.
+[S][E]Pa-ching! The chest opens!
+[S][E]But I guess that's to be
+[E]expected, huh?
+[-]
+[00]
+!------------------------------!
+I don't mean to brag, but
+[2]aren't we soldiers a
+[3]smart bunch?
+[S][E]Not that you should be out on
+[E]a stormy night like this just
+[E]to hear what we have to say...
+[-]
+[00]
+!------------------------------!
+First, you should go meet the
+[2]the village elder and get the
+[3]Master Sword.
+[-]
+[00]
+!------------------------------!
+Princess Zelda? You are safe!
+[2]And you are the one who
+[3]rescued her, [H]?
+[-]
+[00]
+!------------------------------!
+I sense that a mighty evil
+[2]force guides the wizard's
+[3]actions and augments his
+[S][E]magical power. The only weapon
+[E]potent enough to defeat the
+[E]wizard is the legendary
+[S][E]Master Sword...but the only
+[E]person remaining who has any
+[E]idea of where this blade may be
+[S][E]is the village elder. He is said
+[E]to be a descendant of one of
+[E]the seven sages.
+[S][E]Perhaps he can tell you more.
+[W][03][E]I will mark his house on your
+[06000079]-[E]map. But we must take care!
+[S][E]I am certain the castle soldiers
+[E]are looking for you and the
+[E]princess now!  ... ... ...
+[S][E]The two of you cannot stay
+[E]together, so I shall hide 
+[E]Princess Zelda here.
+[S][E]Do not worry! Seek the elder!
+[E]... ... ...
+[S][E]Do you understand?
+[E]    [>] Yes
+[E]       Not at all
+[05000068][-]
+[00]
+!------------------------------!
+If you defeat the wizard, the
+[2]castle soldiers may regain
+[3]their senses.
+[S][E]Go, seek the Pendants!
+[-]
+[00]
+!------------------------------!
+Take the three Pendants into
+[2]the Lost Woods. The Master
+[3]Sword awaits you there!
+[-]
+[00]
+!------------------------------!
+[H]!  If only you had come
+[2]sooner... A group of soldiers
+[3]was here...
+[S][E]They took Princess Zelda. I
+[E]fear they have taken her to
+[E]the highest room in the tower.
+[S][E]They mean to sacrifice her!
+[E]You must find her before the
+[E]wizard works his magic.
+[S][E]Please, [H]...
+[E]You are our only hope...
+[-]
+[00]
+!------------------------------!
+Thank you, [H]. I had a
+[2]feeling you were getting close.
+[-]
+[00]
+!------------------------------!
+It's thanks to [H] that I
+[2]escaped from the dungeon!
+[3]When I was captive the wizard
+[S][E]said, "Once I have finished
+[E]with you, the final one, the
+[E]sages' seal will open."
+[S][E]... ... ...
+[S][E][H], you must not let the
+[E]land of Hyrule fall into the
+[E]wizard's clutches.
+[S][E]If he breaks the seal of the
+[E]seven sages, a wave of evil
+[E]power will be unleashed.
+[S][E]If that happens, the people of
+[E]Hyrule shall never again
+[E]know peace...
+[S][E]Before that happens...
+[W][03]
+[E]Before it's too late... Please!
+[S][E]You must defeat the wizard
+[E]before he destroys all of
+[E]Hyrule! You can... You must!
+[-]
+[00]
+!------------------------------!
+Be careful, [H]!
+[2]May you see this task safely
+[3]through to its end!
+[-]
+[00]
+!------------------------------!
+[0600006B][02][0600007A][03]Help me...
+[W][01][3]Please help me...
+[S][E]I am a prisoner in the castle
+[E]dungeon.
+[E]My name is Zelda...
+[S][E]The wizard, Agahnim, has done
+[E]something terrible to the other
+[E]girls...
+[S][E]Now only I remain...
+[S][E]Agahnim has seized control of
+[E]the castle and even now is
+[E]trying to open the sages' seal.
+[S][E]I am in the dungeon of the
+[E]castle.
+[S][E]Please help me...
+[-]
+[00]
+!------------------------------!
+[0600006B][02][0600007A][03]
+Help me...
+[2]I am in the dungeon of the
+[3]castle.
+[S][E]Somewhere outside the castle
+[E]you should find a hidden
+[E]entrance to the palace garden.
+[-]
+[00]
+!------------------------------!
+There is a secret passage in
+[2]the throne room that leads to
+[3]the Sanctuary. I'm sure the old
+[S][E]man there will help us.
+[E]We must hurry.
+[-]
+[00]
+!------------------------------!
+That ornamental shelf should
+[2]open. Do you have a light?
+[3]It's pitch-dark inside, and you
+[S][E]can't see without one.
+[S][E]If you're ready, let's go!
+[E]We have to push it from the
+[E]left. Come on! Help me!
+[-]
+[00]
+!------------------------------!
+You have to pull the lever to
+[2]open the door. Hold the [R]
+[3]Button and press [0501014E] on the
+[S][E]+ Control Pad.
+[-]
+[00]
+!------------------------------!
+Good! We should go quickly
+[2]before the wizard notices us. I
+[3]know a secret path, but we
+[S][E]must go to the first floor
+[E]to reach it. Let's  go!
+[-]
+[00]
+!------------------------------!
+[H], listen carefully. All
+[2]the soldiers in the castle have
+[3]fallen under the wizard's spell.
+[S][E]And I fear even worse has
+[E]befallen my father... That
+[E]wizard is an inhuman fiend!
+[S][E]His powers are strong...
+[E]... ... ...
+[S][E]Do you understand?
+[E]    [>] Yes
+[E]       Not at all
+[05000068][-]
+[00]
+!------------------------------!
+You should follow the marks
+[2]the elder made on your map
+[3]when you explore.
+[S][E]If you don't know what to do
+[E]next, you can also visit a
+[E]fortune-teller.
+[-]
+[00]
+!------------------------------!
+[H], you are wonderful!
+[2]As I thought, you have the
+[3]power of the Hero inside you!
+[S][E]Now, you should get the Master
+[E]Sword. I feel sure that you
+[E]can defeat the evil wizard!
+[-]
+[00]
+!------------------------------!
+[0600006B][02][0600007A][03]
+[H]! Help! The soldiers
+[2]are coming to the Sanctuary!
+[3]AIEEEEEEE!
+[S][E]... ... ...
+[-]
+[00]
+!------------------------------!
+After passing through these
+[2]sewers, we will be very close
+[3]to the Sanctuary!
+[S][E]Let's be careful!
+[-]
+[00]
+!------------------------------!
+The Sanctuary is just beyond
+[2]that door. Pull the switch
+[3]over there.
+[-]
+[00]
+!------------------------------!
+Who? Oh, it's you, [H]!
+[2]What can an old woman like me
+[3]do for a youngster like you?
+[S][E]Who? The elder? Oh... No one
+[S][E]has seen him since the wizard
+[E]began abducting his victims...
+[E]... ... ...
+[S][E]What? Master Sword? Well, I
+[E]don't remember the details
+[E]exactly, but...
+[-]
+[00]
+!------------------------------!
+Long ago a prosperous people,
+[2]known as the Hylians, inhabited
+[3]this land...
+[S][E]Legends tell of treasures with
+[E]mystical powers that remain
+[E]from the Hylian age...
+[S][E]The Master Sword, a mighty
+[E]blade forged to thwart those
+[E]with evil hearts, is one...
+[S][E]It is said that even now
+[E]it rests deep in the forest.
+[E]... ... ...
+[S][E]Do you understand the legend?
+[E]    [>] Yes
+[E]       Not at all
+[05000068][-]
+[00]
+!------------------------------!
+At any rate, seek the elder.
+[2]There must be someone in the
+[3]village who knows where he is.
+[S][E][H]...
+[E]Take care...
+[-]
+[00]
+!------------------------------!
+Ohhh, [H]. You've changed!
+[2]You look marvelous...  Please
+[3]save the village from Agahnim!
+[-]
+[00]
+!------------------------------!
+Hey! It's [H], the wanted
+[2]man! He's over here! Soldiers!
+[3]Anyone! Come quickly!
+[-]
+[00]
+!------------------------------!
+Hmmm... So at last you have
+[2]the three Pendants... Good!
+[3]Now head for the Lost Woods.
+[S][E]If you are the true Hero,
+[E]the sword will choose you to
+[E]wield it...
+[-]
+[00]
+!------------------------------!
+I am but an old man.
+[2]I can't even grip the hilt
+[3]of my sword...
+[S][E]You are all I have to rely on.
+[-]
+[00]
+!------------------------------!
+I am, indeed, Sahasrahla, the
+[2]village elder and a descendant
+[3]of the seven sages.
+[S][E]... ... Oh really?
+[E]I am surprised that one so
+[E]young is searching for the
+[S][E]sword of evil's bane, [H].
+[E]Not just anyone can use that
+[E]blade. Legends say only the
+[S][E]Hero who has won the three
+[E]Pendants can wield the sword.
+[E]... ... ...
+[S][E]Do you truly wish to find it?
+[E]    [>] Uh, yeah...
+[E]       Of Course!
+[05000068][-]
+[00]
+!------------------------------!
+Good! For your first test, can
+[2]you retrieve the Pendant of
+[3]Courage from the East Palace?
+[S][E]If you bring it here, I shall
+[E]share more of my knowledge
+[E]with you.
+[06000079]-[S][E]Now, onward to the palace!
+[-]
+[00]
+!------------------------------!
+Other relatives of the seven
+[2]sages are also hiding
+[3]from the wizard's followers.
+[S][E]You should seek them, as well.
+[-]
+[00]
+!------------------------------!
+[0600006B][02][0600007A][03]
+[H], it is I, Sahasrahla.
+[2]I am communicating with you
+[3]across the void through
+[S][E]telepathy... The place where
+[E]you now stand was the Golden
+[E]Land, but evil power turned it
+[S][E]into the Dark World. The
+[E]wizard has broken the sages'
+[E]seal and turned the gate to
+[S][E]Hyrule Castle into a portal
+[E]linking that world to this. In
+[E]order to save this half of the
+[S][E]world, the Light World, you
+[E]must win back the Golden
+[E]Power. You must also rescue
+[S][E]the seven maidens who Agahnim
+[E]sent to the Dark World. As
+[E]descendants of the seven
+[S][E]sages, they have power that 
+[E]will surely aid you.
+[E]The maidens are locked in
+[S][E]hidden dungeons full of evil
+[E]creatures and dangerous traps.
+[E]The Palace of Darkness should
+[S][E]be your first goal in this world!
+[06000079]-[E][H], you are our last
+[E]hope. Please make this old
+[S][E]man's wishes come true.
+[E]I beg you!
+[-]
+[00]
+!------------------------------!
+[0600006B][02][0600007A][03]
+But I sense your helplessness.
+[2]Before you go any further,
+[3]find the Moon Pearl on
+[S][E]Death Mountain. It will protect
+[E]you from the Dark World's
+[E]magic so you can retain your
+[S][E]heroic figure.
+[-]
+[00]
+!------------------------------!
+An item that shall aid you is
+[2]hidden in the cave on the east
+[3]side of Lake Hylia. Go find it!
+[-]
+[00]
+!------------------------------!
+So, you got the Pendant of
+[2]Courage! Then I shall tell you
+[3]more of the legend...
+[S][E]Generations ago, an order of
+[E]knights protected the Hylian
+[E]royalty. These Knights of
+[S][E]Hyrule were also guardians
+[E]of the Pendant of Courage.
+[S][E]It has been said that whenever
+[E]disaster waylays the royal
+[E]family, a Hero shall emerge
+[S][E]from the bloodline of the
+[E]Knights of Hyrule...
+[E]Unfortunately, most of them
+[S][E]were destroyed in the great
+[E]war against evil that took
+[E]place when the seven sages
+[S][E]created their seal, so it was
+[E]thought that a hero would
+[E]never again emerge...
+[S][E]But lo! I believe you are our
+[E]hero, [H]! Find the
+[E]remaining Pendants.
+[S][E]And carry this with you.
+[E]It is a treasure passed down
+[E]by the families of the sages.
+[S][E]I want you to have it.
+[-]
+[00]
+!------------------------------!
+You are correct, young man!
+[2]I am Sahasrahla, the village
+[3]elder and a descendant of the
+[S][E]seven sages.
+[E]... ... ... What?
+[E][H], I'm surprised that one
+[S][E]as young as you is seeking the
+[E]sword of evil's bane. Not just
+[E]anyone can use that sword.
+[S][E]According to the tales handed
+[E]down by the Hylians, only the
+[E]Hero who has destroyed three
+[S][E]great evils and won the three
+[E]Pendants can wield the sword...
+[S][E]I see you have acquired the
+[E]Pendant of Courage. I will tell
+[E]you about the legend behind it.
+[S][E]Generations ago, an order of
+[E]knights protected the Hylian
+[E]royalty.
+[S][E]These Knights of Hyrule were
+[E]also guardians of the Pendant
+[E]of Courage.
+[S][E]It has been said that whenever
+[E]disaster waylays the royal
+[E]family, a Hero shall emerge
+[S][E]from the bloodline of the
+[E]Knights of Hyrule...
+[E]Unfortunately, most of them
+[S][E]were destroyed in the great
+[E]war against evil that took
+[E]place when the seven sages
+[S][E]created their seal, so it
+[E]was thought a hero would
+[E]never again emerge...
+[S][E]But lo! I believe you are our
+[E]hero, [H]! Find the
+[E]remaining Pendants.
+[S][E]And carry this with you.
+[E]It is a treasure passed down
+[E]by the families of the sages.
+[S][E]I want you to have it.
+[-]
+[00]
+!------------------------------!
+I will give 100 Rupees to the
+[2]man who finds the descendants
+[3]of the seven sages.   THE KING
+[-]
+[00]
+!------------------------------!
+ [0501004A]  WANTED!
+[2]For kidnapping Princess Zelda.
+[3]Call a soldier if you see him!
+[-][00]
+!------------------------------!
+     DANGER!
+[2]Do not enter Death Mountain
+[3]without the king's permission!
+[-][00]
+!------------------------------!
+This way to the
+[2]     Lost Woods
+[-]
+[00]
+!------------------------------!
+           DANGER!
+[2]Beware deep water and Zoras!
+[-]
+[00]
+!------------------------------!
+Welcome to the Magic Shop.
+[2]The Waterfall of Wishing is
+[3]just ahead.  
+[-]
+[00]
+!------------------------------!
+This cave leads to the path
+[2]back to Kakariko Village.
+[-][00]
+!------------------------------!
+Shopping ahead at Lake Hylia [0501014E]
+[-][00]
+!------------------------------!
+This way [0501014F]
+[2]         Kakariko Village
+[-]
+[00]
+!------------------------------!
+This way [0501014F]
+[2]         Desert of Mystery
+[-]
+[00]
+!------------------------------!
+This way [0501014D] [05010150]
+[2]         Magic Shop
+[3]         Waterfall of Wishing
+[-]
+[00]
+!------------------------------!
+This way [05010150] Eastern Palace
+[3]This way [0501014F] Hyrule Castle
+[-]
+[00]
+!------------------------------!
+
+[2]        Lake Hylia
+[-]
+[00]
+!------------------------------!
+I am just an average guy.
+[2]Do not speak to me.
+[3]DO NOT remove this sign.
+[-]
+[00]
+!------------------------------!
+
+[2]The House Of Lumberjacks
+[3]A. B. and Q. Bumpkin
+[-]
+[00]
+!------------------------------!
+This way [0501014E]
+[2]       Kakariko Village
+[-]
+[00]
+!------------------------------!
+Double, double toil and trouble,
+[2]fire burn and cauldron bubble...
+[3]Making mushroom brew, I am...
+[-]
+[00]
+!------------------------------!
+Heh heh... Thank you, young
+[2]man... Drop by the shop later
+[3]for a special surprise...
+[S][E]Heh heh...
+[-]
+[00]
+!------------------------------!
+Mmmmm... The smell of rotten
+[2]fruit... If you give me that
+[3]Mushroom, I can finish my brew.
+[S][E]Heh heh...
+[-]
+[00]
+!------------------------------!
+If you want to buy the potion,
+[2]you should bring a bottle to
+[3]put it in...  He he he!
+[-]
+[00]
+!------------------------------!
+Red is the medicine of life.
+[2]Green is the medicine of magic.
+[3]Blue renews both life and
+[S][E]magic.
+[E]Here, taste a sample of the
+[E]Red Potion... He he!
+[-]
+[00]
+!------------------------------!
+You don't have any bottles?
+[2]You can't buy any potions
+[3]without any bottles. He he he!
+[-]
+[00]
+!------------------------------!
+No,  no,  no...  I can't put
+[2]anything into a full bottle.
+[3]He he he!
+[-]
+[00]
+!------------------------------!
+You got the Lamp!
+[2]Press the [A] Button to light
+[3]torches and navigate the dark.
+[-]
+[00]
+!------------------------------!
+You got the Boomerang!
+[2]Press SELECT to choose it
+[3]and give it a whirl!
+[-]
+[00]
+!------------------------------!
+You found the Bow!
+[2]Now you can shoot arrows!
+[3](At least until you run out...)
+[-]
+[00]
+!------------------------------!
+You borrowed a Shovel!
+[2]You can dig in many places.
+[3]Do you dig?
+[-]
+[00]
+!------------------------------!
+This is the Magic Cape!
+[2]You're invisible when you wear
+[3]it, but watch your Magic Meter!
+[-]
+[00]
+!------------------------------!
+This is Magic Powder!
+[2]Try sprinkling it on enemies
+[3]and many other things!
+[-]
+[00]
+!------------------------------!
+You bought Zora's Flippers!
+[2]With these you should be able
+[3]to swim even in deep water!
+[-]
+[00]
+!------------------------------!
+You got the Power Glove!
+[2]You can feel strength in both
+[3]hands! You can pick up and
+[S][E]carry stones now!
+[-]
+[00]
+!------------------------------!
+You won the Pendant of
+[2]Courage! Take it to
+[3]Sahasrahla!
+[S][E]Two Pendants remain!
+[-]
+[00]
+!------------------------------!
+You won the Pendant of Power!
+[2]Your goal of finding all three
+[3]Pendants is in sight!
+[S][E]Go for the last one!
+[-]
+[00]
+!------------------------------!
+You won the Pendant of Wisdom!
+[2]With this, you've collected
+[3]all three Pendants! Go now to
+[S][E]the Lost Woods to get
+[E]the Master Sword!
+[-]
+[00]
+!------------------------------!
+This Mushroom smells like sweet
+[2]rotten fruit[85]
+[3]You can give this to anyone
+[S][E]who wants it. (Select it and
+[E]press the [A] Button.)
+[-]
+[00]
+!------------------------------!
+You found the Book of Mudora!
+[2]You can use it to read the
+[3]ancient language of the Hylia!
+[-]
+[00]
+!------------------------------!
+You found the Moon Pearl!
+[2]This protects The Hero from
+[3]the transforming effects of
+[S][E]the Golden Power.
+[-]
+[00]
+!------------------------------!
+You found the Compass!
+[2]Now you can pinpoint the
+[3]lair of the dungeon's evil
+[S][E]master!
+[-]
+[00]
+!------------------------------!
+You got the Map!
+[2]Use it to see your current
+[3]position and the rest of the
+[S][E]dungeon. (Press the [L] Button)
+[-]
+[00]
+!------------------------------!
+You found the Ice Rod!
+[2]Its chill magic blasts the air!
+[3]But watch your Magic Meter!
+[-]
+[00]
+!------------------------------!
+You found the Fire Rod!
+[2]This rod commands red fire,
+[3]but watch your Magic Meter!
+[-]
+[00]
+!------------------------------!
+This is the Ether Medallion!
+[2]Its magic controls the upper
+[3]atmosphere and polar wind!
+[S][E]Watch your Magic Meter!
+[-]
+[00]
+!------------------------------!
+This is the Bombos Medallion!
+[2]Its magic makes the ground
+[3]explode with power!
+[S][E]Watch your Magic Meter!
+[-]
+[00]
+!------------------------------!
+This is the Quake Medallion!
+[2]Its magic causes the ground
+[3]to shake and defeats
+[S][E]nearby enemies!
+[E]Watch your Magic Meter!
+[-]
+[00]
+!------------------------------!
+You got the Magic Hammer!
+[2]You can now drive wooden
+[3]stakes down into the ground!
+[S][E]You can use it to pound on
+[E]other things too!
+[-]
+[00]
+!------------------------------!
+Oh! Here's the Flute!
+[2]Its music surely has some
+[3]mysterious power!
+[-]
+[00]
+!------------------------------!
+You got the Cane of Somaria!
+[2]If you use it strategically,
+[3]this mysterious cane will
+[S][E]be of tremendous help!
+[-]
+[00]
+!------------------------------!
+BOING! It's the Hookshot!
+[2]It extends! And contracts!
+[3]And... BOING! It can grapple
+[S][E]many things!
+[-]
+[00]
+!------------------------------!
+You got some bombs!
+[2]You can pick up and throw
+[3]a bomb you've placed!
+[S][E](Press the [R] Button!)
+[-]
+[00]
+!------------------------------!
+This is a Magic Bottle!
+[2]You can store an item
+[3]inside and then use it later!
+[-]
+[00]
+!------------------------------!
+You got the Big Key!
+[2]This is the master key of the
+[3]dungeon. It can open many
+[S][E]locks that small keys cannot.
+[-]
+[00]
+!------------------------------!
+You got the Titan's Mitt!
+[2]Now you can lift the heaviest
+[3]stones that were once
+[S][E]impossible to budge.
+[-]
+[00]
+!------------------------------!
+He gave you the Magic Mirror!
+[2]This mirror is blue, clear, and
+[3]beautiful...
+[S][E]You feel like it's going to
+[E]pull you into another world...
+[-]
+[00]
+!------------------------------!
+This is it! The Master Sword!
+[2]... ... ...
+[3]No, this can't be it... Too bad.
+[-]
+[00]
+!------------------------------!
+[0600006B][02][0600007A][03]
+Sahasrahla's voice echoes
+[2]from the void...
+[3]...  ...  ...
+[S][E][H], you have done well
+[E]to obtain the evil-banishing
+[E]blade, the Master Sword...
+[S][E]The power that shines in it
+[E]is now yours to wield!
+[S][E]With it, you should be able to
+[E]thwart the magic of the evil
+[E]wizard Agahnim.
+[S][E]The destiny of this land
+[E]is in your hands.
+[S][E]Please, [H]...
+[-]
+[00]
+!------------------------------!
+Heh heh heh... Thank you!
+[2]This is the Medicine of Life.
+[3]Use it to regain your life
+[S][E]power.
+[-]
+[00]
+!------------------------------!
+Heh heh heh... Thank you!
+[2]This is the Medicine of Magic.
+[3]You can recharge your mystic
+[S][E]energy with it.
+[-]
+[00]
+!------------------------------!
+Heh heh heh... Thank you!
+[2]This is the Medicine of Life and
+[3]Magic! You can recover both!
+[-]
+[00]
+!------------------------------!
+You borrowed the Bug-Catching
+[2]Net! There may be some other
+[3]things you can catch with it,
+[S][E]too.
+[-]
+[00]
+!------------------------------!
+You found the Blue Mail!
+[2]This armor reduces the damage
+[3]that you take from enemies!
+[-]
+[00]
+!------------------------------!
+You found the Red Mail!
+[2]This provides even better
+[3]protection than the Blue Mail!
+[-]
+[00]
+!------------------------------!
+Great! Your sword is stronger!
+[2]You can feel the sheer power
+[3]flowing through your body!
+[-]
+[00]
+!------------------------------!
+You found the Mirror Shield!
+[2]You can now reflect beams
+[3]that your old shield
+[S][E]couldn't block!
+[-]
+[00]
+!------------------------------!
+You got the Cane of Byrna!
+[2]If you swing it once, a ring of
+[3]light will protect you!
+[-]
+[00]
+!------------------------------!
+Eh? It's locked!
+[2]If you had the Big Key, you
+[3]might be able to open it!
+[-]
+[00]
+!------------------------------!
+You're short on magic power!
+[2]You can't use this item now.
+[3]Watch your Magic Meter!
+[-]
+[00]
+!------------------------------!
+He gave you the Pegasus
+[2]Shoes! Now you can execute a
+[3]devastating dash attack!
+[S][E](Hold the [R] Button
+[E]for a short time.)
+[-]
+[00]
+!------------------------------!
+Wow! I haven't seen a normal
+[2]person in a few hundred years!
+[3]Let me talk to you for a while.
+[-]
+[00]
+!------------------------------!
+Do you know about the
+[2]Gargoyle statue in the village?
+[3]People say they can hear a girl
+[S][E]calling for help from under the
+[E]statue. Isn't that a strange
+[E]story...?
+[-]
+[00]
+!------------------------------!
+Surprisingly, the Triforce
+[2]created this world to fulfill
+[3]Ganon's wish.
+[S][E]What is Ganon's wish,
+[E]you ask? It's to rule the
+[E]entire cosmos! Don't you think
+[S][E]it might be possible with the
+[E]power of the Triforce
+[E]behind you?
+[-]
+[00]
+!------------------------------!
+I once lived in the Lost Woods,
+[2]until the day I wandered into a
+[3]magical transporter...
+[S][E]The power of the Dark World
+[E]quickly turned me into this
+[E]tree shape...
+[S][E]I guess the two forests are
+[E]connected with each other...
+[-]
+[00]
+!------------------------------!
+I heard that using bombs is the
+[2]best way to defeat the
+[3]one-eyed giants.
+[S][E]That's all I know!
+[-]
+[00]
+!------------------------------!
+Quit bothering me! And watch
+[2]where you're going when you
+[3]dash around!
+[-]
+[00]
+!------------------------------!
+You got the Pendant of Power!
+[2]You have now collected all
+[3]three Pendants! Go forth now
+[S][E]to the Lost Woods for the
+[E]Master Sword!
+[-]
+[00]
+!------------------------------!
+You got the Pendant of Wisdom!
+[2]Your power's increased again!
+[3]Now, go for the last one!
+[-]
+[00]
+!------------------------------!
+Well howdy, Light Worlder!
+[2]You look like a straight
+[3]shooter...  Want to try your
+[S][E]skills in my shooting gallery?
+[E]I'll give you five shots for 20
+[E]Rupees. If you're as sharp
+[S][E]as I think you are, you stand
+[E]to rake in the Rupees.
+[S][E]How about it, stranger?
+[E]    [>] Play
+[E]       No way
+[05000068][-]
+[00]
+!------------------------------!
+All right! Aim carefully!
+[2]Ready? GO!
+[-]
+[00]
+!------------------------------!
+Well, little partner, you can
+[2]turn yourself right around and
+[3]leave the same way you 
+[S][E]came in.
+[E]See you later! Have a nice day!
+[-]
+[00]
+!------------------------------!
+Want to shoot again?
+[2]    [>] Continue
+[3]       Quit
+[05000068][-]
+[00]
+!------------------------------!
+--POND OF HAPPINESS--
+[2]Throw some Rupees in and your
+[3]wishes will surely come true.
+[S][E]Do you want to throw Rupees?
+[E]    [>] Throw a few
+[E]       Don't feel like it
+[05000068][-]
+[00]
+!------------------------------!
+Select an item using the
+[2]+ Control Pad and throw it
+[3]using the [A] Button.
+[05000069][-]
+[00]
+!------------------------------!
+Hello there. Did you drop this?
+[2]    [>] Yes
+[3]       No, I didn't
+[05000068][-]
+[00]
+!------------------------------!
+I like an honest person.
+[2]I will give you something better
+[3]in return.
+[-]
+[00]
+!------------------------------!
+Are you sure this is not yours?
+[2]    [>] Really, it isn't
+[3]       To tell the truth, it is
+[05000068][-]
+[00]
+!------------------------------!
+Now, now, don't tell lies.
+[2]Please take it back.
+[-]
+[00]
+!------------------------------!
+You got the Magical Boomerang!
+[2]You can throw this faster and
+[3]farther than your old one!
+[-]
+[00]
+!------------------------------!
+Your shield is improved!
+[2]Now you can defend yourself
+[3]against fireballs!
+[-]
+[00]
+!------------------------------!
+These are the Silver Arrows
+[2]you need to defeat Ganon!
+[-]
+[00]
+!------------------------------!
+She filled your bottle with the
+[2]Medicine of Magic. That worked
+[3]out well for you!
+[-]
+[00]
+!------------------------------!
+Your sword is stronger!
+[2]You can feel its power
+[3]throbbing in your hand!
+[-]
+[00]
+!------------------------------!
+Happiness increased [0600006C][03][0600006C][02] Rupees.
+[2]In total, your Happiness is [0600006C][01][0600006C][00].
+[3]You became happier by one
+[S][E]step.
+[-]
+[00]
+!------------------------------!
+I will make your wish come true.
+[2]  [>]I want to carry more bombs
+[3]    I want to carry more arrows
+[0500006F][-]
+[00]
+!------------------------------!
+Then I will increase your
+[2]carrying ability so you can
+[3]carry a maximum of [0600006C][01][0600006C][00] bombs.
+[S][E]This is just a small happiness
+[E]I can give to you.
+[-]
+[00]
+!------------------------------!
+Then I will increase your
+[2]carrying ability so you can
+[3]carry a maximum of [0600006C][01][0600006C][00] arrows.
+[S][E]This is just a small happiness
+[E]I can give to you.
+[-]
+[00]
+!------------------------------!
+I cannot grant any more wishes
+[2]for you, but a friend of mine
+[3]might be able to...
+[S][E]She lives in the Waterfall Of
+[E]Wishing near Zora's lake.
+[E]I will return your Rupees to
+[S][E]you. May you be happy...
+[-]
+[00]
+!------------------------------!
+Uhhh... Watch your step.
+[2]There are holes in the ground.
+[3]Could you turn right here?
+[S][E]Young man, are you also going
+[E]to the mountain to look for the
+[E]Golden Power?
+[S][E]Just ahead is a mountain full
+[E]of monsters. Many people have
+[E]vanished in this mountain while
+[S][E]looking for the Golden Power.
+[E]
+[E]
+[S][E]I don't want to steer you
+[E]wrong, so please don't get too
+[E]involved in such a mad quest.
+[-]
+[00]
+!------------------------------!
+Uhh... There must be a heart in
+[2]the bottle.
+[-]
+[00]
+!------------------------------!
+Uhh... Turn right here... ...
+[2]You know, I have a
+[3]granddaughter who is your
+[S][E]age... The king took her to the
+[E]castle and she never returned.
+[E]Kidnapping those maidens must
+[S][E]be part of the wizard's plot!
+[E]I'm sure he is trying somehow
+[E]to use the power of the
+[S][E]descendants of the seven
+[E]sages...
+[-]
+[00]
+!------------------------------!
+I don't know who you are, but
+[2]if you are going to go up
+[3]the mountain, will you take me
+[S][E]with you? I lost my lamp,
+[E]so...
+[-]
+[00]
+!------------------------------!
+The missing maidens are still
+[2]alive somewhere. I believe that
+[3]a Hero will rescue them...
+[S][E]I wait for that day...
+[E]Uhh... These are dangerous
+[E]times... I've talked too much.
+[S][E]Anyway... Thank you for being
+[E]kind to an old man like me.
+[E]Uhh...  I wanted to give you
+[S][E]this. If you wander into
+[E]a magical transporter, gaze
+[E]into this mirror.
+[-]
+[00]
+!------------------------------!
+The wizard has deceived the
+[2]king, and now he is trying to
+[3]open the way to the
+[S][E]Dark World. To complete
+[E]your quest, you will need
+[E]the Moon Pearl, which is in the
+[S][E]tower on top of the mountain.
+[E]All I can do for you now is
+[E]comfort your weariness...
+[S][E]Come back here any time.
+[-]
+[00]
+!------------------------------!
+[05000074]The Moon Pearl will protect its
+[2]bearer from the magical air of
+[3]the Golden Land, so you can
+[S][E]keep your human shape there.
+[E]All I can do for you now is
+[E]comfort your weariness[85] 
+[S][E]Come back here any time.
+[-]
+[00]
+!------------------------------!
+[H], I think the wizard has
+[2]created a portal between the
+[3]two worlds somewhere near the
+[S][E]castle. All I can do for you now
+[E]is to comfort your weariness...
+[E]Visit me any time.
+[-]
+[00]
+!------------------------------!
+Ohhh...  My poor flute-playing
+[2]son... How I miss the sound of
+[3]his flute. He went to look for
+[S][E]the Golden Power but he has
+[E]not returned...
+[S][E]I wonder where he is and what
+[S][E]he's doing now?
+[E]...Zzzzzz  Zzzzzz...
+[-]
+[00]
+!------------------------------!
+Mumble mumble... Oh? This
+[2]flute! This is my son's flute!
+[3]Have you seen my son?
+[S][E]Where is he? Is he all right?
+[E]... ... ...
+[E]
+[S][E]Oh... You don't need to say.
+[E]I understand just from the look
+[E]in your eyes...
+[S][E]Could you keep that flute?
+[E]Then you can play it
+[S][E]for the birds in town in my
+[E]son's stead.
+[E]Please do this for me.
+[S][E]It would make my son so happy.
+[E]...I just wish I could have
+[E]seen him one more time...
+[-]
+[00]
+!------------------------------!
+Could you keep that flute?
+[2]Then you can play it
+[3]for the birds in town in my
+[S][E]son's stead.
+[E]Please do this for me.
+[S][E]It would make my son so happy.
+[E]...I just wish I could have
+[E]seen him one more time...
+[-][00]
+!------------------------------!
+...Zzzzzzz  Zzzzzzzz...
+[2]... ... ...
+[3]Snore...  ...Zzzzzz  Zzzzzz...
+[-]
+[00]
+!------------------------------!
+Oh, [H]. Someone's been
+[2]spreading rumors, saying you
+[3]kidnapped the princess...
+[S][E]but I still trust you.
+[-]
+[00]
+!------------------------------!
+I can't believe you caught me!
+[2]With your speed it must have
+[3]been easy to kidnap Zelda...
+[S][E]You don't look like such a bad
+[E]guy, though...
+[E]Anyway, because you have
+[S][E]such quick feet, it might be a
+[E]good idea to run and bash into
+[E]many things...
+[S][E]For example, the trees in this
+[E]village have many useful things
+[E]hanging in their branches...
+[S][E]Well, just try it, OK?!
+[-]
+[00]
+!------------------------------!
+If you have enough time to
+[2]read this sign, you should go
+[3]to the goal immediately!
+[-]
+[00]
+!------------------------------!
+I'll give a Piece of Heart to
+[2]the person who wears the Cape.
+[-]
+[00]
+!------------------------------!
+Curses to anyone who throws
+[2]something into my circle of
+[3]stones.
+[-]
+[00]
+!------------------------------!
+This way [0501014D] Skeleton Forest
+[3]This way [0501014E] Village of Outcasts
+[-]
+[00]
+!------------------------------!
+[2]This way [05010150] Cave
+[-]
+[00]
+!------------------------------!
+[2]This way [05010150] Palace of Darkness
+[-]
+[00]
+!------------------------------!
+[2]This way [0501014F] Bomb Shop
+[-]
+[00]
+!------------------------------!
+[0501014F]  Swamp of Evil
+[2]         No Entrance
+[3]         No Escape
+[-]
+[00]
+!------------------------------!
+This is the Village of Outcasts.
+[2]People without Rupees are not
+[3]welcome here.
+[-]
+[00]
+!------------------------------!
+The Waterfall of Wishing is just
+[2]around the corner.
+[-]
+[00]
+!------------------------------!
+This way [05010150][0501014D]
+[2]Lake of Ill Omen
+[-]
+[00]
+!------------------------------!
+After Agahnim took over,
+[2]everyone began to act
+[3]strangely.
+[S][E]I suppose it's only
+[E]a matter of time before
+[E]I'm affected, too.
+[-]
+[00]
+!------------------------------!
+Hey hey! You're not allowed in
+[2]the castle, son!
+[3]Go home and get some sleep!
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], it is I, Sahasrahla. I
+[2]can talk to you telepathically
+[3]when you touch these tiles.
+[S][E]I have advice for you...
+[E]The treasure hidden in this
+[E]palace will help you defeat
+[S][E]armored foes.
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], it is I, Sahasrahla the
+[2]elder. An orb known as the
+[3]Moon Pearl rests in this tower.
+[S][E]He who holds the Moon Pearl
+[E]is protected, and his form will
+[E]not change in the Dark World.
+[S][E]You must find it and escape
+[E]from the tower!
+[E]Do not forget the Moon Pearl...
+[-]
+[00]
+!------------------------------!
+[05010047][05010048][05010047][05010049][05010047][05010048][05010047][05010049][05010047][05010048][05010048][05010048][05010048][05010047][05010049][05010047][05010048][05010047][05010049]
+[2][05010047][05010049][05010047][05010047][05010048][05010047][05010049][05010047][05010048][05010047][05010049]
+[3][05010047][05010048][05010047][05010049][05010047][05010047][05010048][05010047][05010049][05010049][05010048][05010047][05010047][05010049]
+[-]
+[00]
+!------------------------------!
+The Hero's triumph on
+[2]Cataclysm's Eve
+[3]wins three symbols of virtue.
+[S][E]The Master Sword he retrieves,
+[E]keeping the Knight's line true.
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], it is I, Sahasrahla.
+[2]You must somehow make your
+[3]way to the top of Spectacle
+[S][E]Rock. From there you can
+[E]reach the Tower of Hera on
+[E]top of Death Mountain.
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], it is I, Sahasrahla.
+[2]Objects in the Light and Dark
+[3]Worlds mimic one another.
+[S][E]If the form of a thing changes
+[E]in one world, it will change the
+[E]shape of its twin in the other.
+[-][00]
+!------------------------------!
+[0600006B][02][H]...  It's me, Zelda...
+[2]Don't be deceived by the magic
+[3]of Blind the Thief! Be careful!
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], it is I, Sahasrahla
+[2]the elder! Set the four
+[3]torches alight and the way
+[S][E]ahead shall surely open.
+[-]
+[00]
+!------------------------------!
+[05010047][05010049][05010047][05010048][05010047][05010049][05010047][05010048][05010047][05010048][05010047]
+[2][05010047][05010048][05010047][05010049][05010047][05010049][05010047][05010048][05010047][05010049]
+[3][05010047][05010048][05010047][05010049][05010047][05010049][05010047][05010048][05010047][05010049][05010047]
+[-]
+[00]
+!------------------------------!
+To open the way forward...
+[2]Make your wish here...
+[3]And it will be granted.
+[-]
+[00]
+!------------------------------!
+[0600006B][02]When Ganon is stunned, seal
+[2]his fate with a Silver Arrow!
+[S][E]Do you understand, [H]?
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], can you hear me?
+[2]It's me, Zelda. I'm locked in
+[3]Turtle Rock on top of Death
+[S][E]Mountain. I know you're doing
+[E]your best, but please hurry...
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], it is I, Sahasrahla.
+[2]Be sure to find the treasures
+[3]hidden in each dungeon.
+[-]
+[00]
+!------------------------------!
+[0600006B][02]Listen well, [H].
+[2]Even with the Master Sword,
+[3]you cannot inflict physical
+[S][E]harm on the wizard.
+[E]You must find a way to return
+[E]his own evil magic power to him.
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], you must not exhaust
+[2]your magic power. You will
+[3]have need of it ahead.
+[S][E]If you do not have possess the
+[E]Medicine of Magic, then proceed
+[E]with caution.
+[S][E]Do not overexert yourself...
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], do you possess the
+[2]Medicine of Magic? If not, I
+[3]recommend against going any
+[S][E]further.
+[-]
+[00]
+!------------------------------!
+[0600006B][02]Listen to my words, [H]...
+[2]The magic flames will protect
+[3]you inside this icy dungeon.
+[-]
+[00]
+!------------------------------!
+[0600006B][02]You cannot destroy the
+[2]Skeleton Knight with the sword
+[3]alone. When he collapses, he is
+[S][E]vulnerable to another weapon.
+[-]
+[00]
+!------------------------------!
+[0600006B][02][H], it is I, Sahasrahla the
+[2]elder. I have some advice...
+[3]In the dungeons, you can gaze
+[S][E]into the Magic Mirror to return
+[E]to the entrance at any time.
+[E]Do not forget this!
+[-]
+[00]
+!------------------------------!
+This is my top-secret room.
+[2]Keep it between us, OK?
+[-]
+[00]
+!------------------------------!
+You caught a bee!
+[S][2]What will you do?
+[3]    [>] Keep it in a bottle
+[E]       Set it free
+[05000068][-]
+[00]
+!------------------------------!
+You caught a fairy!
+[S][2]What will you do?
+[3]    [>] Keep it in a bottle
+[E]       Set it free
+[05000068][-]
+[00]
+!------------------------------!
+You don't have any empty
+[2]bottles. You have no choice...
+[3]Just set it free.
+[-]
+[00]
+!------------------------------!
+This try your time was
+[2][0600006C][03][0600006C][02] minutes [0600006C][01][0600006C][00] seconds.
+[-]
+[00]
+!------------------------------!
+If you can reach the goal
+[2]within 15 seconds, we will give
+[3]you something good.
+[S][E]Ready, set... ... ...GO!
+[-]
+[00]
+!------------------------------!
+You qualified!
+[2]Congratulations!
+[3]I present you with a Piece of
+[S][E]Heart!
+[-]
+[00]
+!------------------------------!
+You didn't qualify.
+[2]Too bad!
+[3]Why don't you try again?
+[-]
+[00]
+!------------------------------!
+I don't have anything more to
+[2]give you.
+[3]I'm sorry!
+[-]
+[00]
+!------------------------------!
+You have to enter the maze
+[2]from the proper entrance or I
+[3]can't clock your time...
+[-]
+[00]
+!------------------------------!
+You, sir! Have you been going
+[2]through life without one of my
+[3]hold-anything bottles?
+[S][E]Well, step right up and make
+[E]your life complete! I've got
+[E]one on sale now for the low,
+[S][E]low price of 100 Rupees!
+[S][E]What do you say? Interested?
+[E]    [>] I'll take one
+[E]       Don't need it
+[05000068][-]
+[00]
+!------------------------------!
+Good buy! Thanks a lot!
+[2]Now, hold it above your head
+[3]for the whole world to see, OK?
+[S][E]It's good for business!
+[-]
+[00]
+!------------------------------!
+So you're broke, eh? Too bad...
+[2]Come back after you earn more
+[3]Rupees. It might still be here.
+[-]
+[00]
+!------------------------------!
+I'm all sold out of bottles.
+[2]Come back later, OK? 
+[3] ... ... ...
+[-]
+[00]
+!------------------------------!
+Wow! I've never seen such a
+[2]rare bug! I'll buy it for
+[3]100 Rupees, OK? Done!
+[-]
+[00]
+!------------------------------!
+Hey! They say eating fish
+[2]makes you smart. You have to
+[3]give me your fish for this
+[S][E]stuff, OK? Of course!
+[-]
+[00]
+!------------------------------!
+Yo!  [H]! You seem to be in
+[2]a heap of trouble, but this is
+[3]all I can give you.
+[-]
+[00]
+!------------------------------!
+Hey, you!
+[2]Welcome!
+[3]
+[S][E]Ask us for whatever you need!
+[E]    [>] Temper my sword
+[E]       I just dropped by
+[05000068][-]
+[00]
+!------------------------------!
+I'll give you a big discount!
+[2]    [>]Sword Tempering: 10 Rupees
+[3]      Wait a minute
+[05000068][-]
+[00]
+!------------------------------!
+Tempering, eh? Are you sure?
+[2]    [>] Yes
+[3]       I changed my mind
+[05000068][-]
+[00]
+!------------------------------!
+Well, we can't make it any
+[2]stronger than that... Sorry!
+[-]
+[00]
+!------------------------------!
+Drop by again anytime you
+[2]want to. Yo ho! Yo ho!
+[3]Let's get to work!
+[-]
+[00]
+!------------------------------!
+All right, no problem.
+[2]We'll have to keep your sword
+[3]for a while.
+[-]
+[00]
+!------------------------------!
+Your sword is tempered!
+[2]Now hold it!
+[-]
+[00]
+!------------------------------!
+If my lost partner returns
+[2]we can temper your sword,
+[3]but right now I can't do
+[S][E]anything for you.
+[-]
+[00]
+!------------------------------!
+Oh! What is this?!?
+[2]You found my partner!
+[3]...Happy days are here again!
+[S][E]Drop by here again sometime!
+[E]Then we will temper your
+[E]sword perfectly!
+[-]
+[00]
+!------------------------------!
+Ribbit ribbit...  Your body did
+[2]not change! You are not just
+[3]an ordinary guy, are you?
+[S][E]I used to live in Kakariko Town.
+[E]I wonder what my buddy is
+[E]doing there without me...
+[S][E]Ribbit! I have a request of
+[E]you. I beg you...
+[E]Please take me to my partner!
+[S][E]Please! Ribbit! Please!
+[-]
+[00]
+!------------------------------!
+I'm sorry, we're not done yet.
+[2]Come back after a while.
+[-]
+[00]
+!------------------------------!
+Thank you!
+[2]
+[3]Thank you!
+[-]
+[00]
+!------------------------------!
+Hey hey, amateurs shouldn't
+[2]try to do this. You're just
+[3]getting in the way!
+[-]
+[00]
+!------------------------------!
+After wandering into this world
+[2]I was changed into this shape.
+[3]...  ...  ...
+[S][E]Back in my world, I played my
+[E]beloved flute day and night...
+[E]There was a small grove there
+[S][E]where the animals would gather
+[E]when I played. I would love to
+[E]see that place again...
+[S][E]Before I came here I
+[E]buried my flute there, along
+[S][E]with some flower seeds.
+[S][E]Will you try to find it for me?
+[E]    [>] Yes
+[E]       No way
+[05000068][-]
+[00]
+!------------------------------!
+Then I will lend you my shovel.
+[2]Good luck!
+[-]
+[00]
+!------------------------------!
+... ... ...
+[2]I see. I won't ask you again...
+[3]Good-bye.
+[-]
+[00]
+!------------------------------!
+Did you find my flute?
+[2]... ... ...
+[3]Please keep looking for it...
+[-]
+[00]
+!------------------------------!
+Thank you, [H]. But it
+[2]looks like I can't play my flute
+[3]any more. Please take it.
+[S][E]If by chance you go to the
+[E]village I lived in, please give
+[E]it to a tired old man you will
+[S][E]find there.
+[E]... ... ...
+[E]Well,  my mind is getting
+[S][E]hazy...
+[E]Please let me hear the sound of
+[E]the flute one last time...
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Hocus pocus!
+[2]You will find the elder
+[3]Sahasrahla...
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Abracadabra alakazam!
+[2]You will open a desert lock with
+[3]the Book of Mudora.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Hocus pocus!
+[2]You will find a descendant of
+[3]a sage's line in the desert.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Abracadabra alakazam!
+[2]You will find a mushroom lover
+[3]at the Magic Shop...
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Hocus pocus!
+[2]You will find a lake where Zoras
+[3]live far up the river...
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Abracadabra alakazam!
+[2]A chest in the mountain tower
+[3]holds the Moon Pearl...
+[S][E]And you will find it!
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Hocus pocus!
+[2]Even the mighty Master Sword
+[3]cannot harm the wizard's body.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Abracadabra alakazam!
+[2]The true Hero will jump into the
+[3]well near the smithy's shop.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Well, I have to say my condition
+[2]isn't very good today. But I
+[3]want you to come back again...
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Hmmm... You look like you might
+[2]have an interesting destiny...
+[3]May I tell your fortune?
+[S][E]I'll make it cheap...
+[E]    [>] Ask him to tell it
+[E]       Not interested
+[05000068][-]
+[00]
+!------------------------------!
+[0600006D][01]Now I will take [0600006C][00][0600006C][01] Rupees.
+[2]I hope you will be healthy.
+[3]Yee hah ha hah!
+[-]
+[00]
+!------------------------------!
+[0600006D][01]It is indeed a poor man who is
+[2]not interested in his future[85]
+[3]I'll be waiting for your return.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Hocus pocus!
+[2]You will meet a strange man
+[3]standing in the desert...
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Abracadabra alakazam!
+[2]Inquire about chests at the
+[3]gossip shop in the Dark World...
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Hocus pocus!
+[2]You will find the smith's
+[3]partner in the
+[S][E]Village of Outcasts.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Abracadabra alakazam!
+[2]You will find a treasure resting
+[3]in peace in the graveyard.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Hocus pocus!
+[2]You will buy a new kind of bomb
+[3]in the Bomb Shop.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Abracadabra alakazam!
+[2]I see something hidden inside
+[3]the pyramid of the Dark World.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Hocus pocus!
+[2]You will run into a barrier if
+[3]you try to enter
+[S][E]Ganon's tower.
+[-]
+[00]
+!------------------------------!
+[0600006D][01]Abracadabra alakazam!
+[2]You will need Silver Arrows to
+[3]seal Ganon's fate.
+[-]
+[00]
+!------------------------------!
+Hey! I'll tell you a profitable
+[2]story if you pay me 20 Rupees.
+[S][E]How about it?
+[E]    [>] Pay Rupees
+[E]       Don't want to hear it
+[05000068][-]
+[00]
+!------------------------------!
+Hah! Thank you. They say
+[2]there is a tiny circle of rocks
+[3]in the lake at the source of
+[S][E]the river. I don't know what
+[E]will happen, but it might be fun
+[E]to throw something into it...
+[S][E]Heh heh. See you...
+[-]
+[00]
+!------------------------------!
+Heh heh. I see. I'm not
+[2]interested in talking to people
+[3]who don't have Rupees...
+[-]
+[00]
+!------------------------------!
+Heh heh. Thank you. To tell
+[2]you the truth, I used to be a
+[3]thief in the Light World...
+[S][E]Some of my fellow thieves went
+[E]into hiding because they were
+[E]afraid of being caught.
+[S][E]One of them was a master
+[E]lockpicker, but now he is hiding
+[E]the fact that he was a thief...
+[S][E]...by pretending to be a
+[E]completely average guy!
+[E]Ha ha ha...
+[S][E]Hey! It almost sounds like
+[E]like I'm giving you a hint!
+[-]
+[00]
+!------------------------------!
+Hah! Thank you. To tell you
+[2]the truth, I saw incredible
+[3]beauty inside the pyramid,
+[S][E]but someone went and sealed
+[E]the door. The nerve! Not even
+[E]a bomb will blow it open now...
+[S][E]At least not a standard one...
+[-]
+[00]
+!------------------------------!
+Heh heh. Thank you. As a
+[2]matter of fact, monster magic
+[3]is making it rain in the swamp.
+[S][E]If you can move the air with
+[E]more force than the monsters,
+[E]the rain may stop.
+[-]
+[00]
+!------------------------------!
+Sniffle... Hey brother [H]!
+[2]Do you have a bottle to keep
+[3]a bug in?
+[S][E]...
+[E]Oh, maybe not...
+[E]Cough cough...
+[-]
+[00]
+!------------------------------!
+I can't go out 'cause I'm sick...
+[2]Cough cough...
+[3]People say I caught this cold
+[S][E]from the evil air that's coming
+[E]down off the mountain...
+[E]Sniff sniff...
+[S][E]This is my bug-catching net.
+[E]I'll use it when I'm better, but
+[E]for now, I'll lend it to you.
+[-]
+[00]
+!------------------------------!
+Sniffle... I hope I get well
+[2]soon...
+[3]Cough cough...
+[-]
+[00]
+!------------------------------!
+... ... ... ... ... ...
+[2]... ... ...
+[-][00]
+!------------------------------!
+Why did you take my sign? It
+[2]says plain as day to just leave
+[3]me alone! Sheeesh!
+[-][00]
+!------------------------------!
+I heard that you know I used to
+[2]be a thief, right?
+[3]
+[S][E]Well, I'll open a chest for you.
+[E]Will you keep it secret from
+[E]everyone else?
+[S][E]Would you please promise?
+[E]    [>] Promise not to tell
+[E]       Tell it to everyone
+[05000068][-]
+[00]
+!------------------------------!
+OK, if that's the way you want
+[2]it, I hope you drag that chest
+[3]around forever!
+[-][00]
+!------------------------------!
+Remember, you promised...
+[2]Don't tell anyone.
+[-]
+[00]
+!------------------------------!
+All right, bring that chest over
+[2]here...  Seriously, keep this a
+[3]secret from everyone.
+[-][00]
+!------------------------------!
+[05010048][05010049][05010048][05010049][05010048][05010049][05010048][05010049][05010048][05010049][05010048][05010048][05010048][05010049]
+[2][05010048][05010047][05010049][05010049][05010047][05010048][05010047][05010049][05010048][05010047][05010049][05010048][05010047][05010049][05010048][05010047]
+[3][05010048][05010049][05010048][05010049][05010048][05010049][05010048][05010047][05010048][05010047]
+[-]
+[00]
+!------------------------------!
+Hold up the Master Sword and
+[2]you will get the magic of
+[3]Ether.
+[-]
+[00]
+!------------------------------!
+Hold up the Master Sword and
+[2]you will get the magic of
+[3]Bombos.
+[-]
+[00]
+!------------------------------!
+Hey! Blast you for waking me
+[2]from my deep, dark sleep!
+[3]...I mean, thanks a lot, sir!
+[S][E]But now I will get my revenge
+[E]on you. Get ready for it!
+[E]...Err, is that OK with you,
+[S][E]sir?
+[-]
+[00]
+!------------------------------!
+Heh heh heh! I laugh at your
+[2]misfortune! Now your magic
+[3]power will drop by one-half!
+[S][E]Congratulations!
+[E]Now, do your best, even though
+[E]I'm sure it won't be enough!
+[S][E]Have a nice day! See you!
+[-]
+[00]
+!------------------------------!
+[0600006E][00][06000077][07][0600007A][03]
+[0600006B][02]
+[F]Long ago, in Hyrule, a beautiful
+[2]kingdom surrounded by forests
+[3]and mountains...
+[W][09]
+[E]legends told of an omnipotent
+[E]and omniscient Golden Power
+[E]that lay hidden.
+[W][07]
+[E]It was hidden in a sacred
+[E]realm beyond the reach of men,
+[E]but one day...
+[W][09]
+[E]...a doorway to that realm
+[E]was suddenly opened...
+[W][09]
+[F]
+[F][E]Hoping to claim the Golden
+[E]Power as their own, the people
+[E]began to quarrel and fight...
+[W][09]
+[E]Many sought to enter the
+[E]hidden Golden Land...
+[W][05]
+[E]But none returned, and instead
+[E]evil power began to issue
+[E]forth from the dark portal...
+[W][07]
+[F]
+[F][E]So the king commanded seven
+[E]sages to seal the gate to
+[E]the land of the Golden Power.
+[W][07]
+[F]
+[F][E]Many brave knights were lost
+[E]in the battle to protect the
+[E]sages from the tides of evil,
+[W][09]
+[E]but the seal was cast! Evil
+[E]flowed no more! And the seal
+[E]would remain for all time...
+[W][03]
+[E]Or so the people hoped...
+[W][09]
+[E]But when these events were
+[E]obscured by the mists of
+[E]time, and became legend...
+[W][09][-][00]
+!------------------------------!
+[0600006B][02][06000077][07][0600007A][03]
+[05000074]A mysterious wizard known as
+[2]Agahnim appeared as from
+[3]nowhere...
+[W][05][E]and with strange magic powers
+[E]he eliminated the good king of
+[E]Hyrule...
+[W][05]
+[-]
+[00]
+!------------------------------!
+[0600006B][02][06000077][07][0600007A][03]
+[05000074]He cast spells on the soldiers
+[2]and kidnapped young maidens
+[3]descended from the sages
+[W][05][E]in order to break the seal...
+[W][05]
+[-]
+[00]
+!------------------------------!
+[0600006B][02][06000077][07][0600007A][03]
+[05000074]This destiny fast approaches
+[2]for the final maiden...
+[3]the princess, Zelda...
+[W][05]
+[-]
+[00]
+!------------------------------!
+Because the key is locked
+[2]inside this chest, you can
+[3]never open it.
+[S][E]Just take it with you.
+[-]
+[00]
+!------------------------------!
+100 Rupees for 30 bombs! 30
+[2]Bombs for just 100 Rupees!
+[3]Please buy 'em, mister!
+[-]
+[00]
+!------------------------------!
+100 Rupees for 30 bombs! I also
+[2]have a new Super Bomb in stock
+[3]for only 100 Rupees! Please
+[S][E]buy it too, mister!
+[-]
+[00]
+!------------------------------!
+Thank you very much.
+[2]So very much.
+[-]
+[00]
+!------------------------------!
+Thank you very much. You can
+[2]drop this bomb off anywhere.
+[3](Press the [R] Button.)
+[S][E]Please don't forget it.
+[-]
+[00]
+!------------------------------!
+Ki ki ki! If you give me 100
+[2]Rupees,  I will open the
+[3]entrance for you. Kik ki ki!
+[S][E]  What will you do?
+[E]    [>] Ask him to open it
+[E]       Try to open it yourself
+[05000068][-]
+[00]
+!------------------------------!
+Ki ki ki! Hmph!
+[2]Do it yourself, then!
+[3]Ki ki ki!
+[-]
+[00]
+!------------------------------!
+Ki ki! Good choice! Then I get
+[2]100 of your Rupees. Kik ki ki!
+[-]
+[00]
+!------------------------------!
+I'm Kiki the monkey, ki ki!
+[2]I love Rupees more than
+[3]anything. Can you spare me
+[S][E]10 Rupees?
+[S][E] What will you do?
+[E]    [>] Give him 10 Rupees
+[E]       Never give him anything
+[05000068][-]
+[00]
+!------------------------------!
+Ki ki ki ki! Good choice! I
+[2]will accompany you for a while.
+[3]Kik ki ki!
+[-]
+[00]
+!------------------------------!
+Ki ki! Harumph! I have no
+[2]reason to talk to you, then.
+[3]Bye-bye! Kik ki ki!
+[-]
+[00]
+!------------------------------!
+Ki ki? What are you doing?
+[2]I don't want to go there!
+[-]
+[00]
+!------------------------------!
+Ohh, thank you so much!
+[2]You saved my life. Please take
+[3]me outside.
+[-]
+[00]
+!------------------------------!
+Gyaaah!
+[2]Too bright!
+[-]
+[00]
+!------------------------------!
+Err... Wait a minute...
+[2]Please don't go this way.
+[-]
+[00]
+!------------------------------!
+I am Aginah. I sense something
+[2]is happening in the Golden Land
+[3]the seven sages sealed...
+[S][E]This must be an omen of the
+[E]Great Cataclysm foretold by
+[E]the people of Hylian blood...
+[S][E]... ... ...
+[E]The prophecy says, "The Hero
+[E]will stand in the desert holding
+[S][E]the Book of Mudora."
+[E]If you have the Book of Mudora
+[E]you can read the language of
+[S][E]the Hylian people.
+[E]It should be in the house of
+[E]books in the village...
+[S][E]You must get it!
+[E]If you are indeed the Hero...
+[-]
+[00]
+!------------------------------!
+You have collected the three
+[2]Pendants. If you are
+[3]indeed the Hero who has
+[S][E]Wisdom, Courage, and Power,
+[E]the Master Sword sleeping in
+[E]the forest will be yours.
+[-]
+[00]
+!------------------------------!
+Aha! It is the Book of Mudora.
+[2]With it, you can read the
+[3]language of the Hylian people.
+[-]
+[00]
+!------------------------------!
+You are the true Hero...
+[2]I believe that you will return
+[3]peace to this land.
+[-]
+[00]
+!------------------------------!
+Your trial in the desert has
+[2]made you stronger. The blood
+[3]of the Hero must be in your
+[S][E]veins...
+[-]
+[00]
+!------------------------------!
+Was it you who disturbed my
+[2]peaceful nap? I will give this
+[3]to you if you go away!
+[-]
+[00]
+!------------------------------!
+I don't have any more good
+[2]presents for you. Take this
+[3]instead, pest!
+[-]
+[00]
+!------------------------------!
+Yo [H]! A mysterious fog
+[2]has recently fallen over the
+[3]forest. We have to be careful!
+[-]
+[00]
+!------------------------------!
+Maybe it's nothing, but this
+[2]tree feels kind of strange as
+[3]we cut it...
+[-]
+[00]
+!------------------------------!
+Yo! The fog in the forest is
+[2]clearing. Thank you! We can
+[3]go there again! Hey brother!
+[-]
+[00]
+!------------------------------!
+Hey, [H]. I've been
+[2]quarreling with my younger
+[3]brother. It's something really
+[S][E]stupid, too. But sometimes you
+[E]just can't give in, you know?
+[S][E]So I sealed the door to his
+[S][E]room. That'll learn him.
+[-]
+[00]
+!------------------------------!
+So the doorway is open again...
+[2]OK, OK, maybe I should make up
+[3]with my brother...
+[-]
+[00]
+!------------------------------!
+Hey [H], did you come from
+[2]my older brother's room? Is he
+[3]still angry?
+[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+[H], because of you,  I've
+[2]escaped from the clutches of
+[3]the evil monsters. Thank you!
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]...This world was once the
+[2]Golden Land where the Triforce
+[3]was hidden.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]But because Ganon, the leader
+[2]of the thieves, wished it, this
+[3]world was transformed...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]I'm sure he's intending to
+[2]conquer even our Light World
+[3]after building his power here.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]His hope is to use us maidens
+[2]and the power of the sages
+[3]that has been passed on to us
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]as the key to open a larger
+[2]gate between the worlds near
+[3]Hyrule Castle.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]But the gate is not
+[2]completely open yet...
+[3]There is still time.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Together, we seven maidens
+[2]can break the barrier that
+[3]protects Ganon's hiding place.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]I can tell you where the other
+[2]girls are held. I believe you
+[3]will destroy Ganon.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]I will return to my original
+[2]form at that time.
+[3]... ... ... ... ...
+[06000079]-[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+[H], thanks to you, I was
+[2]able to escape from the
+[3]clutches of evil. Thank you!
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]...The Triforce will grant the
+[2]wishes of whoever touches it,
+[3]as long as that person lives...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]That is why it was hidden in
+[2]the Golden Land. Only a select
+[3]few were told of its location,
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]but at some point that
+[2]knowledge was lost...
+[3]The one who rediscovered
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]the Golden Land was
+[2]an evil thief named Ganondorf.
+[3]Luckily, he couldn't figure out
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]how to return to the Light
+[2]World...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]...Well, remember that you
+[2]have magical powers, which only
+[3]the Hero can make use of!
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]There are some other magical
+[2]warping points like the one you
+[3]saw on Death Mountain.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]By using them you can go
+[2]between the two worlds and
+[3]find the evils hidden in the
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Dark World. You are the only
+[2]one who can destroy
+[3]Ganondorf, the thief... No!
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Ganon, the evil King of
+[2]Darkness!
+[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+[H], thanks to you, I was
+[2]able to escape the clutches of
+[3]the evil monsters. Thank you!
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]...Do you know the prophecy of
+[2]the Great Cataclysm?
+[3]This is the way I heard it...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]If a person with an evil
+[2]heart gets the Triforce, a Hero
+[3]is destined to appear...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]...and he alone must face the
+[2]person who unleashed the
+[3]Great Cataclysm.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]If the evil one destroys the
+[2]Hero, nothing can save the
+[3]world from his wicked reign.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Only a member of the Knights
+[2]of Hyrule, who protected the
+[3]Hylian royalty, can become
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]the Hero... You are of their
+[2]bloodline, aren't you? Then
+[3]you must rescue
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Zelda without fail!
+[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+[H], thanks to you, I was
+[2]able to escape the clutches of
+[3]the evil monsters. Thank you!
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]As the sages sealed the way
+[2]to the Dark World, the Knights
+[3]of Hyrule defended them from
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]the attacks of evil monsters.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]I heard that the Knights of
+[2]Hyrule were nearly wiped out in
+[3]that battle...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]You are perhaps the last one
+[2]to carry on the bloodline of
+[3]those knights...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]It's ironic that the last one in
+[2]the line has the potential to
+[3]become the Hero of legend.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Surely you can destroy Ganon!
+[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+[H], thanks to you, I was
+[2]able to escape the clutches of
+[3]the evil monsters. Thank you!
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]They say the Hylian people
+[2]mastered mysterious powers,
+[3]as did the seven sages.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]But the blood of the Hylia has
+[2]grown thin over time. And we
+[3]who carry the blood of the
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]sages do not possess our
+[2]ancestors' powers, either.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]But our power will increase if
+[2]we mix the courage of the
+[3]knights with the wisdom of the
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]sages! Perhaps there is
+[2]still a way in which we can
+[3]help you.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]But there is little time before
+[2]the gate at the castle linking
+[3]the worlds opens completely.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]If you defeat Ganon, this
+[2]world will vanish, and the
+[3]Triforce will wait
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]for a new master.
+[2]I believe in you...
+[3]Good luck!
+[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+[H], because of you, I've
+[2]escaped from the clutches of
+[3]the evil monsters. Thank you!
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Ganon captured us because he
+[2]couldn't break the seal of the
+[3]sages with his power alone.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]And then, using the wizard
+[2]Agahnim as his pawn, he drew us
+[3]to the Dark World.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]After cracking the seal with
+[2]our powers, he sealed us inside
+[3]of these crystals.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]He then gave us to his loyal
+[2]monsters. But Ganon didn't
+[3]plan on you getting this far.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Now, Princess Zelda is waiting
+[2]for you inside of Turtle Rock.
+[3]Please hurry!
+[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+I appreciate your coming so far
+[2]to rescue me. As I thought,
+[3]you are the legendary Hero.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]I have felt this from the first
+[2]time we met.
+[3]... ... ...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Ganon is inside of his tower,
+[2]waiting to pass through the
+[3]gate linking the two worlds.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Once Ganon enters the Light
+[2]World, it is unlikely that
+[3]anyone can stop him.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]But if he is kept in the closed-
+[2]off space of this world, you
+[3]can find him wherever he runs.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Now, take the seven crystals
+[2]to Ganon's Tower! Our
+[3]combined powers will break his
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]barrier! Let us return peace to
+[2]the country and smiles to the
+[3]faces of the people!
+[06000079]-[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+May the way of the Hero lead
+[2]to the Triforce.
+[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+Do you understand?
+[2]    [>]  Yes
+[3]        Not at all
+[05000068][-]
+[00]
+!------------------------------!
+[H], we are going to break
+[2]the barrier of Ganon's Tower
+[3]with our power.
+[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][01][0600006B][02]
+I appreciate your coming so far
+[2]to rescue me. As I thought,
+[3]you are the legendary Hero.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]I have felt this from the first
+[2]time we met.
+[3]... ... ...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Ganon is inside of his tower,
+[2]waiting to pass through the
+[3]gate linking the two worlds.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Once Ganon enters the Light
+[2]World, it's unlikely that
+[3]anyone can stop him.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]But if he is kept in the closed
+[2]space of this world, you can
+[3]find him wherever he runs.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Some maidens still need your
+[2]help, though. Once you rescue
+[3]them all, go to Ganon's Tower.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]We who carry the bloodline of
+[2]the sages in us will then use
+[3]our power to break
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Ganon's barrier!  
+[2][H]... You must return
+[3]peace to the world...
+[-]
+[00]
+!------------------------------!
+Aha... [H]!
+[2]I have been waiting for you!
+[3]Heh heh heh...
+[S][E]I thought I would make Zelda
+[E]vanish before you.
+[E]Behold! Princess Zelda's
+[S][E]final breath!
+[-]
+[00]
+!------------------------------!
+Ho ho ho... With this, the
+[2]seal of the seven sages is
+[3]at last broken.
+[S][E]It is now only a matter of time
+[E]before evil power covers this
+[E]land completely...
+[S][E]After all, the legendary Hero
+[E]cannot defeat us, the tribe of
+[E]evil, when we are armed with
+[S][E]the Power of Gold.
+[E]Ho ho ho... Now, I must go!
+[-]
+[00]
+!------------------------------!
+Ho ho! You seem to want me
+[2]to finish you off!
+[3]Then allow me to make
+[S][E]your wish come true!
+[-]
+[00]
+!------------------------------!
+Grrrrugh! Well met, "Hero"!
+[2]But I am not ready to admit
+[S][E]defeat yet...
+[E]I will draw you into the
+[E]Dark World!
+[-]
+[00]
+!------------------------------!
+Ho ho ho! It's great that you
+[2]could come all the way here,
+[3][H].
+[S][E]And while I'm very happy
+[E]to see you again...
+[E]you'd better believe that we
+[S][E]will not have a third meeting!
+[E]Prepare to meet your doom!
+[-]
+[00]
+!------------------------------!
+Wah ha ha! What do you want,
+[2]little man? Do you have
+[3]something to ask me?
+[S][E]    [>]  I want the Flippers
+[E]        I just dropped by
+[05000068][-]
+[00]
+!------------------------------!
+Wah ha ha! But I don't just
+[2]give Flippers away for free.
+[3]I sell them for 500 Rupees a
+[S][E]pair.
+[S][E]What do you do?
+[E]    [>]  Pay 500 Rupees
+[E]        Quit after all
+[05000068][-]
+[00]
+!------------------------------!
+Wah ha ha! One pair of
+[2]Flippers coming up. I will
+[3]give you a free bonus with
+[S][E]your purchase.
+[E]I will let you use the magic
+[E]water ways of the sea folk
+[S][E]which link lakes and rivers.
+[E]When you see a whirlpool, dive
+[E]into it. You never know where
+[S][E]you'll surface! Wah ha ha!
+[-]
+[00]
+!------------------------------!
+Wade back this way when you
+[2]have more Rupees...
+[3]Wah ha ha! I'll see you again!
+[-]
+[00]
+!------------------------------!
+Great! Whenever you want to
+[2]see my fishy face, you are
+[3]welcome here.
+[S][E]...
+[E]Wah ha ha! Good-bye!
+[-]
+[00]
+!------------------------------!
+Hi [H]!
+[2]Who? The old guy? You mean
+[3]the elder?
+[S][E]OK, but don't tell any of the
+[E]bad guys about this.
+[S][E]He's hiding in the palace past
+[E]the castle. I'll mark the spot
+[E]on your map.
+[06000079]-[-]
+[00]
+!------------------------------!
+Did you meet the old man? If
+[2]all the bad people go away, he
+[3]can come back to the village.
+[-]
+[00]
+!------------------------------!
+You're new here, aren't you?
+[2]Did you come here looking for
+[3]the Power of Gold?
+[S][E]Well, you're too late. It will
+[E]obey only the first person who
+[E]touches it.
+[S][E]The man who last claimed the
+[E]Power of Gold wished for this
+[E]world. It reflects his heart.
+[S][E]Yes, I came here out of greed
+[E]for the Golden Power, and
+[E]look what happened to me...
+[S][E]To restore the Golden Land, a
+[E]person worthy of the Golden
+[E]Power must defeat the man who
+[S][E]created this place...
+[E]Until that time, I am stuck in
+[E]this bizarre shape.
+[S][E]But what a mischievous thing
+[E]to leave lying around...
+[E]The Power of Gold...
+[S][E]Triforce...
+[-]
+[00]
+!------------------------------!
+     -Mysterious Pond-
+[2]Won't you throw something in?
+[3]
+[S][E]What will you do?
+[E]    [>] Throw an item
+[E]       Don't try it
+[05000068][-]
+[00]
+!------------------------------!
+Don't do it!
+[-]
+[00]
+!------------------------------!
+Don't do it!
+[-]
+[00]
+!------------------------------!
+I will give this back to you
+[2]then. Don't drop it again.
+[-]
+[00]
+!------------------------------!
+How many Rupees will you toss?
+[2]    [>] [0600006C][01][0600006C][00] Rupees
+[3]       [0600006C][03][0600006C][02] Rupees
+[05000068][-]
+[00]
+!------------------------------!
+You are an honest person.
+[2]I like you.
+[3]I will give you something
+[S][E]important...
+[E]These are the Silver Arrows.
+[E]To deal the final stroke
+[S][E]to Ganon, you definitely need
+[E]them! I know I don't quite have
+[E]the figure of a fairy...
+[S][E]Ganon's cruel power
+[E]is to blame!
+[E]You must defeat Ganon!
+[-]
+[00]
+!------------------------------!
+[2]   Great luck.
+[-]
+[00]
+!------------------------------!
+[2]   Good luck.
+[-]
+[00]
+!------------------------------!
+[2]   A little luck.
+[-]
+[00]
+!------------------------------!
+[2]   Big trouble.
+[-]
+[00]
+!------------------------------!
+For your reference, today you
+[2]will have
+[-]
+[00]
+!------------------------------!
+You found a Piece of Heart!
+[2]                 [05010052]
+[-]
+[00]
+!------------------------------!
+You found a Piece of Heart!
+[2]                 [05010054]
+[-]
+[00]
+!------------------------------!
+You found a Piece of Heart!
+[2]                 [05010055]
+[-]
+[00]
+!------------------------------!
+You found a Piece of Heart!
+[2]                 [05010057]
+[3]Your heart level increased!
+[-]
+[00]
+!------------------------------!
+You found a Heart Container!
+[2]                 [05010057]
+[3]Your heart level increased!
+[-]
+[00]
+!------------------------------!
+I will soothe your wounds and
+[2]comfort your weariness...
+[3]Close your eyes and relax...
+[-]
+[00]
+!------------------------------!
+Whoa-oh! Tumble tumble...
+[2]Hey! You were turned into
+[3]a bunny...
+[S][E]The terrain in this world looks
+[E]like the terrain in our world,
+[E]but it's just a little different.
+[S][E]And anyone who wanders into
+[E]this land is changed to a shape
+[E]that reflects his true nature.
+[S][E]I'm always changing my mind,
+[E]so I turned into a ball...
+[E]But if you have a ball called
+[S][E]the Moon Pearl, you can keep
+[E]your original shape here.
+[-]
+[00]
+!------------------------------!
+Whoa! Hey! You haven't
+[2]transformed! You're no
+[3]ordinary guy, are you?
+[-]
+[00]
+!------------------------------!
+Hey! What do you want?!
+[2]Do you got something to say
+[3]to me, silly rabbit?!
+[S][E]I came here to get the Golden
+[E]Power, but I can't go back to
+[E]the real world like this!
+[S][E]If I only had the Moon Pearl
+[E]from the Tower of Hera... Then
+[E]I could change back to the
+[S][E]way I was!  I've got good
+[E]reason to be stressed out!
+[E]So back off!  Now scram!
+[-]
+[00]
+!------------------------------!
+WOW! Your shape didn't change!
+[2]You got the Moon Pearl, huh?
+[-]
+[00]
+!------------------------------!
+In such a dangerous world you
+[2]may need many things. Select
+[3]something that you like...
+[-]
+[00]
+!------------------------------!
+Hi, may I help you? You can
+[2]open two chests for 30 Rupees.
+[3]Why don't you play?
+[S][E]What will you do?
+[E]    [>] Play here
+[E]       Maybe next time
+[05000068][-]
+[00]
+!------------------------------!
+Well, come back and play some
+[2]time. I'll be waiting for you.
+[3]Until then, good-bye!
+[-]
+[00]
+!------------------------------!
+Hey kid!
+[2]You can open a chest after
+[3]paying Rupees!
+[-]
+[00]
+!------------------------------!
+You can't open any more
+[2]chests. The game is over.
+[-]
+[00]
+!------------------------------!
+All right, kid.
+[2]Choose well! Good luck!
+[-]
+[00]
+!------------------------------!
+May I help you? Select the
+[2]thing you like (Press the [R]
+[3]Button). Prices as marked!
+[-]
+[00]
+!------------------------------!
+You don't need that item...
+[2]Why not select something else?
+[-]
+[00]
+!------------------------------!
+Thank you very much.
+[2]Whenever you lose your shield,
+[3]come back here again.
+[-]
+[00]
+!------------------------------!
+Thank you very much.
+[2]This is the Medicine of Life.
+[3]It helps you recover your life.
+[-]
+[00]
+!------------------------------!
+Thank you very much.
+[2]These are arrows. You can't
+[3]use them without a Bow.
+[-]
+[00]
+!------------------------------!
+These are bombs.
+[2]Did you know you can pick up
+[3]a bomb you already placed?
+[S][E](Press the [R] Button.)
+[-]
+[00]
+!------------------------------!
+Thank you very much.
+[2]That is a bee. Don't ask me
+[3]what it is used for, either.
+[-]
+[00]
+!------------------------------!
+Thank you very much.
+[2]You can recover one heart.
+[-]
+[00]
+!------------------------------!
+No no no...  I can't sell the
+[2]merchandise because you don't
+[3]have an empty bottle.
+[-]
+[00]
+!------------------------------!
+You can't carry any more
+[2]now, but you may need
+[3]some later!
+[-]
+[00]
+!------------------------------!
+I never imagined a boy like you
+[2]could give me so much trouble.
+[3]It's unbelievable that you
+[S][E]defeated my alter ego, Agahnim
+[E]the Dark Wizard, twice!
+[S][E]But I will never give you the
+[E]Triforce. I will destroy you
+[E]and make my wish to conquer
+[S][E]both Light and Dark Worlds
+[E]come true without delay.
+[-]
+[00]
+!------------------------------!
+You are doing well, lad. But
+[2]can you break through this
+[3]secret technique of Darkness?
+[S][E]En garde!
+[-]
+[00]
+!------------------------------!
+Hey kid, this is a secret hide-
+[2]out for a gang of thieves!
+[3]Don't enter without permission!
+[S][E]By the way, I heard that one
+[E]of our ex-members is staying
+[E]at the entrance to the desert.
+[-]
+[00]
+!------------------------------!
+Yo [H]! This house used
+[2]to be a hideout for a gang of
+[3]thieves.
+[S][E]What was their leader's name...
+[E]Oh yeah, his name was Blind and
+[E]he really hated bright light.
+[-]
+[00]
+!------------------------------!
+[0600007A][02][0600006D][00][0600006B][02]
+Welcome, [H]...
+[2]I am the Essence of the
+[3]Triforce.
+[S][E]... ... ...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]The Triforce will grant the
+[2]wishes in the heart and mind of
+[3]the person who touches it.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]If a person with a good heart
+[2]touches it, it will make his good
+[3]wishes come true...  If an evil-
+[S][E]hearted person touches it, it
+[E]grants his evil wishes.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]The stronger the wish, the
+[2]more powerful the Triforce's
+[3]expression of that wish.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Ganon's wish was to conquer
+[2]the world. That wish changed
+[3]the Golden Land into
+[S][E]the Dark World.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]After building up his power,
+[2]Ganon planned to go on to the
+[3]Light World to fulfill his wish.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]But now that Ganon has been
+[2]destroyed, his Dark World will
+[3]surely vanish.
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]The Triforce is waiting for a
+[2]new master. Its Golden Power is
+[3]in your hands...
+[0600007A][01][S][05000074]                                          
+[2]                                          
+[3]                                          
+[0600007A][02][05000074]Now, touch it and think of
+[2]the wish in your heart.
+[3]...   ...   ...   ...
+[-]
+[00]
+!------------------------------!
+All right! Take it, thief!
+[-]
+[00]
+!------------------------------!
+Whoa... I saw her.
+[2]A beautiful young lady at the
+[3]Waterfall of Wishing in the
+[S][E]hills where the river
+[E]begins...
+[E][H], you should meet her
+[S][E]at least once. I'm sure you will
+[E]like her.
+[-]
+[00]
+!------------------------------!
+Take some Rupees, but don't
+[2]tell anyone I gave them to you.
+[3]Keep it between us, OK?
+[-]
+[00]
+!------------------------------!
+Check out the cave east of
+[2]Lake Hylia. Strange and
+[3]wonderful things live in it...
+[-]
+[00]
+!------------------------------!
+You can earn a lot of Rupees
+[2]by defeating enemies. It's
+[3]the secret of my success...
+[-]
+[00]
+!------------------------------!
+[H], did you know that if
+[2]you destroy frozen enemies
+[3]with the Hammer, you will often
+[S][E]get a Magic Decanter?
+[-]
+[00]
+!------------------------------!
+Tra la la, look for
+[2]Sahasrahla.
+[3]... ... ...
+[-]
+[00]
+!------------------------------!
+Oh yah, you found Sahasrahla!
+[2]... ... ...
+[3]Good job, la la!
+[-]
+[00]
+!------------------------------!
+I'm sorry, but you don't
+[2]seem to have enough Rupees...
+[-]
+[00]
+!------------------------------!
+Cluck cluck...  What?!
+[2]You turned me into a human.
+[3]I can even speak!
+[S][E]Ah-ha! You must be the one who
+[E]is always teasing my friends.
+[E]The Weathervane has seen you
+[S][E]harass them.
+[E]This human shape is most
+[E]inconvenient for me.
+[S][E]Ahhh, I want to be a cucco
+[E]again! Cluck cluck...
+[-]
+[00]
+!------------------------------!
+Pay me 20 Rupees and I'll let
+[2]you open one chest. You can
+[3]keep what is inside.
+[S][E]What will you do?
+[E]    [>]  Open a Chest
+[E]        Escape
+[05000068][-]
+[00]
+!------------------------------!
+All right! Open whichever chest
+[2]you like!
+[-]
+[00]
+!------------------------------!
+Oh, I see... Too bad.
+[2]Drop by again after collecting
+[3]Rupees.
+[-]
+[00]
+!------------------------------!
+For 100 Rupees, I'll let you
+[2]open one chest and keep the
+[3]treasure that is inside.
+[S][E]What will you do?
+[E]    [>]  Open a Chest
+[E]        Escape
+[05000068][-]
+[00]
+!------------------------------!
+Hi, [H]. Sorry about my
+[2]yard, but thanks for coming
+[3]through it to see me.
+[S][E]I'm glad to have someone to
+[E]talk to, so let me tell you an
+[E]interesting story...
+[S][E]There is a lake swimming with
+[E]Zoras at the source of the
+[E]river, but it is hard to find.
+[S][E]Tales say the Zoras' treasure
+[E]can turn people into fish.
+[E]Heh heh! I'd love to see that!
+[-]
+[00]
+!------------------------------!
+I haven't had a chance to trim
+[2]my hedges recently. Thanks
+[3]for visiting anyway...
+[S][E]A while ago, there was a boy in
+[E]this village who could talk to
+[E]animals with his flute.
+[S][E]And they say he met a bird
+[E]that flew him all around the
+[E]world. That must have been
+[S][E]some flute!
+[-]
+[00]
+!------------------------------!
+[0600006D][00][0600007A][00][>]Start From [H]'s House
+[2]  Start From the Sanctuary
+[05000072][-]
+[00]
+!------------------------------!
+[0600006D][00][0600007A][00][>]Start From [H]'s House
+[2]  Start From the Sanctuary
+[3]  Start From The Mountain Cave
+[05000071][-]
+[00]
+!------------------------------!
+[0600007A][00][>] Continue Game
+[2]   Save
+[3]   Sleep
+[05000070][05000071][-]
+[00]
+!------------------------------!
+[0600007A][00]Do you want to save the game?
+[2]    [>] Yes
+[3]       No
+[05000070][05000068][-]
+[00]
+!------------------------------!
+[0600007A][00]The game has been saved.
+[2]    [>] Continue Game
+[3]       Quit
+[05000070][05000068][-]
+[00]
+!------------------------------!
+[0600007A][00]Enter Sleep Mode?
+[2]    [>] No
+[3]       Yes
+[05000070][05000068][-]
+[00]
+!------------------------------!
+[0600007A][00]To exit Sleep Mode, press
+[2]SELECT, the [L] Button and
+[3]the [R] Button simultaneously.
+[-]
+[00]
+!------------------------------!
+[0600006D][00][0600007A][00][>]Start From Saved Place
+[2]  Start From [H]'s House
+[3]  Start From the Sanctuary
+[05000071][-]
+[00]
+!------------------------------!
+[0600006D][00][0600007A][00][>]Start From Saved Place
+[2]  Start On Pyramid
+[05000072][-]
+[00]
+!------------------------------!
+[0600007A][00]Now saving...
+[2]Do not turn the power off.
+[-][00]
+!------------------------------!
+[0600006D][01][0600006B][02][0600007A][00]
+[2]    [>] Continue
+[3]       New Game
+[05000068][-][00]
+!------------------------------!
+Welcome to the treasure field.
+[2]The object is to dig as many
+[3]holes as you can in 30 seconds.
+[S][E]Any treasures you dig up will
+[E]be yours to keep.
+[E]It's only 80 Rupees to play.
+[S][E]What do you say?
+[E]    [>] I want to dig
+[E]       I don't want to dig
+[05000068][-]
+[00]
+!------------------------------!
+Then I will lend you a shovel.
+[2]When you have it in your hand,
+[3]press the [A] Button to
+[S][E]start digging!
+[-]
+[00]
+!------------------------------!
+I see. Then I give up. Save
+[2]some Rupees and come back.
+[-]
+[00]
+!------------------------------!
+OK! Time's up, game over.
+[2]Come back again. Good-bye...
+[-][00]
+!------------------------------!
+Come back again!
+[2]I will be waiting for you.
+[-]
+[00]
+!------------------------------!
+I can't tell you details, but
+[2]it's not a convenient time for
+[3]me now. Come back here again.
+[S][E]Sorry.
+[-]
+[00]
+!------------------------------!
+[0600006B][02][06000077][0C]
+[2]             East Palace
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]
+[2]            Desert Palace
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]
+[2]           Mountain Tower
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]                 Level 1
+[2]              Dark Palace
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]                Level 2
+[2]            Swamp Palace
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]                Level 3
+[2]              Skull Woods
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]                Level 4
+[2]           Thieves' Town
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]                Level 5
+[2]              Ice Palace
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]                Level 6
+[2]             Misery Mire
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]                Level 7
+[2]             Turtle Rock
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]                Level 8
+[2]           Ganon's Tower
+[-][00]
+!------------------------------!
+[0600006B][02][06000077][0C]
+[2]    Palace of the Four Sword
+[-][00]
+!------------------------------!
+Oh, dear... That golden
+[2]bee is our pride.
+[S][E]I can't just give away a rare
+[E]bee like this.
+[-][00]
+!------------------------------!
+Oh, my! You have a rare bee,
+[2]just like ours...
+[3]... ... ...
+[S][E]Maybe it's not quite as rare
+[E]as I thought it was.
+[-]
+[00]
+!------------------------------!
+Thank you very much!
+[2]That golden bee... Isn't
+[3]it a sparkling beauty?
+[-]
+[00]
+!------------------------------!
+Thank you very much!
+[2]That is a fairy.
+[3]Take good care of it!
+[-][00]
+!------------------------------!
+Heh heh! Thanks!
+[2]Actually, only true heroes can
+[3]enter this palace.
+[-]
+[00]
+!------------------------------!
+Heh heh! Thanks! Actually, this
+[2]palace is here precisely for
+[3]heroes like you.
+[S][E]I bet you can get through it.
+[E]...But it will take everything
+[E]you've got!
+[-]
+[00]
+!------------------------------!
+Uhhnn... [H]... I didn't
+[2]want you involved in this...
+[3]I told you not to leave home.
+[S][E]You must rescue Princess
+[E]Zelda...
+[S][E]You are...the princess's...
+[E]... ... ...
+[E]
+[-]
+[00]
+!------------------------------!
+I have no strength left...
+[2]I can't cut the trees
+[3]like the giants.
+[S][E]But I am very good at
+[E]riddles.
+[-]
+[00]
+!------------------------------!
+[H]! Instead of chopping
+[2]down trees, I learned some
+[3]woodcarving techniques!
+[S][E]If you can solve some of my
+[E]riddles, I'll make something
+[E]special for you!
+[S][E]Do you want to try?
+[E]    [>]  I'll try
+[E]        No thanks
+[05000068][-]
+[00]
+!------------------------------!
+I can make some pretty cool
+[2]things...
+[-][00]
+!------------------------------!
+Take this basket. Put
+[2]whatever you think the right
+[3]item is in it and bring it to me.
+[-]
+[00]
+!------------------------------!
+You can get this if you're
+[2]quick with your Bug-Catching
+[3]Net. Now for the riddle!
+[-][00]
+!------------------------------!
+[H]! Did you figure out
+[2]the answer? Well? Where is it?
+[3]Show me what's in your basket!
+[S][E]Hey! You're right!
+[06000079]-[E]Ahhh! I can't believe it!
+[E]Fine. On to the next riddle!
+[-]
+[00]
+!------------------------------!
+[H]! Did you figure out
+[2]the answer? Well? Where is it?
+[3]Show me what's in your basket!
+[S][E]What?! That's right! 
+[06000079]-[E]This time I'll give you the
+[E]carver's statue I made.
+[S][E]I'll send it to your house.
+[E]Now, on to the next riddle!
+[-]
+[00]
+!------------------------------!
+[H]! Did you figure out
+[2]the answer? Well? Where is it?
+[3]Show me what's in your basket!
+[S][E]What?! You're right! Nooo! This
+[06000079]-[E]can't be! I'm no match for you!
+[S][E]I guess I'll teach you my
+[E]family's secret sword
+[E]technique...
+[S][E]Charge up your sword and
+[E]press the [B] Button many
+[E]times.
+[S][E]Then your charge will last
+[E]longer.
+[-][00]
+!------------------------------!
+Awww... I can't think of any
+[2]more riddles...
+[S][E]Would you like to try a
+[E]technique? Charge up your
+[E]sword, then press the
+[S][E][B] Button over and over
+[E]again.
+[-]
+[00]
+!------------------------------!
+[H]! Did you figure out
+[2]the answer? Well? Where is it
+[3]Show me what's in your basket!
+[S][E]Heh heh heh! WRONG!
+[06000079][00][E]I'll empty your basket for you,
+[S][E]so try again.
+[-]
+[00]
+!------------------------------!
+You learned a new sword
+[2]technique! Spin like a tornado
+[3]and cut your enemies down!
+[S][E]But watch your Magic Meter...
+[-][00]
+!------------------------------!
+Cock-a-doodle-doo!
+[2]What is it? Go find it and
+[S][3]catch it with your bug-
+[E]catching net!
+[-]
+[00]
+!------------------------------!
+The scissors by the water...
+[2]What is it?
+[-]
+[00]
+!------------------------------!
+It's shiny and red.
+[2]What is it?
+[-]
+[00]
+!------------------------------!
+It's moist and fresh...
+[2]What is it?
+[-]
+[00]
+!------------------------------!
+BOOOM! Skitter-scatter...
+[2]What is it?
+[-][00]
+!------------------------------!
+Sprinkle and watch it wobble...
+[2]What is it?
+[-]
+[00]
+!------------------------------!
+It munches on nuts...
+[2]What is it?
+[-]
+[00]
+!------------------------------!
+Pull it out, but...too bad!
+[2]What is it?
+[-]
+[00]
+!------------------------------!
+It's red and sweet...
+[2]What is it?
+[-]
+[00]
+!------------------------------!
+The spectacled wanderer...
+[2]What is it?
+[-]
+[00]
+!------------------------------!
+You caught a Cucco! Is this the
+[2]answer to the riddle?
+[S][3]What will you do?
+[E]    [>]  Put it in the basket
+[E]        Release it
+[05000068][-][00]
+!------------------------------!
+You caught a sand crab! Is this
+[2]the answer to the riddle?
+[S][3]What will you do?
+[E]    [>]  Put it in the basket
+[E]        Release it
+[05000068][-][00]
+!------------------------------!
+You netted 20 Rupees! Is this
+[2]the answer to the riddle?
+[S][3]What will you do?
+[E]    [>]  Put it in the basket
+[E]        Release it
+[05000068][-][00]
+!------------------------------!
+You caught a fish! Is this the
+[2]answer to the riddle?
+[S][3]What will you do?
+[E]    [>]  Put it in the basket
+[E]        Release it
+[05000068][-][00]
+!------------------------------!
+You caught an octoballoon! Is
+[2]it the answer to the riddle?
+[S][3]What will you do?
+[E]    [>]  Put it in the basket
+[E]        Release it
+[05000068][-][00]
+!------------------------------!
+You caught a slime! Is this the
+[2]answer to the riddle?
+[S][3]What will you do?
+[E]    [>]  Put it in the basket
+[E]        Release it
+[05000068][-][00]
+!------------------------------!
+You caught a squirrel! Is this
+[2]the answer to the riddle?
+[S][3]What will you do?
+[E]    [>]  Put it in the basket
+[E]        Release it
+[05000068][-][00]
+!------------------------------!
+You got a fake Master Sword!
+[2]Is it the answer to the riddle?
+[S][3]What will you do?
+[E]    [>]  Put it in the basket
+[E]        Release it
+[05000068][-][00]
+!------------------------------!
+You got an apple in your net! Is
+[2]it the answer to the riddle?
+[S][3]What will you do?
+[E]    [>]  Put it in the basket
+[E]        Release it
+[05000068][-][00]
+!------------------------------!
+You caught a cukeman! Is this
+[2]the answer to the riddle?
+[S][3]What will you do?
+[E]    [>]  Put it in the basket
+[E]        Release it
+[05000068][-][00][00][00][00][00]
+!------------------------------!

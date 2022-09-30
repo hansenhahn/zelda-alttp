@@ -1,0 +1,38 @@
+Item
+Arco e flecha
+Bumerangue
+Gancho
+Bomba
+Pó Mágico ---- Cogumelo
+Cetro de Fogo
+Cetro de Gelo
+Medalhão Éter
+Medalhão Bombos
+Medalhão Tremor
+Lamparina
+Martelo mágico
+Ocarina (n usar FLUTE)
+Rede de Insetos
+Livro de Mudora
+Pá
+Cajado de Somaria
+Cajado de Byrna
+Capa Mágica
+Fada
+Frasco
+Inseto
+
+
+Ação
+Falar
+Ler
+Correr
+Puxar
+Erguer
+Nadar
+
+Pingentes
+
+Cristais
+
+Equipamento (Versão de SNES tem um Dungeon Item q n tem no GBA)
