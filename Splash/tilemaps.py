@@ -83,7 +83,7 @@ def maps_generate( raw, bg, tm, codec = 4 ):
 		bg.write( newdc[x] )
 
 	for x in tilesdict:
-		pal = 0x8000  # struct.unpack( '<H', xx.read( 2 ) )[0]	 & 0xF000
+		pal = 0x0000  # struct.unpack( '<H', xx.read( 2 ) )[0]	 & 0xF000
 		if dc.has_key( tilesdict[x] ):
 			tm.write( struct.pack( "<H", ( dc[tilesdict[x]] | pal ) ) )
 		elif dc.has_key( horizontal( tilesdict[x] ) ):

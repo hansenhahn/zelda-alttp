@@ -319,6 +319,9 @@ mov		r3,5h
 .org 0x08143794
 .dw (LogoALttP4SwordsImg - 0x0844dd74) | 0x8f000000
 
+.org 0x081437A0
+.dw (LogoALttP4SwordsTilemap - 0x0844dd74) | 0x8f000000
+
 .org 0x08143980
 .dw (ChooseGameImg - 0x0844dd74 ) | 0x8f000000
 
@@ -515,6 +518,9 @@ LogoALttPSubbitleTm:
 .align
 LogoALttP4SwordsImg:
 .import "..\Imagens Comprimidas\LogoALttP_FourSwords.gba"
+
+LogoALttP4SwordsTilemap:
+.import "..\Imagens Comprimidas\LogoALttP_FourSwords-Tilemap.gba"
 
 .align
 PressStartImg:

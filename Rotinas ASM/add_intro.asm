@@ -370,7 +370,7 @@ SplashBgImg: .import "..\Splash\bg_splash_lz77.gba"
 .align
 SplashTmImg: .import "..\Splash\tm_splash_lz77.gba"
 .align
-SplashPal: .import "..\Splash\splash.pal"
+SplashPal: .import "..\Splash\splash_pal.bin"
 
 .align
 Dummy: .import "..\Splash\dummy_lz77.gba"
