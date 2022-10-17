@@ -323,7 +323,16 @@ mov		r3,5h
 .dw (LogoALttP4SwordsTilemap - 0x0844dd74) | 0x8f000000
 
 .org 0x08143980
-.dw (ChooseGameImg - 0x0844dd74 ) | 0x8f000000
+.dw (ChooseGameAlttpImg - 0x0844dd74 ) | 0x8f000000
+
+.org 0x08143944
+.dw (ChooseGameFs1Img - 0x0844dd74 ) | 0x8f000000
+
+.org 0x08143968
+.dw (ChooseGameFs2Img - 0x0844dd74 ) | 0x8f000000
+
+.org 0x08143974
+.dw (ChooseGameFs3Img - 0x0844dd74 ) | 0x8f000000
 
 .org 0x08143a34
 .dw (ChooserImg - 0x0844dd74) | 0x81000000
@@ -539,8 +548,20 @@ ChooserImg:
 .import "..\Imagens Comprimidas\ChooserOptions.gba"
 
 .align
-ChooseGameImg:
-.import "..\Imagens Comprimidas\ChooseGame.gba"
+ChooseGameAlttpImg:
+.import "..\Imagens Comprimidas\ChooseGameALttP.gba"
+
+.align
+ChooseGameFs1Img:
+.import "..\Imagens Comprimidas\ChooseGameFs1.gba"
+
+.align
+ChooseGameFs2Img:
+.import "..\Imagens Comprimidas\ChooseGameFs2.gba"
+
+.align
+ChooseGameFs3Img:
+.import "..\Imagens Comprimidas\ChooseGameFs3.gba"
 
 .align
 TheEndUS:

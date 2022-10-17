@@ -7,7 +7,7 @@ Map.gba			-> 27DE14 [272]
 LogoALttP.gba		-> 3B37B4 [1197][0812d4a4]
 LogoALttP-Subtitle.gba  -> 3C23D4 [1207][0812d4b4]
 PressStart.gba		-> 3B4920 [1199]
-ChooseGame.gba		-> 4EA5A8 [1225]
+ChooseGameALttP.gba		-> 4EA5A8 [1225]
 ChooseOptions.gba	-> 4EE384 [1239]	
 Buttons.gba		-> 4F40D0 [1255]
 LogoALttP_FourSwords.gba-> 543EB4 [1374][

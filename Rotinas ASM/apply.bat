@@ -11,6 +11,15 @@ copy "..\Imagens Traduzidas\LogoALttP_FourSwords.gba" "..\Imagens Comprimidas\"
 copy "..\Imagens Traduzidas\LogoALttP_FourSwords-Tilemap.gba" "..\Imagens Comprimidas\"
 .\lzss.exe -evn "..\Imagens Comprimidas\LogoALttP_FourSwords-Tilemap.gba"
 
+copy "..\Imagens Traduzidas\ChooseGameFs1.gba" "..\Imagens Comprimidas\"
+.\lzss.exe -evn "..\Imagens Comprimidas\ChooseGameFs1.gba"
+
+copy "..\Imagens Traduzidas\ChooseGameFs2.gba" "..\Imagens Comprimidas\"
+.\lzss.exe -evn "..\Imagens Comprimidas\ChooseGameFs2.gba"
+
+copy "..\Imagens Traduzidas\ChooseGameFs3.gba" "..\Imagens Comprimidas\"
+.\lzss.exe -evn "..\Imagens Comprimidas\ChooseGameFs3.gba"
+
 echo "Aplicando patches ASM..."
 armips add_intro.asm
 armips the_one.asm
