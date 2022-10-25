@@ -361,6 +361,27 @@ mov		r3,5h
 .org 0x08143C44
 .dw (P1P2P3P4TitleImg - 0x0844dd74 ) | 0x81000000
 
+.org 0x0814386C
+.dw (ChooseStageFsImg - 0x0844dd74 ) | 0x81000000
+
+.org 0x081438D8
+.dw (ChambersOfInsightFsImg - 0x0844dd74 ) | 0x81000000
+
+.org 0x081438A8
+.dw (TalusCaveFsImg - 0x0844dd74 ) | 0x81000000
+
+.org 0x081438B4
+.dw (SeaOfTreesFsImg - 0x0844dd74 ) | 0x81000000
+
+.org 0x081438C0
+.dw (VaatisPalaceFsImg - 0x0844dd74 ) | 0x81000000
+
+.org 0x081438CC
+.dw (DeathMountainFsImg - 0x0844dd74 ) | 0x81000000
+
+.org 0x08143B0C
+.dw (P1P2P3P4YouLevelFinishImg - 0x0844dd74 ) | 0x81000000
+
 .org 0x08143a34
 .dw (ChooserImg - 0x0844dd74) | 0x81000000
 
@@ -613,6 +634,34 @@ PleaseWaitFsImg:
 .align
 P1P2P3P4TitleImg:
 .import "..\Imagens Comprimidas\P1P2P3P4Title.gba"
+
+.align
+ChooseStageFsImg:
+.import "..\Imagens Comprimidas\ChooseStageFs.gba"
+
+.align
+ChambersOfInsightFsImg:
+.import "..\Imagens Comprimidas\ChambersOfInsightFs.gba"
+
+.align
+TalusCaveFsImg:
+.import "..\Imagens Comprimidas\TalusCaveFs.gba"
+
+.align
+SeaOfTreesFsImg:
+.import "..\Imagens Comprimidas\SeaOfTreesFs.gba"
+
+.align
+VaatisPalaceFsImg:
+.import "..\Imagens Comprimidas\VaatisPalaceFs.gba"
+
+.align
+DeathMountainFsImg:
+.import "..\Imagens Comprimidas\DeathMountainFs.gba"
+
+.align
+P1P2P3P4YouLevelFinishImg:
+.import "..\Imagens Comprimidas\P1P2P3P4You_LevelFinish.gba"
 
 .align
 TheEndUS:
