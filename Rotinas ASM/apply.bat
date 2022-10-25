@@ -20,6 +20,24 @@ copy "..\Imagens Traduzidas\ChooseGameFs2.gba" "..\Imagens Comprimidas\"
 copy "..\Imagens Traduzidas\ChooseGameFs3.gba" "..\Imagens Comprimidas\"
 .\lzss.exe -evn "..\Imagens Comprimidas\ChooseGameFs3.gba"
 
+copy "..\Imagens Traduzidas\P1P2P3P4Diagram.gba" "..\Imagens Comprimidas\"
+.\lzss.exe -evn "..\Imagens Comprimidas\P1P2P3P4Diagram.gba"
+
+copy "..\Imagens Traduzidas\LogoFs1.gba" "..\Imagens Comprimidas\"
+.\lzss.exe -evn "..\Imagens Comprimidas\LogoFs1.gba"
+
+copy "..\Imagens Traduzidas\LogoFs2.gba" "..\Imagens Comprimidas\"
+.\lzss.exe -evn "..\Imagens Comprimidas\LogoFs2.gba"
+
+copy "..\Imagens Traduzidas\PressStartFS.gba" "..\Imagens Comprimidas\"
+.\lzss.exe -evn "..\Imagens Comprimidas\PressStartFS.gba"
+
+copy "..\Imagens Traduzidas\PleaseWaitFs.gba" "..\Imagens Comprimidas\"
+.\lzss.exe -evn "..\Imagens Comprimidas\PleaseWaitFs.gba"
+
+copy "..\Imagens Traduzidas\P1P2P3P4Title.gba" "..\Imagens Comprimidas\"
+.\lzss.exe -evn "..\Imagens Comprimidas\P1P2P3P4Title.gba"
+
 echo "Aplicando patches ASM..."
 armips add_intro.asm
 armips the_one.asm

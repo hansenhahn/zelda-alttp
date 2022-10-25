@@ -326,13 +326,40 @@ mov		r3,5h
 .dw (ChooseGameAlttpImg - 0x0844dd74 ) | 0x8f000000
 
 .org 0x08143944
-.dw (ChooseGameFs1Img - 0x0844dd74 ) | 0x8f000000
+.dw (ChooseGameFs1Img - 0x0844dd74 ) | 0x87000000
 
 .org 0x08143968
 .dw (ChooseGameFs2Img - 0x0844dd74 ) | 0x8f000000
 
 .org 0x08143974
 .dw (ChooseGameFs3Img - 0x0844dd74 ) | 0x8f000000
+
+.org 0x0814398C
+.dw (P1P2P3P4DiagramImg - 0x0844dd74 ) | 0x81000000
+
+.org 0x08143C2C
+.dw (LogoFs1Img - 0x0844dd74 ) | 0x87000000
+
+;.org 0x08143C80
+;.dw (LogoFs1Img - 0x0844dd74 ) | 0x87000000
+
+.org 0x08143C38
+.dw (LogoFs2Img - 0x0844dd74 ) | 0x8f000000
+
+;.org 0x08143C8C
+;.dw (LogoFs2Img - 0x0844dd74 ) | 0x0f000000
+
+.org 0x08143C50
+.dw (PressStartFsImg - 0x0844dd74 ) | 0x81000000
+
+.org 0x081438F0
+.dw (PleaseWaitFsImg - 0x0844dd74 ) | 0x87000000
+
+.org 0x08143C74
+.dw (PleaseWaitFsImg - 0x0844dd74 ) | 0x07000000
+
+.org 0x08143C44
+.dw (P1P2P3P4TitleImg - 0x0844dd74 ) | 0x81000000
 
 .org 0x08143a34
 .dw (ChooserImg - 0x0844dd74) | 0x81000000
@@ -562,6 +589,30 @@ ChooseGameFs2Img:
 .align
 ChooseGameFs3Img:
 .import "..\Imagens Comprimidas\ChooseGameFs3.gba"
+
+.align
+P1P2P3P4DiagramImg:
+.import "..\Imagens Comprimidas\P1P2P3P4Diagram.gba"
+
+.align
+LogoFs1Img:
+.import "..\Imagens Comprimidas\LogoFs1.gba"
+
+.align
+LogoFs2Img:
+.import "..\Imagens Comprimidas\LogoFs2.gba"
+
+.align
+PressStartFsImg:
+.import "..\Imagens Comprimidas\PressStartFs.gba"
+
+.align
+PleaseWaitFsImg:
+.import "..\Imagens Comprimidas\PleaseWaitFs.gba"
+
+.align
+P1P2P3P4TitleImg:
+.import "..\Imagens Comprimidas\P1P2P3P4Title.gba"
 
 .align
 TheEndUS:
