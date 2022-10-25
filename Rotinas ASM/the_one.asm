@@ -1029,6 +1029,9 @@ TextosPonteiros:
 TextosHUD:
 .import "..\Arquivos Gerais\hud.bin"
 
+.org 0x0849CB68
+.import "..\Imagens Traduzidas\FsYouMap.gba"
+
 ; old_splash
 ; .org 0x08646f24
 ; .dw 0x08645e11
