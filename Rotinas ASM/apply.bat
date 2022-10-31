@@ -60,10 +60,11 @@ copy "..\Imagens Traduzidas\P1P2P3P4You_LevelFinish.gba" "..\Imagens Comprimidas
 .\lzss.exe -evn "..\Imagens Comprimidas\P1P2P3P4You_LevelFinish.gba"
 
 echo "Aplicando patches ASM..."
-armips add_intro.asm
-armips the_one.asm
+.\armips.exe add_intro.asm
+.\armips.exe the_one.asm
 
 del "..\Releases\Zelda ALttP PT-BR Intro.gba"
 
-::echo "Aplicando patch IPS de textos do Four Swords"
-::tools/flips.exe -c -b "..\0776.gba" "Four Swords (TEXTS).gba" "Releases/Four Swords (TEXTS).bps"
+echo "Aplicando patch IPS de textos do Four Swords"
+cd "..\Arquivos Four Swords\"
+.\flips.exe -a -i "Four Swords (TEXTS).ips" "..\Releases\Zelda ALttP PT-BR.gba" "..\Releases\Zelda ALttP PT-BR.gba"

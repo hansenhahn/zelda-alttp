@@ -39,9 +39,9 @@ ldr     r0,[r0]
 mov     r15,r0							; Jump para as funções de cada imagem
 .pool
 jumps:
-.dw goto_splash_fade_in , goto_splash_fade_out ,
-.dw goto_nintendo_fade_in , goto_nintendo_fade_out ,
-.dw goto_zelda_fade_in , goto_zelda_fade_out ,
+.dw goto_splash_fade_in , goto_splash_fade_out
+.dw goto_nintendo_fade_in , goto_nintendo_fade_out
+.dw goto_zelda_fade_in , goto_zelda_fade_out
 .dw goto_go_back
 
 goto_splash_fade_in:
@@ -362,8 +362,8 @@ PointerTbl:
 
 .org RomEnd2
 SplashBgPtr:
-.dw (( SplashBgImg - 0x0844dd74) | 0x87000000) , 0x06000000 , 0x800007cc ,
-.dw	(( SplashTmImg - 0x0844dd74) | 0x07000000) , 0x0600e000 , 0x80000164 ,
+.dw (( SplashBgImg - 0x0844dd74) | 0x87000000) , 0x06000000 , 0x800007cc
+.dw	(( SplashTmImg - 0x0844dd74) | 0x07000000) , 0x0600e000 , 0x80000164
 
 .align
 SplashBgImg: .import "..\Splash\bg_splash_lz77.gba"
