@@ -8,6 +8,9 @@ echo "Atualizando imagens comprimidas..."
 copy "..\Imagens Traduzidas\LogoALttP_FourSwords.gba" "..\Imagens Comprimidas\"
 .\lzss.exe -evn "..\Imagens Comprimidas\LogoALttP_FourSwords.gba"
 
+copy "..\Imagens Traduzidas\NomesItens.gba" "..\Imagens Comprimidas\"
+.\lzss.exe -evn "..\Imagens Comprimidas\NomesItens.gba"
+
 copy "..\Imagens Traduzidas\LogoALttP_FourSwords-Tilemap.gba" "..\Imagens Comprimidas\"
 .\lzss.exe -evn "..\Imagens Comprimidas\LogoALttP_FourSwords-Tilemap.gba"
 
@@ -55,6 +58,9 @@ copy "..\Imagens Traduzidas\VaatisPalaceFs.gba" "..\Imagens Comprimidas\"
 
 copy "..\Imagens Traduzidas\DeathMountainFs.gba" "..\Imagens Comprimidas\"
 .\lzss.exe -evn "..\Imagens Comprimidas\DeathMountainFs.gba"
+
+copy "..\Imagens Traduzidas\ChooseDoorFs.gba" "..\Imagens Comprimidas\"
+.\lzss.exe -evn "..\Imagens Comprimidas\ChooseDoorFs.gba"
 
 copy "..\Imagens Traduzidas\P1P2P3P4You_LevelFinish.gba" "..\Imagens Comprimidas\"
 .\lzss.exe -evn "..\Imagens Comprimidas\P1P2P3P4You_LevelFinish.gba"
