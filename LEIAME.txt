@@ -1,0 +1,105 @@
+
+A Lenda de Zelda: Um Elo com o Passado & Quatro Espadas PT-BR - Revisão 3.1
+
+- Um lançamento dos grupos parceiros Monkey Traduções, Hyrule Legends, Trans-Center, F.U.R.T. e Heroes of Time -
+
+Em "Um Elo com o Passado": Numa noite tempestuosa, Link acorda apenas para ver
+o seu tio se preparando para sair. Ouvindo um chamado em sua mente, ele sai de
+casa para uma aventura eletrizante, em busca do seu destino. Aventure-se com
+Link neste clássico que, há mais de duas décadas, figura sempre dentre os
+melhores jogos já produzidos.
+
+Já em "Quatro Espadas": há muito tempo, um feiticeiro maligno chamado Vaati
+foi derrotado por um jovem que brandia a Espada Quádrupla, capaz de fazer seu
+corpo se dividir em quatro, e nela fora selado. Anos depois, Zelda e Link
+visitam o templo onde jazia a Espada Quádrupla, e subitamente Vaati quebra o
+feitiço, sequestra Zelda e foge ao seu palácio. Link em seguida retira a Espada
+Quádrupla de seu pedestal, e agora dividido em quatro, deve ir numa jornada para
+derrotar Vaati e salvar a princesa. É tido como a primeira experiência
+multiplayer de Zelda até hoje.
+
+=============================================================================
+
+Informações sobre a ROM:
+	Nome Original: Legend of Zelda, The - A Link to the Past & Four Swords (USA, Australia).gba
+	Idioma Original: Inglês
+	Idioma Traduzido: Inglês/Japonês para Português Brasileiro
+	CRC: 8E91CD13
+
+Sobre a Tradução:
+	Textos: 100%
+	Imagens: 100%
+	Revisão: 100%
+	Gráficos: 97%
+
+Equipe:
+	Projeto Original: Aero / DiegoHH
+	Responsável: Ninja / DiegoHH
+	ROMHacking: DiegoHH
+	Programação: DiegoHH
+	Textos: Chapolink, Twero, Hageshii, Twero, Galada, Solid One
+	Imagens: DiegoHH, spyblack, Solid One
+	Revisão: Ninja, Aero
+
+Instruções:
+	A tradução é disponibilizada através de dois arquivos independentes nos formatos IPS e xdelta. Para
+	utilizá-los, é necessário um programa que aplique o patch na ROM original. No caso de IPS, recomendamos
+	o Lunar IPS (https://www.romhacking.net/utilities/240/), e para xdelta, recomendamos
+	xdelta UI (https://www.romhacking.net/utilities/598/).
+
+Notas da Equipe:    
+	- O jogo Four Swords também está traduzido nesta versão
+	- Por conta de ser um jogo antigo, a Nintendo ainda não tinha padronizado suas 
+	  traduções. Assim sendo, vários ajustes foram feitos para ficar próximo do texto
+	  japonês e dos textos contemporâneos.
+	- Vários nomes foram traduzidos e adaptados, especialmente:
+	  * Palaces
+		Na versão japonesa, os calabouços já eram chamados de templos, diferente da 
+		versão americana, chamados de "Palácios". Foi restaurado o sentido original.
+	  * Itens 
+		Vários itens foram traduzidos de acordo com o original japonês, ignorando
+		os invencionismos americanos.
+	- Alguns termos, sobretudo do Four Swords, foram alterados para ficar em sincronia
+	  com traduções seguintes da série. Estes são:
+	  * Telas-título e logos
+		Em todas as telas-título e logos, foi trocado o subtítulo "Four Swords" para
+		"Quatro Espadas", título que julgamos ser mais apropriado, tanto em contexto
+		como em sonoridade.
+ 	  * Espada dos Quatro
+		As ocorrências de "Espada dos Quatro", termo preliminar definidi pelos
+		tradutores lá em 2013, foram trocadas para "Espada Quádrupla", para manter-se
+		em sincronica com a tradução de "The Legend of Zelda - Minish Cap", que também
+		compartilha de boa parte dos elementos da história desse jogo.
+	- No "Four Swords", há um gráfico ainda não editado, que é o da tela de "Game Over".
+	  Ficou provisoriamente sem edição porque, embora esteja descomprimido, ele requer
+	  manuseio de OAMs, o que prevê debugging, algo bem mais difícil para jogos de GBA
+	  exclusivos de cabo link. Por isso os 97% na parte gráfica.
+
+
+Notas das Versões:
+	- 26/01/2023 Revisão 3.1:
+		Corrigido bug de travamento após derrotar o chefe do Bosque Caveira, oriundo da inserção dos textos do Four Swords.
+	- 30/12/2022 Revisão 3:
+		Incluída tradução do Four Swords
+	- 19/11/2013 Revisão 2:
+		Alteração na rotina da splash
+	- 11/11/2013 Revisão 1:
+		Lançamento Inicial - A Lenda de Zelda: Um Elo com o Passado
+
+Contato:	
+	E-mail: contato@zelda.com.br / hansen.hahn@gmail.com
+	Pelo Site: www.zelda.com.br / forum.zelda.com.br
+	Pelo FUT: http://www.romhacking.net.br
+	Canal do Grupo: #Monkeys , irc.unirc.org.br
+
+Licença de Uso:
+	A presente obra encontra-se licenciada sob a licença
+	Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported.
+
+	Para visualizar uma cópia da licença, visite
+	http://creativecommons.org/licenses/by-nc-nd/3.0/ ou mande uma carta para:
+	Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+
+
+								LEIA-ME por Ninja  <danilo.passos@zelda.com.br>
+						              LEIA-ME por DiegoHH  <hansen.hahn@gmail.com> (Original)	

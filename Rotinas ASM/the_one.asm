@@ -1079,6 +1079,7 @@ LivesUsedTxt3:
 EndCharactersTxt:
 .import "..\Imagens Traduzidas\AlfabetoFinal.gba"
 
+.org 0x08700000
 .align
 TextosPonteiros:
 .import "..\Arquivos Gerais\pointers.bin"
